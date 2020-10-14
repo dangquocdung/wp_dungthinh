@@ -1,0 +1,35 @@
+@media (min-width: 1200px) {
+  body.no-sidebar.woocommerce div.product.g5shop__product-gallery-vertical {
+    div.images {
+      padding-left: 0;
+      .flex-control-thumbs {
+        left: auto;
+        right: 100%;
+      }
+    }
+
+    .g5shop__single-product-summary {
+      .g5shop__loop-product-flash {
+        left: 10px;
+      }
+    }
+
+
+  }
+}
+
+.woocommerce div.product div.images {
+  margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+  .woocommerce div.product div.images {
+    margin-bottom: 60px;
+  }
+}
+
+.g5shop__single-product-images {
+  position: relative;
+}
+
+

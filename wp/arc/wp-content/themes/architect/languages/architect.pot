@@ -1,0 +1,1264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Architect v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-12-27 16:25+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ architect
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+# @ architect
+#: 404.php:16
+msgid "Oop! We are sorry, the page not found!"
+msgstr ""
+
+# @ architect
+#: comments.php:31
+msgid "Your Name"
+msgstr ""
+
+# @ architect
+#: comments.php:32
+msgid "Your Email"
+msgstr ""
+
+# @ architect
+#: comments.php:35
+msgid "Your Comments"
+msgstr ""
+
+# @ architect
+#: comments.php:36
+msgid "Comment"
+msgstr ""
+
+# @ architect
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ architect
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ architect
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+# @ architect
+#: content-audio.php:22 content-gallery.php:40 content-image.php:27
+#: content-video.php:18 content.php:19
+msgid "Continue Reading..."
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:17
+msgid "Format Details"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:24
+msgid "Image"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:31
+msgid "Gallery"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:37
+msgid "Quote"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:45
+msgid "Audio"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:54
+msgid "Video"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:66
+msgid "Services Details"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:74
+msgid "Detail"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:75
+msgid "Enter the Detail"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:86
+msgid "Page Details"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:94
+msgid "background Subheader"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:103
+msgid "Portfolio Details"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:111
+msgid "Style Page"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:115
+msgid "Select"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:116
+msgid "Sub header"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:117
+msgid "No subheader"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:118
+msgid "Fullwidth"
+msgstr ""
+
+# @ architect
+#: framework/meta-boxes.php:122
+msgid "Link Out"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:8
+msgid "Meta Box"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:15
+msgid "Redux Framework"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:22
+msgid "Contact Form 7"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:27
+msgid "Newsletter"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:32
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:37
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:43
+msgid "Slider Revolution"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:49
+msgid "Architect Visual Composer"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:55
+msgid "OT Portfolio"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:61
+msgid "OT Services"
+msgstr ""
+
+# @ architect
+#: framework/plugin-requires.php:67
+msgid "OT One Click Import Demo"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:29 framework/sample-config.php:33
+msgid "Architect Options"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:88 framework/sample-config.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:117
+msgid "Miscellaneous Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:122
+msgid "Preload Off?"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:123 framework/sample-config.php:158
+#: framework/sample-config.php:328
+msgid "Look, it's on!"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:130
+msgid "Image Preload"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:132
+msgid "Image Prelaod."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:138
+msgid "background color Preload"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:139
+msgid "Pick the color for the background preload."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:149
+msgid "Color Text Preload"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:150
+msgid "Pick the color for the text preload (default: #212121)."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:157
+msgid "Breadcrumbs Off?"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:166
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:172 framework/sample-config.php:176
+msgid "Favicon"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:175
+msgid "Favicon."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:183
+msgid "Logo Static"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:186 framework/sample-config.php:636
+msgid "logo."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:187 framework/sample-config.php:637
+msgid "Logo"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:194
+msgid "Logo light"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:197
+msgid "logo light, use for header layout 2, 6."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:204
+msgid "Header Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:209
+msgid "Images Option for Header Layout"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:210
+msgid "Use any header layout for all pages."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:234
+msgid "Background color header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:235 framework/sample-config.php:246
+msgid "Pick the color for the header."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:245
+msgid "Background color header Scroll"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:256
+msgid "Text color header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:257
+msgid "Pick the color for the text header."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:267
+msgid "Border color header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:268
+msgid "Pick the border color for the border header."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:278
+msgid "Phone Number"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:279
+msgid "Phone in header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:285
+msgid "Hover Menu Link Effect"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:287
+msgid "No Effect"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:288
+msgid "Line Through Effect"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:289
+msgid "Background Effect"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:290
+msgid "Text Color"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:291
+msgid "Line Expand"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:298
+msgid "Menu Seperator Style"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:300
+msgid "Line Through Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:301
+msgid "Line Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:302
+msgid "Circle Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:303
+msgid "Square Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:304
+msgid "Plus Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:305
+msgid "Strip Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:306
+msgid "No Separator"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:313
+msgid "Info"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:314
+msgid "Info in header. Show in mobile"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:320
+msgid "Top Header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:327
+msgid "Top Bar Off?"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:334
+msgid "background color top header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:335
+msgid "Pick the color for the top header."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:344
+msgid "Text color top header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:345
+msgid "Pick the color for the text top header."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:354
+msgid "Left Top"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:355
+msgid "Left top header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:361
+msgid "Right Top"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:362
+msgid "Right top header"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:370
+msgid "Blog Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:376
+msgid "Background Blog"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:382 framework/sample-config.php:384
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:383
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:390
+msgid "Blog Layout"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:392
+msgid "Right Sidebar"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:393
+msgid "Left Sidebar"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:394
+msgid "Full Width"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:402
+msgid "Social Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:407
+msgid "Facebook Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:414
+msgid "Twitter Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:421
+msgid "Google+ Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:428
+msgid "Github Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:435
+msgid "Youtube Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:442
+msgid "Linkedin Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:449
+msgid "Dribbble Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:456
+msgid "Behance Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:463
+msgid "Instagram Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:470
+msgid "Skype Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:477
+msgid "pinterest Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:484
+msgid "flickr Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:491
+msgid "vimeo Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:498
+msgid "tumblr Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:505
+msgid "soundcloud Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:512
+msgid "lastfm Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:519
+msgid "RSS Url"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:526
+msgid "Email Address"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:534
+msgid "Coming Soon Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:539 framework/sample-config.php:540
+#: framework/sample-config.php:597 framework/sample-config.php:598
+msgid "Background Image"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:541
+msgid "Use For Coming Soon Page"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:547
+msgid "Title Coming Soon"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:553
+msgid "Subtitle Coming Soon"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:559
+msgid "Date Comming Soon"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:567
+msgid "Shop Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:572
+msgid "Top Left header Shop"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:578
+msgid "Title Top head shop page"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:584
+msgid "Banner subheader"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:592
+msgid "404 Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:599
+msgid "Use For 404 Page"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:606
+msgid "Footer Settings"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:611
+msgid "Images Option For Footer Layout"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:612
+msgid "Use any footer layout for all pages."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:633
+msgid "Logo Footer"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:644
+msgid "Pages Select Option"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:645 framework/sample-config.php:653
+msgid "No validation can be done on this field type"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:646 framework/sample-config.php:654
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:652
+msgid "Pages Select Option. Select page footer shop page"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:659
+msgid "Footer Text"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:660
+msgid "Copyright Text"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:668
+msgid "Styling Options"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:673
+msgid "Theme Main Color"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:674
+msgid "Pick the main color for the theme (default: #ebcd1e)."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:681
+msgid "Theme Color 2"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:682
+msgid "Pick the main color for the theme (default: rgba(235, 205, 30, 0.9))."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:693
+msgid "Body Font"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:694
+msgid "Specify the body font properties."
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:707
+msgid "CSS Code"
+msgstr ""
+
+# @ architect
+#: framework/sample-config.php:708
+msgid "Paste your CSS code here."
+msgstr ""
+
+# @ architect
+#. translators: used between list items, there is a space after the comma
+#: framework/template-tags.php:18
+msgid ", "
+msgstr ""
+
+# @ architect
+#: framework/template-tags.php:20
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+# @ architect
+#: framework/template-tags.php:36
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+# @ architect
+#: framework/template-tags.php:183
+msgid "Search"
+msgstr ""
+
+# @ architect
+#: framework/template-tags.php:203
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ architect
+#: framework/template-tags.php:207
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ architect
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+# @ architect
+#: functions.php:64
+msgid "Right Menu"
+msgstr ""
+
+# @ architect
+#: functions.php:65
+msgid "Left Menu"
+msgstr ""
+
+# @ architect
+#: functions.php:66
+msgid "Footer Menu"
+msgstr ""
+
+# @ architect
+#: functions.php:67
+msgid "Shop Menu"
+msgstr ""
+
+# @ architect
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+# @ architect
+#: functions.php:117 functions.php:126 functions.php:135
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ architect
+#: functions.php:124
+msgid "Sidebar custom"
+msgstr ""
+
+# @ architect
+#: functions.php:133
+msgid "Shop Sidebar"
+msgstr ""
+
+# @ architect
+#: functions.php:142
+msgid "Footer One Widget Area"
+msgstr ""
+
+# @ architect
+#: functions.php:144 functions.php:154 functions.php:164 functions.php:174
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+# @ architect
+#: functions.php:152
+msgid "Footer Two Widget Area"
+msgstr ""
+
+# @ architect
+#: functions.php:162
+msgid "Footer Three Widget Area"
+msgstr ""
+
+# @ architect
+#: functions.php:172
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+# @ architect
+#: functions.php:193
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+# @ architect
+#: functions.php:199
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+# @ architect
+#: functions.php:305
+msgid "Setup Full width For Row."
+msgstr ""
+
+# @ architect
+#: functions.php:308
+msgid "No"
+msgstr ""
+
+# @ architect
+#: functions.php:309
+msgid "Yes"
+msgstr ""
+
+# @ architect
+#: functions.php:311
+msgid "Select Full width for row : yes or not, Default: No fullwidth"
+msgstr ""
+
+# @ architect
+#: functions.php:316
+msgid "Overlay."
+msgstr ""
+
+# @ architect
+#: functions.php:319
+msgid "Select yes or no. Default: No"
+msgstr ""
+
+# @ architect
+#: functions.php:324
+msgid "Background color."
+msgstr ""
+
+# @ architect
+#: functions.php:331
+msgid "Select background overlay"
+msgstr ""
+
+# @ architect
+#: functions.php:339
+msgid "Animate Column"
+msgstr ""
+
+# @ architect
+#: functions.php:342
+msgid "None"
+msgstr ""
+
+# @ architect
+#: functions.php:343
+msgid "Fade In"
+msgstr ""
+
+# @ architect
+#: functions.php:344
+msgid "Fade In Up"
+msgstr ""
+
+# @ architect
+#: functions.php:345
+msgid "Fade In Down"
+msgstr ""
+
+# @ architect
+#: functions.php:346
+msgid "Fade In Left"
+msgstr ""
+
+# @ architect
+#: functions.php:347
+msgid "Fade In Right"
+msgstr ""
+
+# @ architect
+#: functions.php:348
+msgid "Slide In Up"
+msgstr ""
+
+# @ architect
+#: functions.php:349
+msgid "Slide In Down"
+msgstr ""
+
+# @ architect
+#: functions.php:350
+msgid "Slide In Left"
+msgstr ""
+
+# @ architect
+#: functions.php:351
+msgid "Slide In Right"
+msgstr ""
+
+# @ architect
+#: functions.php:352
+msgid "Zoom In"
+msgstr ""
+
+# @ architect
+#: functions.php:353
+msgid "Zoom In Down"
+msgstr ""
+
+# @ architect
+#: functions.php:354
+msgid "Zoom In Left"
+msgstr ""
+
+# @ architect
+#: functions.php:355
+msgid "Zoom In Right"
+msgstr ""
+
+# @ architect
+#: functions.php:356
+msgid "Zoom In Up"
+msgstr ""
+
+# @ architect
+#: functions.php:358
+msgid "Select Animate , Default: None"
+msgstr ""
+
+# @ architect
+#: functions.php:364
+msgid "Animate delay number."
+msgstr ""
+
+# @ architect
+#: functions.php:367
+msgid "Example : 0.2, 0.6, 1, etc"
+msgstr ""
+
+# @ architect
+#: header-shop.php:100
+msgid "Sign Out"
+msgstr ""
+
+# @ architect
+#: header-shop.php:104
+msgid "Sign in"
+msgstr ""
+
+# @ architect
+#: header-shop.php:105
+msgid "Register"
+msgstr ""
+
+# @ architect
+#: header-shop.php:123 woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+# @ architect
+#: header-shop.php:123 woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:38
+msgid "Your Email Address"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:39
+msgid "Subscribe"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:46 page-templates/coming-soon.php:205
+msgid "days"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:50 page-templates/coming-soon.php:206
+msgid "hours"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:54 page-templates/coming-soon.php:207
+msgid "minutes"
+msgstr ""
+
+# @ architect
+#: page-templates/coming-soon.php:58 page-templates/coming-soon.php:208
+msgid "seconds"
+msgstr ""
+
+# @ architect
+#: page-templates/template-blog-grid-2col.php:36
+#: page-templates/template-blog-grid-3col.php:36
+#: page-templates/template-blog-grid-4col.php:34
+msgid "All Categories"
+msgstr ""
+
+# @ architect
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:33
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ architect
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ architect
+#: single-portfolio.php:44
+msgid "Prev"
+msgstr ""
+
+# @ architect
+#: single-portfolio.php:46
+msgid "Next"
+msgstr ""
+
+# @ architect
+#: single.php:16
+msgid "Single Blog"
+msgstr ""
+
+# @ architect
+#: single.php:98
+msgid "Tags:"
+msgstr ""
+
+# @ architect
+#: single.php:102
+msgid "SHARE:"
+msgstr ""
+
+# @ architect
+#: single.php:103
+msgid "Facebook,"
+msgstr ""
+
+# @ architect
+#: single.php:104
+msgid "Twitter,"
+msgstr ""
+
+# @ architect
+#: single.php:105
+msgid "Google+"
+msgstr ""
+
+# @ architect
+#: single.php:113
+#, php-format
+msgctxt "Previous post link"
+msgid "<span><i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i> Previous</span> <h4> %title </h4>"
+msgstr ""
+
+# @ architect
+#: single.php:116
+#, php-format
+msgctxt "Next post link"
+msgid "<span> Next <i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i></span><h4> %title</h4>"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:68
+msgid "Product"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:109
+msgid "Total"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:119 woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:138
+msgid "Apply Coupon"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/mini-cart.php:87
+msgid "Subtotal"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/mini-cart.php:92
+msgid "View Cart"
+msgstr ""
+
+# @ architect
+#: woocommerce/cart/mini-cart.php:93
+msgid "Checkout"
+msgstr ""

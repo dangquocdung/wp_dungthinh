@@ -1,0 +1,32 @@
+.g5shop__layout-list {
+  .g5shop__product-item-inner {
+    @extend %border-color;
+  }
+
+
+  .g5shop__product-cat-item-inner {
+    @extend %border-color;
+  }
+
+  .g5core__paging {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .g5shop__layout-list {
+    .g5shop__product-cat-info {
+      margin-left: 20px;
+    }
+  }
+
+  body.has-sidebar {
+    .g5shop__layout-list {
+      .g5shop__product-cat-featured {
+        @include flex(0 0 230px);
+      }
+    }
+
+  }
+}
+

@@ -1,0 +1,15 @@
+/*
+Theme Name:   Foodfarm child theme
+Theme URI:    http://hn.arrowpress.net/foodfarm/
+Description:  Foodfarm - WordPress Theme for Farm, Farmers and Food, Organic.
+Author:       AHT
+Author URI:   http://arrowhitech.com/
+Template:     foodfarm
+Version:      1.0
+License:      
+License URI:  
+Tags:         two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, full-width-template, post-formats, sticky-post, theme-options, translation-ready
+Text Domain:  foodfarm-child
+*/
+
+@import url("../foodfarm/style.css");

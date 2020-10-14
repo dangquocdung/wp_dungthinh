@@ -1,0 +1,10 @@
+.g5core__cate-filer {
+  @extend %border-color;
+  li {
+    &:hover,
+    &:active,
+    &.active {
+      @extend %heading-color;
+    }
+  }
+}

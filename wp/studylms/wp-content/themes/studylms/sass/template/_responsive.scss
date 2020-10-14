@@ -1,0 +1,115 @@
+@media (min-width: 992px){
+	.md-clearfix {
+		clear: both;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.sm-clearfix{
+		clear: both;
+	} 
+}
+@media (max-width:1200px){
+	.edr-course .edr-course__title,
+	.widget-features-box.default .ourservice-heading{
+		font-size: 16px;
+	}
+	.banner-countdown-widget{
+		.times{
+			> div{
+				span{
+					font-size: 30px;
+					padding:7px 10px;
+				}
+			}
+		}
+	}
+	.banner-countdown-widget .title{
+		font-size: 20px;
+	}
+}
+@media (max-width: $screen-phone){
+	.widget-social.right{
+		text-align: inherit;
+	}
+	.apus-footer{
+		.widget-social{
+			margin-top: 15px;
+		}
+	}
+}
+//tabbest(768px)
+@media (max-width: $screen-sm){
+}
+@media (max-width: 767px){
+	.comment-list ul.children > li{
+		@include rtl-padding-left(15px);
+	}
+	// feature
+	.widget-features-box.default .row-item > div{
+		margin-top: ($theme-margin / 2);
+	}
+	// categories course
+	.widget-course-categories.style1 .category-wrapper{
+		margin-bottom: $theme-margin / 2;
+	}
+	.widget-search-form.layout1 .input_search,
+	.widget-search-form.layout1 .inner-select{
+		margin-bottom: $theme-margin / 2;
+	}
+	.banner-countdown-widget {
+		text-align: center;
+		.times{
+			text-align: center;
+		}
+	}
+	.list-events .media > div{
+		margin-bottom: 10px;
+	}
+	.counters {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.counters .title::before{
+		left: 50%;
+		@include translateX(-50%);
+	}
+	.widget-event .widget-description{
+		margin:0;
+	}
+	#back-to-top{
+		bottom: 20px;
+		right: 20px;
+		@include size(40px,40px);
+		line-height: 40px;
+	}
+	// feature
+	.widget-features-box.center .fbox-icon{
+		margin-bottom: 15px;
+	}
+	.widget-features-box.center .feature-box{
+		margin-bottom:20px;
+	}
+	.widget-action.styledefault .action{
+		@include rtl-float-left();
+	}
+	.apus-breadscrumb .bread-title{
+		font-size: 30px;
+	}
+	// blog
+	.post-grid-v3 .entry-title{
+		font-size: 20px;
+	}
+	// contact
+	.widget-contact-info {
+		.row > div{
+			margin-bottom: 15px;
+		}
+	}
+}
+@media (max-width: $screen-desktop){
+   //desktop(992px)
+
+}
+@media (max-width: 991px){
+	
+}

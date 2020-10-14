@@ -1,0 +1,16 @@
+.g5portfolio__listing-wrap {
+  .g5core__cate-filer {
+    @extend %font-primary;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 40px;
+    @include justify-content-center();
+
+    > li + li {
+      margin-left: 25px;
+    }
+  }
+}

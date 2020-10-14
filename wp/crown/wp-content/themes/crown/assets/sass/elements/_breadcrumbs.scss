@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+    .gel-breadcrumbs-left-sm {
+        margin-top: 0 !important;
+        .g5core-breadcrumbs {
+            @include justify-content-start();
+            margin-top: 0 !important;
+        }
+    }
+    .gel-breadcrumbs-right-sm {
+        margin-top: 0 !important;
+        .g5core-breadcrumbs {
+            @include justify-content-end();
+        }
+    }
+}

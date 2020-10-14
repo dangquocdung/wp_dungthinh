@@ -1,0 +1,35 @@
+body.g5portfolio__single-layout-3 {
+  .g5portfolio__single-title {
+    margin-bottom: 50px;
+  }
+}
+
+
+@media (min-width: 992px) {
+  body.g5portfolio__single-layout-3 {
+    .g5portfolio__single-title {
+      margin-top: 30px;
+    }
+
+    .g5portfolio__single-content-wrap,
+    .g5portfolio__single-gallery-wrap {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+
+    .g5portfolio__single-content-wrap {
+      padding-right: 90px;
+    }
+  }
+}
+
+
+@media (max-width: 991px) {
+  body.g5portfolio__single-layout-3{
+    .g5portfolio__single-title {
+      margin-bottom: 30px;
+    }
+  }
+}
+

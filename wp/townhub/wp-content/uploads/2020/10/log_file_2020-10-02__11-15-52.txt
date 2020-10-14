@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: TownHub theme - Full Demo Content (widgets included) were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/townhub
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/townhub/wp-content/themes/townhub/inc/demo_data_files/all-content.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/townhub/wp-content/themes/townhub/inc/demo_data_files/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Dashboard Feed : 
+
+TownHub Banner - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Tìm kiếm - Search - Widget already exists
+Gallery ảnh - Our Instagram - Widget already exists
+TownHub Recent Posts - Popular Posts - Widget already exists
+TownHub Banner - No Title - Widget already exists
+Mây Thẻ - Tags - Widget already exists
+Chuyên mục - Categories - Widget already exists
+TownHub Author - About Athor - Widget already exists
+TownHub Twitter Feed - Twitter Feeds - Widget already exists
+TownHub Instagram - Our Instagram - Widget already exists
+
+Page Sidebar : 
+
+HTML Tùy chỉnh - About Us - Widget already exists
+
+Shop Sidebar : 
+
+Tìm kiếm sản phẩm - Search Products - Widget already exists
+Giỏ hàng - Cart - Widget already exists
+Các danh mục sản phẩm - Product categories - Widget already exists
+Sản phẩm - Products - Widget already exists
+Mây thẻ sản phẩm - Product tags - Widget already exists
+Lọc sản phẩm bởi giá - Filter by price - Widget already exists
+
+Languages Switcher : 
+
+HTML Tùy chỉnh - No Title - Widget already exists
+
+Subscribe Text : 
+
+HTML Tùy chỉnh - No Title - Widget already exists
+
+Subscribe Form : 
+
+HTML Tùy chỉnh - No Title - Widget already exists
+
+About Us : 
+
+Ảnh - No Title - Widget already exists
+HTML Tùy chỉnh - No Title - Widget already exists
+
+Our Last News : 
+
+TownHub Recent Posts - Our Last News - Widget already exists
+
+Our Tweets : 
+
+TownHub Twitter Feed - Our Twitter - Widget already exists
+
+Footer Menu : 
+
+Thanh điều hướng - Footer Menu - Widget already exists
+HTML Tùy chỉnh - Languages - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

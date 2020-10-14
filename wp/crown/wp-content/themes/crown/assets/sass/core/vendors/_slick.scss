@@ -1,0 +1,19 @@
+.slick-dots li.slick-active,
+.slick-dots li:hover,
+.slick-arrow:active,
+.slick-dots li:active,
+.slick-arrow:focus,
+.slick-dots li:focus {
+	@extend %heading-color;
+}
+.slick-dots li {
+	width: 20px;
+}
+
+.slick-dots span:before {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 8px;
+}
+

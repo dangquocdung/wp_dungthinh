@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calliope Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-28 15:50+0700\n"
+"Last-Translator: admin <nhatdt90@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ calliope
+#: archive.php:10 archive.php:12 archive.php:14
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+# @ calliope
+#: archive.php:12
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ calliope
+#: archive.php:14
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ calliope
+#: archive.php:16
+msgid "Archives"
+msgstr ""
+
+# @ calliope
+#: archive.php:32 author.php:23 category.php:23 index.php:23
+#: page-templates/template-blog.php:35
+#: page-templates/template-work-grid.php:107 search.php:23 single.php:74
+#: tag.php:23
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ calliope
+#: author.php:10
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ calliope
+#: category.php:10
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ calliope
+#: comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ calliope
+#: comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ calliope
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+# @ calliope
+#: comments.php:41
+msgid "Name*"
+msgstr ""
+
+# @ calliope
+#: comments.php:42
+msgid "Email*"
+msgstr ""
+
+# @ calliope
+#: comments.php:44
+msgid "Comment*"
+msgstr ""
+
+# @ calliope
+#: comments.php:45
+msgid "Submit Comment"
+msgstr ""
+
+# @ calliope
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+# @ calliope
+#: functions.php:172
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ calliope
+#: functions.php:174
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ calliope
+#: functions.php:202
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ calliope
+#: functions.php:291
+msgid "type to search and hit enter"
+msgstr ""
+
+# @ ananke
+# @ $textdoimain
+#: functions.php:305 taxonomy-categories.php:23
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ calliope
+#: functions.php:307
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:346
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+# @ calliope
+#: functions.php:349 vc_shortcode.php:862
+msgid "No"
+msgstr ""
+
+# @ wpb
+# @ calliope
+#: functions.php:350 vc_shortcode.php:864
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:352
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ calliope
+#: index.php:10
+msgid "Blog"
+msgstr ""
+
+# @ calliope
+#: search.php:10
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ calliope
+#: tag.php:10
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ $textdoimain
+#: taxonomy-categories.php:11
+#, php-format
+msgid "Category Archives Portfolio: %s"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:9
+msgid " Heading"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:29
+msgid "Text"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:42
+msgid "Element Tag"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:47
+msgid "h1"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:49
+msgid "h2"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:51
+msgid "h3"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:53
+msgid "h4"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:55
+msgid "h5"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:57
+msgid "h6"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:59
+msgid "p"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:61
+msgid "div"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:64
+msgid "Section Element Tag"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:77
+msgid "left"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:79
+msgid "right"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:81
+msgid "center"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:83
+msgid "justify"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:87
+msgid "Section Overlay"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:98
+msgid "Font Size"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:115
+msgid "Color"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:132
+msgid "Margin Bottom"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:149
+msgid "Class Extra"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:166
+msgid "Slider Video"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:176
+msgid "Image Banner"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:179
+msgid "Upload image banner if not use video."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:188
+msgid "Add link video .mp4"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:197
+msgid "Add link video .webm"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:206
+msgid "Add link video .ogg"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:212 vc_shortcode.php:244 vc_shortcode.php:268
+msgid "Text Slider"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:215 vc_shortcode.php:247 vc_shortcode.php:271
+msgid "List text slider."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:225
+msgid "Moving Background"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:235
+msgid "Image Moving"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:238
+msgid "Upload image moving."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:258
+msgid "Pattern Slider"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:280
+msgid "Socials"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:290 vc_shortcode.php:550
+msgid "Icon 1"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:293 vc_shortcode.php:311 vc_shortcode.php:329
+#: vc_shortcode.php:347 vc_shortcode.php:365 vc_shortcode.php:553
+#: vc_shortcode.php:571 vc_shortcode.php:589 vc_shortcode.php:607
+msgid "Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:299
+msgid "Link 1"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:302 vc_shortcode.php:320 vc_shortcode.php:338
+#: vc_shortcode.php:356 vc_shortcode.php:374
+msgid "Link Social"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:308 vc_shortcode.php:568
+msgid "Icon 2"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:317
+msgid "Link 2"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:326 vc_shortcode.php:586
+msgid "Icon 3"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:335
+msgid "Link 3"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:344 vc_shortcode.php:604
+msgid "Icon 4"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:353
+msgid "Link 4"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:362
+msgid "Icon 5"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:371
+msgid "Link 5"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:383
+msgid "Buttons Slider"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:393
+msgid "Text Button 1"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:402
+msgid "Link Button 1"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:411
+msgid "Text Button 2"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:420
+msgid "Link Button 2"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:433
+msgid "About History"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:446
+msgid "Image Moving. Recomended: width > 3000px"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:457
+msgid "Gallery Post"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:480
+msgid "Video Post"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:493
+msgid "Ex: http://player.vimeo.com/video/88883554 or http://www.youtube.com/embed/eP2VWNtU5rw"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:504
+msgid "Our Team"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:517
+msgid "Avarta of member, Recomended Size: 420 x 420"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:523
+msgid "Name"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:526
+msgid "Member's Name"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:532
+msgid "Avarta"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:535
+msgid "Member's Avarta."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:541
+msgid "Width(%)"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:544
+msgid "Ex: 25%."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:562 vc_shortcode.php:580 vc_shortcode.php:598
+#: vc_shortcode.php:616
+msgid "Url."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:625
+msgid "Our Skills"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:635
+msgid "Skill Name"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:644
+msgid "Skill Percent"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:647
+msgid "Ex: 90%."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:656
+msgid "Client Logos"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:666
+msgid "Upload Logo"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:680
+msgid "Testimonials"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:690 vc_shortcode.php:713
+msgid "Number Post"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:703
+msgid "Services Slider"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:725
+msgid "Services Box"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:735
+msgid "Image Service"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:738
+msgid "Image Top Services box."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:747
+msgid "Add class icon. Ex: heart. Find here: <a href='http://fontawesome.io/icons/#currency'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:753
+msgid "Title Service"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:756
+msgid "Title display in Services box."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:762
+msgid "Content Service"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:765
+msgid "About your Services."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:771 vc_shortcode.php:840
+msgid "Label Button"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:774
+msgid "Button More."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:780
+msgid "Link Service"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:783
+msgid "Link of service."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:794
+msgid " Pricing Table"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:804
+msgid "Title Pricing"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:807
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:813
+msgid "Price Pricing"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:816
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:822
+msgid "Time Per Price"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:831
+msgid "Detail Pricing"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:834
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:843
+msgid "Text display in button."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:849
+msgid "Link Button"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:852
+msgid "Link in button."
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:858
+msgid "Featured Pricing?"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:876
+msgid "Contact Info"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:886
+msgid "Icon"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:889
+msgid "Add class icon. Ex: heart. Find here: <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:895
+msgid "Infomation"
+msgstr ""
+
+# @ calliope
+#: vc_shortcode.php:898
+msgid "Details info"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:909
+msgid "Google Maps"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:920
+msgid "Latitude"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:929
+msgid "Longitude"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:938
+msgid "Location Image"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:941
+msgid "Upload Location Image."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:947
+msgid "Tootip Location Click"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:956
+msgid "Zoom map number"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:965
+msgid "Height (px)"
+msgstr ""

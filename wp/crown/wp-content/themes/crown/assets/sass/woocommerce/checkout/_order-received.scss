@@ -1,0 +1,16 @@
+.woocommerce-column__title,
+.woocommerce-order-details__title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1.5625rem;
+}
+
+.woocommerce ul.order_details {
+  padding: 0;
+}
+
+.woocommerce table.order_details {
+  tfoot {
+    @extend %heading-color;
+  }
+}

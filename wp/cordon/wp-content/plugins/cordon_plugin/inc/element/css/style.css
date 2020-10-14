@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+[data-siteorigin-parallax] {
+    overflow: hidden;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: scroll;
+}
+}
+.no-para [data-siteorigin-parallax] {
+    overflow: hidden;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: scroll;
+}
+
+.no-para .container{max-width:100%;}

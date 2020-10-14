@@ -1,0 +1,392 @@
+@font-face {
+  font-family: 'ninzio';
+  src:  url('../font/ninzio.eot?ejf562');
+  src:  url('../font/ninzio.eot?ejf562#iefix') format('embedded-opentype'),
+    url('../font/ninzio.ttf?ejf562') format('truetype'),
+    url('../font/ninzio.woff?ejf562') format('woff'),
+    url('../font/ninzio.svg?ejf562#ninzio') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="nz-"], [class*=" nz-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ninzio' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nz-check:before {
+  content: "\e900";
+}
+.nz-play2:before {
+  content: "\e901";
+}
+.nz-plus4:before {
+  content: "\e902";
+}
+.nz-search:before {
+  content: "\e903";
+}
+.nz-pencil1:before {
+  content: "\e904";
+}
+.nz-lock:before {
+  content: "\e905";
+}
+.nz-unlock:before {
+  content: "\e906";
+}
+.nz-menu:before {
+  content: "\e907";
+}
+.nz-play-button:before {
+  content: "\e908";
+}
+.nz-plane:before {
+  content: "\e909";
+}
+.nz-close-button1:before {
+  content: "\e90a";
+}
+.nz-close-button2:before {
+  content: "\e90b";
+}
+.nz-tick2:before {
+  content: "\e90c";
+}
+.nz-certificate:before {
+  content: "\e90d";
+}
+.nz-planet:before {
+  content: "\e90e";
+}
+.nz-expand:before {
+  content: "\e90f";
+}
+.nz-level:before {
+  content: "\e910";
+}
+.nz-envelope1:before {
+  content: "\e911";
+}
+.nz-diamond:before {
+  content: "\e912";
+}
+.nz-arrow-bottom:before {
+  content: "\e913";
+}
+.nz-arrow-top:before {
+  content: "\e914";
+}
+.nz-arrow-left:before {
+  content: "\e915";
+}
+.nz-arrow-right:before {
+  content: "\e916";
+}
+.nz-telephone3:before {
+  content: "\e917";
+}
+.nz-shop5:before {
+  content: "\e918";
+}
+.nz-plus1:before {
+  content: "\e919";
+}
+.nz-flickr:before {
+  content: "\e91a";
+}
+.nz-dribbble:before {
+  content: "\e91b";
+}
+.nz-behance:before {
+  content: "\e91c";
+}
+.nz-android:before {
+  content: "\e91d";
+}
+.nz-apple:before {
+  content: "\e91e";
+}
+.nz-plus2:before {
+  content: "\e91f";
+}
+.nz-tick3:before {
+  content: "\e920";
+}
+.nz-facebook:before {
+  content: "\e921";
+}
+.nz-vimeo:before {
+  content: "\e922";
+}
+.nz-youtube:before {
+  content: "\e923";
+}
+.nz-github:before {
+  content: "\e924";
+}
+.nz-twitter:before {
+  content: "\e925";
+}
+.nz-paypal:before {
+  content: "\e926";
+}
+.nz-black-envelope:before {
+  content: "\e927";
+}
+.nz-soundcloud:before {
+  content: "\e928";
+}
+.nz-share:before {
+  content: "\e929";
+}
+.nz-spotify:before {
+  content: "\e92a";
+}
+.nz-map:before {
+  content: "\e92b";
+}
+.nz-tumblr:before {
+  content: "\e92c";
+}
+.nz-pen:before {
+  content: "\e92d";
+}
+.nz-image:before {
+  content: "\e92e";
+}
+.nz-dollar:before {
+  content: "\e92f";
+}
+.nz-calendar:before {
+  content: "\e930";
+}
+.nz-bookmark:before {
+  content: "\e931";
+}
+.nz-arrow-left2:before {
+  content: "\e932";
+}
+.nz-arrow-right2:before {
+  content: "\e933";
+}
+.nz-arrow-left3:before {
+  content: "\e934";
+}
+.nz-vk:before {
+  content: "\e935";
+}
+.nz-chat2:before {
+  content: "\e936";
+}
+.nz-users:before {
+  content: "\e937";
+}
+.nz-arrow-right4:before {
+  content: "\e938";
+}
+.nz-arrow-left4:before {
+  content: "\e939";
+}
+.nz-question:before {
+  content: "\e93a";
+}
+.nz-star-full:before {
+  content: "\e93b";
+}
+.nz-arrow-left5:before {
+  content: "\e93c";
+}
+.nz-arrow-right5:before {
+  content: "\e93d";
+}
+.nz-next-track:before {
+  content: "\e93e";
+}
+.nz-previous:before {
+  content: "\e93f";
+}
+.nz-pause-button:before {
+  content: "\e940";
+}
+.nz-star-half-empty:before {
+  content: "\e941";
+}
+.nz-star-empty:before {
+  content: "\e942";
+}
+.nz-whatsapp:before {
+  content: "\e943";
+}
+.nz-calendar2:before {
+  content: "\e944";
+}
+.nz-heart-outline:before {
+  content: "\e945";
+}
+.nz-clock:before {
+  content: "\e946";
+}
+.nz-asside:before {
+  content: "\e947";
+}
+.nz-image-gallery:before {
+  content: "\e948";
+}
+.nz-photo:before {
+  content: "\e949";
+}
+.nz-link:before {
+  content: "\e94a";
+}
+.nz-audio:before {
+  content: "\e94b";
+}
+.nz-info:before {
+  content: "\e94c";
+}
+.nz-status:before {
+  content: "\e94d";
+}
+.nz-play:before {
+  content: "\e94e";
+}
+.nz-eye:before {
+  content: "\e94f";
+}
+.nz-viber:before {
+  content: "\e950";
+}
+.nz-play-arrow:before {
+  content: "\e951";
+}
+.nz-heart-full:before {
+  content: "\e952";
+}
+.nz-magnifier1:before {
+  content: "\e953";
+}
+.nz-dropbox:before {
+  content: "\e954";
+}
+.nz-pin:before {
+  content: "\e955";
+}
+.nz-magnifier2:before {
+  content: "\e956";
+}
+.nz-magnifier3:before {
+  content: "\e957";
+}
+.nz-envato:before {
+  content: "\e958";
+}
+.nz-quote:before {
+  content: "\e959";
+}
+.nz-telephone2:before {
+  content: "\e95a";
+}
+.nz-shop1:before {
+  content: "\e95b";
+}
+.nz-user1:before {
+  content: "\e95c";
+}
+.nz-user2:before {
+  content: "\e95d";
+}
+.nz-speech-bubble:before {
+  content: "\e95e";
+}
+.nz-shop2:before {
+  content: "\e95f";
+}
+.nz-snapchat:before {
+  content: "\e960";
+}
+.nz-plus3:before {
+  content: "\e961";
+}
+.nz-minus2:before {
+  content: "\e962";
+}
+.nz-tick1:before {
+  content: "\e963";
+}
+.nz-quora:before {
+  content: "\e964";
+}
+.nz-delicious:before {
+  content: "\e965";
+}
+.nz-digg:before {
+  content: "\e966";
+}
+.nz-rss:before {
+  content: "\e967";
+}
+.nz-menu-button:before {
+  content: "\e968";
+}
+.nz-shop3:before {
+  content: "\e969";
+}
+.nz-shop4:before {
+  content: "\e96a";
+}
+.nz-home1:before {
+  content: "\e96b";
+}
+.nz-home2:before {
+  content: "\e96c";
+}
+.nz-pencil2:before {
+  content: "\e96d";
+}
+.nz-envelope2:before {
+  content: "\e96e";
+}
+.nz-telephone1:before {
+  content: "\e96f";
+}
+.nz-chat22:before {
+  content: "\e970";
+}
+.nz-linkedin:before {
+  content: "\e971";
+}
+.nz-minus1:before {
+  content: "\e972";
+}
+.nz-instagram:before {
+  content: "\e973";
+}
+.nz-pinterest:before {
+  content: "\e974";
+}
+.nz-google-plus:before {
+  content: "\e975";
+}
+.nz-kickstarter:before {
+  content: "\e976";
+}
+.nz-wordpress:before {
+  content: "\e977";
+}
+.nz-shop:before {
+  content: "\e978";
+}
+.nz-external-link:before {
+  content: "\e979";
+}

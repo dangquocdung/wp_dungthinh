@@ -1,0 +1,16 @@
+.g5shop__switch-layout {
+  a {
+    color: inherit;
+    &.active,
+    &:hover,
+    &:focus,
+    &:active {
+      @extend %heading-color;
+    }
+
+    &:first-child {
+      margin-right: 10px;
+    }
+
+  }
+}

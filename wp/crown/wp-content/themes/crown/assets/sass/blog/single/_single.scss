@@ -1,0 +1,10 @@
+@import "title";
+@import "block-title";
+@import "related";
+@import "meta";
+@import "layout/layout";
+
+.g5blog__single {
+  border-bottom: 1px solid;
+  @extend %border-color;
+}

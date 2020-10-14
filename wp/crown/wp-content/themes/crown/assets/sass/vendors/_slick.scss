@@ -1,0 +1,7 @@
+.slick-slider {
+	margin-left: -$grid_gutter_width/2;
+	margin-right: -$grid_gutter_width/2;
+}
+.slick-slide > div {
+	padding: $grid_gutter_width/2;
+}

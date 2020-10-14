@@ -1,0 +1,2043 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Digitech 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-07-30 02:37+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../digitech/404.php:18
+msgid "OOPS! PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../digitech/404.php:19
+msgid ""
+"Sorry but the page you are looking for does not exist, has been removed, "
+"changed or is temporarity unavailable."
+msgstr ""
+
+#: ../digitech/404.php:21
+msgid "Back to home page"
+msgstr ""
+
+#: ../digitech/archive.php:75 ../digitech/author.php:68
+#: ../digitech/category.php:70 ../digitech/functions.php:1136
+#: ../digitech/image.php:62 ../digitech/index.php:78 ../digitech/search.php:66
+#: ../digitech/tag.php:69 ../digitech/theme-config.php:1226
+msgid "Blog"
+msgstr ""
+
+#: ../digitech/author.php:84
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../digitech/author.php:113
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../digitech/category.php:75
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:327
+#: ../digitech/functions.php:1552
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:328
+#: ../digitech/functions.php:1553
+msgid "Install Plugins"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:330
+#: ../digitech/functions.php:1554
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:333
+#: ../digitech/functions.php:1555
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:385
+#: ../digitech/functions.php:1566
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:386
+#: ../digitech/class-tgm-plugin-activation.php:827
+#: ../digitech/class-tgm-plugin-activation.php:2533
+#: ../digitech/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:387
+#: ../digitech/class-tgm-plugin-activation.php:3159
+#: ../digitech/functions.php:1567
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:388
+#: ../digitech/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:934
+#: ../digitech/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2554
+#: ../digitech/woocommerce/myaccount/my-orders.php:42
+#: ../digitech/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3509
+#: ../digitech/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3509
+#: ../digitech/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../digitech/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../digitech/comments.php:31 ../digitech/functions.php:1355
+msgid "1 comment"
+msgstr ""
+
+#: ../digitech/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../digitech/content-audio.php:36 ../digitech/content-audio.php:123
+#: ../digitech/content-gallery.php:29 ../digitech/content-gallery.php:87
+#: ../digitech/content-image.php:29 ../digitech/content-image.php:103
+#: ../digitech/content-video.php:39 ../digitech/content-video.php:135
+#: ../digitech/content.php:25 ../digitech/content.php:91
+msgid "Posted by"
+msgstr ""
+
+#: ../digitech/content-audio.php:41 ../digitech/content-audio.php:130
+#: ../digitech/content-gallery.php:34 ../digitech/content-gallery.php:92
+#: ../digitech/content-image.php:34 ../digitech/content-image.php:108
+#: ../digitech/content-video.php:44 ../digitech/content-video.php:140
+#: ../digitech/content.php:30 ../digitech/content.php:96
+msgid "Posted on"
+msgstr ""
+
+#: ../digitech/content-audio.php:48 ../digitech/content-audio.php:115
+#: ../digitech/content-gallery.php:23 ../digitech/content-gallery.php:81
+#: ../digitech/content-image.php:41 ../digitech/content-video.php:32
+#: ../digitech/content-video.php:127 ../digitech/content.php:36
+#: ../digitech/content.php:84 ../digitech/include/map_shortcodes.php:225
+msgid "Category"
+msgstr ""
+
+#: ../digitech/content-audio.php:103 ../digitech/content-gallery.php:72
+#: ../digitech/content-image.php:91 ../digitech/content-video.php:114
+#: ../digitech/content.php:74
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../digitech/content-audio.php:104 ../digitech/content-gallery.php:73
+#: ../digitech/content-image.php:92 ../digitech/content-page.php:14
+#: ../digitech/content-video.php:115 ../digitech/content.php:75
+#: ../digitech/image.php:130
+msgid "Pages:"
+msgstr ""
+
+#: ../digitech/content-audio.php:153 ../digitech/content-gallery.php:107
+#: ../digitech/content-image.php:115 ../digitech/content-video.php:158
+#: ../digitech/content.php:102
+msgid "Read more"
+msgstr ""
+
+#: ../digitech/content-audio.php:177 ../digitech/content-gallery.php:126
+#: ../digitech/content-image.php:140 ../digitech/content-video.php:181
+#: ../digitech/content.php:121
+msgid "About the Author:"
+msgstr ""
+
+#: ../digitech/content-audio.php:200 ../digitech/content-gallery.php:149
+#: ../digitech/content-image.php:163 ../digitech/content-video.php:204
+#: ../digitech/content.php:144
+msgid "Related posts"
+msgstr ""
+
+#: ../digitech/content-none.php:13 ../digitech/index.php:113
+#: ../digitech/search.php:86
+msgid "Nothing Found"
+msgstr ""
+
+#: ../digitech/content-none.php:17 ../digitech/index.php:117
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../digitech/footer.php:45
+msgid "Copyright"
+msgstr ""
+
+#: ../digitech/footer.php:45
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../digitech/functions.php:200
+msgid "Search... "
+msgstr ""
+
+#: ../digitech/functions.php:220 ../digitech/functions.php:749
+#: ../digitech/functions.php:755 ../digitech/functions.php:759
+msgid "Search product..."
+msgstr ""
+
+#: ../digitech/functions.php:226
+msgid "Search"
+msgstr ""
+
+#: ../digitech/functions.php:375
+msgid "Primary Menu"
+msgstr ""
+
+#: ../digitech/functions.php:376
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../digitech/functions.php:377 ../digitech/include/map_shortcodes.php:27
+#: ../digitech/theme-config.php:493
+msgid "Categories Menu"
+msgstr ""
+
+#: ../digitech/functions.php:765 ../digitech/functions.php:771
+#: ../digitech/functions.php:775
+msgid "Search..."
+msgstr ""
+
+#: ../digitech/functions.php:853
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../digitech/functions.php:855
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../digitech/functions.php:863
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../digitech/functions.php:865
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../digitech/functions.php:873
+msgid "Single product Sidebar"
+msgstr ""
+
+#: ../digitech/functions.php:875
+msgid "Sidebar on product details page"
+msgstr ""
+
+#: ../digitech/functions.php:883
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../digitech/functions.php:885
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../digitech/functions.php:922
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../digitech/functions.php:943
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../digitech/functions.php:947
+msgid "- None -"
+msgstr ""
+
+#: ../digitech/functions.php:962
+msgid "Sidebar position"
+msgstr ""
+
+#: ../digitech/functions.php:966
+msgid "Left"
+msgstr ""
+
+#: ../digitech/functions.php:967
+msgid "Right"
+msgstr ""
+
+#: ../digitech/functions.php:1082 ../digitech/functions.php:1130
+msgid "Home"
+msgstr ""
+
+#: ../digitech/functions.php:1116 ../digitech/functions.php:1117
+#: ../digitech/functions.php:1118
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../digitech/functions.php:1117
+msgid "F Y"
+msgstr ""
+
+#: ../digitech/functions.php:1118
+msgid "Y"
+msgstr ""
+
+#: ../digitech/functions.php:1119
+msgid "Archive for"
+msgstr ""
+
+#: ../digitech/functions.php:1120
+msgid "Blog Archives"
+msgstr ""
+
+#: ../digitech/functions.php:1121
+msgid "Search Results"
+msgstr ""
+
+#: ../digitech/functions.php:1204
+msgid "on"
+msgstr ""
+
+#: ../digitech/functions.php:1235
+msgid "Post navigation"
+msgstr ""
+
+#: ../digitech/functions.php:1236
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../digitech/functions.php:1237
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../digitech/functions.php:1262
+msgid "Previous"
+msgstr ""
+
+#: ../digitech/functions.php:1263
+msgid "Next"
+msgstr ""
+
+#: ../digitech/functions.php:1287
+msgid "Pingback:"
+msgstr ""
+
+#: ../digitech/functions.php:1287
+msgid "(Edit)"
+msgstr ""
+
+#: ../digitech/functions.php:1306
+msgid "Post author"
+msgstr ""
+
+#: ../digitech/functions.php:1311
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../digitech/functions.php:1315
+msgid "Reply"
+msgstr ""
+
+#: ../digitech/functions.php:1319
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../digitech/functions.php:1324 ../digitech/image.php:157
+msgid "Edit"
+msgstr ""
+
+#: ../digitech/functions.php:1351
+msgid "0 comments"
+msgstr ""
+
+#: ../digitech/functions.php:1353 ../digitech/functions.php:1404
+#: ../digitech/include/shortcodes.php:342
+msgid " comments"
+msgstr ""
+
+#: ../digitech/functions.php:1362 ../digitech/functions.php:1366
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../digitech/functions.php:1364
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../digitech/functions.php:1368 ../digitech/functions.php:1411
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../digitech/functions.php:1380
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../digitech/functions.php:1384
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../digitech/functions.php:1402 ../digitech/include/shortcodes.php:340
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../digitech/functions.php:1406 ../digitech/include/shortcodes.php:344
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../digitech/functions.php:1422
+msgid "RoadThemes Helper"
+msgstr ""
+
+#: ../digitech/functions.php:1432
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../digitech/functions.php:1439
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../digitech/functions.php:1446
+msgid "Visual Composer"
+msgstr ""
+
+#: ../digitech/functions.php:1453
+msgid "Templatera"
+msgstr ""
+
+#: ../digitech/functions.php:1460
+msgid "Essential Grid"
+msgstr ""
+
+#: ../digitech/functions.php:1468
+msgid "Redux Framework"
+msgstr ""
+
+#: ../digitech/functions.php:1475
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../digitech/functions.php:1480
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../digitech/functions.php:1485
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../digitech/functions.php:1490
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../digitech/functions.php:1495 ../digitech/include/map_shortcodes.php:166
+#: ../digitech/theme-config.php:1309
+msgid "Testimonials"
+msgstr ""
+
+#: ../digitech/functions.php:1500
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../digitech/functions.php:1505
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../digitech/functions.php:1510
+msgid "WooCommerce Menu Extension"
+msgstr ""
+
+#: ../digitech/functions.php:1515
+msgid "WooCommerce"
+msgstr ""
+
+#: ../digitech/functions.php:1520
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../digitech/functions.php:1525
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../digitech/functions.php:1530
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../digitech/functions.php:1568
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../digitech/header.php:96 ../digitech/include/shortcodes.php:56
+msgid "ALL CATEGORIES"
+msgstr ""
+
+#: ../digitech/header.php:101 ../digitech/include/shortcodes.php:61
+msgid "More Categories"
+msgstr ""
+
+#: ../digitech/header.php:102 ../digitech/include/shortcodes.php:62
+msgid "Close Menu"
+msgstr ""
+
+#: ../digitech/image.php:146
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel="
+"\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../digitech/image.php:167
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../digitech/image.php:168
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:9
+msgid "Main Menu"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:12
+#: ../digitech/include/map_shortcodes.php:30
+#: ../digitech/include/map_shortcodes.php:40
+#: ../digitech/include/map_shortcodes.php:50
+#: ../digitech/include/map_shortcodes.php:60
+#: ../digitech/include/map_shortcodes.php:70
+#: ../digitech/include/map_shortcodes.php:80
+#: ../digitech/include/map_shortcodes.php:111
+#: ../digitech/include/map_shortcodes.php:169
+#: ../digitech/include/map_shortcodes.php:238
+msgid "Theme"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:18
+msgid "Upload sticky logo image"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:37 ../digitech/theme-config.php:629
+#: ../digitech/theme-config.php:635
+msgid "Social Icons"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:47
+msgid "Mini Cart"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:57
+msgid "Product Search (No dropdown)"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:67
+msgid "Product Search (Dropdown)"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:77 ../digitech/theme-config.php:946
+msgid "Brand Logos"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:86
+#: ../digitech/include/map_shortcodes.php:144
+msgid "Number of columns"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:88
+msgid "6"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:94
+#: ../digitech/include/map_shortcodes.php:152
+msgid "Number of rows"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:108
+msgid "Latest posts"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:117
+msgid "Number of posts"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:119
+#: ../digitech/include/map_shortcodes.php:177
+msgid "10"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:125
+msgid "Image scale"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:136
+msgid "Excerpt length"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:138
+msgid "20"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:146
+msgid "2"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:175
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:183
+msgid "Display Author"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:194
+msgid "Display Avatar"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:205
+msgid "Avatar image size"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:208
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:214
+msgid "Display URL"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:227
+msgid "0"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:228
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:235
+msgid "Counter"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:244
+msgid "Image icon"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:247
+msgid "Upload icon image"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:253
+msgid "Number"
+msgstr ""
+
+#: ../digitech/include/map_shortcodes.php:261
+msgid "Text"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:8
+msgid "Roadthemes Widgets"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:128
+msgid "says"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:169
+msgid "Title:"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:173
+msgid "Amount:"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:177
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:181
+msgid "Widget Type:"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:183
+msgid "Recent Posts"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:184
+msgid "Popular Posts"
+msgstr ""
+
+#: ../digitech/include/roadthemeswidgets.php:185
+msgid "Recent Comments"
+msgstr ""
+
+#: ../digitech/include/shortcodes.php:134
+msgid "All Categories"
+msgstr ""
+
+#: ../digitech/include/shortcodes.php:374
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../digitech/include/shortcodes.php:374
+msgid "Posted by "
+msgstr ""
+
+#: ../digitech/include/wooajax.php:111
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../digitech/include/wooajax.php:129
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../digitech/include/wooajax.php:150
+msgid "View Cart"
+msgstr ""
+
+#: ../digitech/index.php:102
+msgid "No posts to display"
+msgstr ""
+
+#: ../digitech/index.php:106
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../digitech/search.php:72
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../digitech/search.php:90
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../digitech/tag.php:74
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../digitech/theme-config.php:97
+msgid "Section via hook"
+msgstr ""
+
+#: ../digitech/theme-config.php:98
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../digitech/theme-config.php:148
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../digitech/theme-config.php:165
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../digitech/theme-config.php:166
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../digitech/theme-config.php:167
+msgid "Tags"
+msgstr ""
+
+#: ../digitech/theme-config.php:172
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../digitech/theme-config.php:172
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../digitech/theme-config.php:188
+msgid "General"
+msgstr ""
+
+#: ../digitech/theme-config.php:189
+msgid "General theme options"
+msgstr ""
+
+#: ../digitech/theme-config.php:196
+msgid "Body background"
+msgstr ""
+
+#: ../digitech/theme-config.php:197
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:204
+msgid "Page content background"
+msgstr ""
+
+#: ../digitech/theme-config.php:205
+msgid "Select background for page content (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:211
+msgid "Border Option"
+msgstr ""
+
+#: ../digitech/theme-config.php:212
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../digitech/theme-config.php:218
+msgid "Back To Top"
+msgstr ""
+
+#: ../digitech/theme-config.php:219
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:225
+msgid "Row space"
+msgstr ""
+
+#: ../digitech/theme-config.php:226
+msgid "Space between row, default value: 50px"
+msgstr ""
+
+#: ../digitech/theme-config.php:234
+msgid "Colors"
+msgstr ""
+
+#: ../digitech/theme-config.php:235
+msgid "Color options"
+msgstr ""
+
+#: ../digitech/theme-config.php:241
+msgid "Primary Color"
+msgstr ""
+
+#: ../digitech/theme-config.php:242
+msgid "Pick a color for primary color (default: #2e6ed5)."
+msgstr ""
+
+#: ../digitech/theme-config.php:252
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../digitech/theme-config.php:253
+msgid "Pick a color for bg sale label (default: #f26522)."
+msgstr ""
+
+#: ../digitech/theme-config.php:263
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../digitech/theme-config.php:264
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:274
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../digitech/theme-config.php:275
+msgid "Pick a color for star of rating (default: #f9ba48)."
+msgstr ""
+
+#: ../digitech/theme-config.php:284
+msgid "Link Color"
+msgstr ""
+
+#: ../digitech/theme-config.php:285
+msgid "Pick a color for link (default: #a43d21)."
+msgstr ""
+
+#: ../digitech/theme-config.php:296
+msgid "Text selected background"
+msgstr ""
+
+#: ../digitech/theme-config.php:297
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../digitech/theme-config.php:305
+msgid "Text selected color"
+msgstr ""
+
+#: ../digitech/theme-config.php:306
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:335
+msgid "Header"
+msgstr ""
+
+#: ../digitech/theme-config.php:336
+msgid "Header options"
+msgstr ""
+
+#: ../digitech/theme-config.php:343
+msgid "Header Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:345 ../digitech/theme-config.php:588
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:354
+msgid "Header background"
+msgstr ""
+
+#: ../digitech/theme-config.php:355 ../digitech/theme-config.php:598
+#: ../digitech/theme-config.php:1354
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../digitech/theme-config.php:362
+msgid "Header text color"
+msgstr ""
+
+#: ../digitech/theme-config.php:363
+msgid "Pick a color for header color (default: #363f4d)."
+msgstr ""
+
+#: ../digitech/theme-config.php:371
+msgid "Header link color"
+msgstr ""
+
+#: ../digitech/theme-config.php:372
+msgid "Pick a color for header link color (default: #363f4d)."
+msgstr ""
+
+#: ../digitech/theme-config.php:384
+msgid "Dropdown menu background"
+msgstr ""
+
+#: ../digitech/theme-config.php:385
+msgid "Pick a color for dropdown menu background (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:395
+msgid "Sticky header"
+msgstr ""
+
+#: ../digitech/theme-config.php:401
+msgid "Use sticky header"
+msgstr ""
+
+#: ../digitech/theme-config.php:407
+msgid "Header sticky background"
+msgstr ""
+
+#: ../digitech/theme-config.php:437
+msgid "Top Bar"
+msgstr ""
+
+#: ../digitech/theme-config.php:445
+msgid "Top bar text color"
+msgstr ""
+
+#: ../digitech/theme-config.php:446
+msgid "Pick a color for top bar text color (default: #363f4d)."
+msgstr ""
+
+#: ../digitech/theme-config.php:455
+msgid "Top bar link color"
+msgstr ""
+
+#: ../digitech/theme-config.php:456
+msgid "Pick a color for top bar link color (default: #363f4d)."
+msgstr ""
+
+#: ../digitech/theme-config.php:469
+msgid "Menu"
+msgstr ""
+
+#: ../digitech/theme-config.php:475
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../digitech/theme-config.php:476
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../digitech/theme-config.php:483
+msgid "Submenu background"
+msgstr ""
+
+#: ../digitech/theme-config.php:484
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:499
+msgid "Category menu background"
+msgstr ""
+
+#: ../digitech/theme-config.php:500
+msgid "Pick a color for category menu background (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:509
+msgid "Sub category menu background"
+msgstr ""
+
+#: ../digitech/theme-config.php:510
+msgid "Pick a color for category sub menu background (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:518
+msgid "Category menu label"
+msgstr ""
+
+#: ../digitech/theme-config.php:519
+msgid "The label for category menu"
+msgstr ""
+
+#: ../digitech/theme-config.php:525
+msgid "Number of items"
+msgstr ""
+
+#: ../digitech/theme-config.php:526
+msgid "Number of menu items level 1 to show, default value: 9"
+msgstr ""
+
+#: ../digitech/theme-config.php:536
+msgid "More items label"
+msgstr ""
+
+#: ../digitech/theme-config.php:537
+msgid "The label for more items button"
+msgstr ""
+
+#: ../digitech/theme-config.php:543
+msgid "Less items label"
+msgstr ""
+
+#: ../digitech/theme-config.php:544
+msgid "The label for less items button"
+msgstr ""
+
+#: ../digitech/theme-config.php:550
+msgid "Home Category Menu"
+msgstr ""
+
+#: ../digitech/theme-config.php:551
+msgid "Always show category menu on home page"
+msgstr ""
+
+#: ../digitech/theme-config.php:578
+msgid "Footer"
+msgstr ""
+
+#: ../digitech/theme-config.php:579
+msgid "Footer options"
+msgstr ""
+
+#: ../digitech/theme-config.php:586
+msgid "Footer Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:597
+msgid "Footer background"
+msgstr ""
+
+#: ../digitech/theme-config.php:605
+msgid "Footer text color"
+msgstr ""
+
+#: ../digitech/theme-config.php:606
+msgid "Pick a color for footer color (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:615
+msgid "Footer link color"
+msgstr ""
+
+#: ../digitech/theme-config.php:616
+msgid "Pick a color for footer link color (default: #ffffff)."
+msgstr ""
+
+#: ../digitech/theme-config.php:636
+msgid "Enter social links"
+msgstr ""
+
+#: ../digitech/theme-config.php:637
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../digitech/theme-config.php:673
+msgid "Fonts"
+msgstr ""
+
+#: ../digitech/theme-config.php:674
+msgid "Fonts options"
+msgstr ""
+
+#: ../digitech/theme-config.php:681
+msgid "Body font"
+msgstr ""
+
+#: ../digitech/theme-config.php:698
+msgid "Main body font."
+msgstr ""
+
+#: ../digitech/theme-config.php:711
+msgid "Heading font"
+msgstr ""
+
+#: ../digitech/theme-config.php:728
+msgid "Heading font."
+msgstr ""
+
+#: ../digitech/theme-config.php:739
+msgid "Menu font"
+msgstr ""
+
+#: ../digitech/theme-config.php:756
+msgid "Menu font."
+msgstr ""
+
+#: ../digitech/theme-config.php:768
+msgid "Sub menu font"
+msgstr ""
+
+#: ../digitech/theme-config.php:785
+msgid "sub menu font."
+msgstr ""
+
+#: ../digitech/theme-config.php:797
+msgid "Dropdown menu font"
+msgstr ""
+
+#: ../digitech/theme-config.php:814
+msgid "Dropdown menu font."
+msgstr ""
+
+#: ../digitech/theme-config.php:826
+msgid "Category menu font"
+msgstr ""
+
+#: ../digitech/theme-config.php:843
+msgid "Category menu font."
+msgstr ""
+
+#: ../digitech/theme-config.php:855
+msgid "Category sub menu font"
+msgstr ""
+
+#: ../digitech/theme-config.php:872
+msgid "Category sub menu font."
+msgstr ""
+
+#: ../digitech/theme-config.php:884
+msgid "Price font"
+msgstr ""
+
+#: ../digitech/theme-config.php:901
+msgid "Price font."
+msgstr ""
+
+#: ../digitech/theme-config.php:915
+msgid "Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:916
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../digitech/theme-config.php:923
+msgid "Page Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:933
+msgid "Box layout width"
+msgstr ""
+
+#: ../digitech/theme-config.php:934
+msgid "Box layout width in pixels, default value: 1230"
+msgstr ""
+
+#: ../digitech/theme-config.php:947
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../digitech/theme-config.php:953 ../digitech/theme-config.php:1316
+msgid "Auto scroll"
+msgstr ""
+
+#: ../digitech/theme-config.php:959
+msgid "Scroll amount"
+msgstr ""
+
+#: ../digitech/theme-config.php:960
+msgid "Number of logos to scroll one time, default value: 2"
+msgstr ""
+
+#: ../digitech/theme-config.php:970 ../digitech/theme-config.php:1286
+#: ../digitech/theme-config.php:1322
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../digitech/theme-config.php:971 ../digitech/theme-config.php:1287
+#: ../digitech/theme-config.php:1323
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../digitech/theme-config.php:981 ../digitech/theme-config.php:1297
+#: ../digitech/theme-config.php:1333
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../digitech/theme-config.php:982 ../digitech/theme-config.php:1298
+#: ../digitech/theme-config.php:1334
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../digitech/theme-config.php:992
+msgid "Brand carousel in inner pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:993
+msgid "Show brand carousel in inner pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:999
+msgid "Logos"
+msgstr ""
+
+#: ../digitech/theme-config.php:1000
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../digitech/theme-config.php:1002
+#: ../digitech/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../digitech/theme-config.php:1003
+msgid "Description"
+msgstr ""
+
+#: ../digitech/theme-config.php:1004
+msgid "Link"
+msgstr ""
+
+#: ../digitech/theme-config.php:1012
+msgid "Sidebar"
+msgstr ""
+
+#: ../digitech/theme-config.php:1013
+msgid "Sidebar options"
+msgstr ""
+
+#: ../digitech/theme-config.php:1020
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../digitech/theme-config.php:1021
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1030
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: ../digitech/theme-config.php:1031
+msgid "Sidebar on single product page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1040
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../digitech/theme-config.php:1041
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:1050
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../digitech/theme-config.php:1051
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:1060
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../digitech/theme-config.php:1061
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../digitech/theme-config.php:1062
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../digitech/theme-config.php:1069
+#: ../digitech/woocommerce/checkout/review-order.php:26
+msgid "Product"
+msgstr ""
+
+#: ../digitech/theme-config.php:1070
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../digitech/theme-config.php:1076
+msgid "Banner image in shop pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:1079 ../digitech/theme-config.php:1151
+msgid "Upload image here."
+msgstr ""
+
+#: ../digitech/theme-config.php:1084
+msgid "Shop Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:1094
+msgid "Shop default view"
+msgstr ""
+
+#: ../digitech/theme-config.php:1104
+msgid "Products per page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1105
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1115
+msgid "Product columns"
+msgstr ""
+
+#: ../digitech/theme-config.php:1116
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1117 ../digitech/theme-config.php:1129
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../digitech/theme-config.php:1127
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../digitech/theme-config.php:1128
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1142
+msgid "Product page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1148
+msgid "Banner image for single product pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:1156 ../digitech/theme-config.php:1178
+msgid "Related product title"
+msgstr ""
+
+#: ../digitech/theme-config.php:1162
+msgid "Number of related products"
+msgstr ""
+
+#: ../digitech/theme-config.php:1172
+msgid "Product share title"
+msgstr ""
+
+#: ../digitech/theme-config.php:1184
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../digitech/theme-config.php:1185
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../digitech/theme-config.php:1191
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../digitech/theme-config.php:1192
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../digitech/theme-config.php:1199 ../digitech/theme-config.php:1218
+#: ../digitech/woocommerce/content-product-archive.php:83
+#: ../digitech/woocommerce/content-product-archive.php:163
+#: ../digitech/woocommerce/content-product.php:80
+#: ../digitech/woocommerce/content-product.php:159
+msgid "Quick View"
+msgstr ""
+
+#: ../digitech/theme-config.php:1205
+msgid "View details text"
+msgstr ""
+
+#: ../digitech/theme-config.php:1211
+msgid "View all features text"
+msgstr ""
+
+#: ../digitech/theme-config.php:1212
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../digitech/theme-config.php:1219
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../digitech/theme-config.php:1227
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../digitech/theme-config.php:1233
+msgid "Blog header text"
+msgstr ""
+
+#: ../digitech/theme-config.php:1239
+msgid "Blog Layout"
+msgstr ""
+
+#: ../digitech/theme-config.php:1251
+msgid "Read more text"
+msgstr ""
+
+#: ../digitech/theme-config.php:1257
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1267
+msgid "Blog share title"
+msgstr ""
+
+#: ../digitech/theme-config.php:1274
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../digitech/theme-config.php:1280
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../digitech/theme-config.php:1310
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../digitech/theme-config.php:1345
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../digitech/theme-config.php:1346
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../digitech/theme-config.php:1353
+msgid "Error 404 background"
+msgstr ""
+
+#: ../digitech/theme-config.php:1362
+msgid "Less Compiler"
+msgstr ""
+
+#: ../digitech/theme-config.php:1363
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../digitech/theme-config.php:1369
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../digitech/theme-config.php:1376
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../digitech/theme-config.php:1377
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../digitech/theme-config.php:1378
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../digitech/theme-config.php:1382
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../digitech/theme-config.php:1387
+msgid "Import / Export"
+msgstr ""
+
+#: ../digitech/theme-config.php:1388
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../digitech/theme-config.php:1403
+msgid "Theme Information"
+msgstr ""
+
+#: ../digitech/theme-config.php:1419
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../digitech/theme-config.php:1420 ../digitech/theme-config.php:1426
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../digitech/theme-config.php:1425
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../digitech/theme-config.php:1430
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../digitech/theme-config.php:1450 ../digitech/theme-config.php:1451
+msgid "Theme Options"
+msgstr ""
+
+#: ../digitech/woocommerce/archive-product.php:103
+msgid "All"
+msgstr ""
+
+#: ../digitech/woocommerce/archive-product.php:133
+msgid "View on"
+msgstr ""
+
+#: ../digitech/woocommerce/archive-product.php:134
+msgid "Grid"
+msgstr ""
+
+#: ../digitech/woocommerce/archive-product.php:135
+msgid "List"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/cross-sells.php:52
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/mini-cart.php:34
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/mini-cart.php:36
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/mini-cart.php:67
+msgid "Remove this item"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/mini-cart.php:92
+msgid "Subtotal"
+msgstr ""
+
+#: ../digitech/woocommerce/cart/mini-cart.php:100
+msgid "No products in the cart."
+msgstr ""
+
+#: ../digitech/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../digitech/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../digitech/woocommerce/checkout/review-order.php:27
+#: ../digitech/woocommerce/myaccount/my-orders.php:43
+#: ../digitech/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../digitech/woocommerce/checkout/review-order.php:59
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../digitech/woocommerce/checkout/review-order.php:106
+msgid "Order Total"
+msgstr ""
+
+#: ../digitech/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../digitech/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../digitech/woocommerce/class-wc-widget-cart.php:29
+#: ../digitech/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../digitech/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../digitech/woocommerce/content-product-archive.php:97
+msgid "Countdown Timer"
+msgstr ""
+
+#: ../digitech/woocommerce/content-product_cat_.php:69
+msgid "Browse Category"
+msgstr ""
+
+#: ../digitech/woocommerce/loop/orderby.php:26
+msgid "Sort By :"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:41
+#: ../digitech/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../digitech/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/related.php:31
+msgid "Related Products"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../digitech/woocommerce/single-product/up-sells.php:31
+msgid "Upsell Products"
+msgstr ""

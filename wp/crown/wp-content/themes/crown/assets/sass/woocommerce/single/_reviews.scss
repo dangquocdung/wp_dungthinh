@@ -1,0 +1,11 @@
+.woocommerce #reviews {
+  #comments {
+    ol.commentlist {
+      li {
+        .comment-text {
+          @extend %border-color;
+        }
+      }
+    }
+  }
+}

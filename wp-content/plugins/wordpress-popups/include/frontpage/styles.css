@@ -1,0 +1,202 @@
+/**
+ *	smartPopup
+ *	author: Dinca Andrei & Alexandra Ipate
+**/
+
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700&display=swap');
+::selection {
+  color: #dadada;
+}
+
+.smartPopup {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -222px 0 0 -207px;
+	z-index:100002;
+	display: none;
+	background-color: #fff;
+	border: 1px solid #f1f1f1;
+	padding: 15px;
+}
+#smartPopupfade {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0px;
+    left: 0px;
+	z-index:100001;
+	display: none;
+}
+
+a.smartPopup-close {
+	background-image: url('images/close_btn.png');
+	background-repeat: no-repeat;
+	background-position: top left;
+	display: block;
+	width: 40px;
+	height: 40px;
+	top: -15px;
+	right: -15px;
+	position: absolute;
+  z-index:99;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+  z-index: 9999;
+}
+a.smartPopup-close:hover {
+	opacity: .9;
+}
+
+#pietimerholder {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	z-index:100004;
+	text-align: center;
+	width: 60px;
+	height: 80px;
+}
+
+
+.smartPopup.smartPopupSlide {
+  position: fixed;
+  max-width: 350px;
+  height: 225px;
+  background: #fff;
+  border: 1px solid #fafafa;
+  top: auto;
+  left: auto;
+  bottom: 30px;
+  margin-left: 30px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+  border-radius: 20px;
+  -webkit-box-shadow: 1px 1px 24px 6px rgba(0,0,0,0.1);
+  -moz-box-shadow: 1px 1px 24px 6px rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 24px 6px rgba(0,0,0,0.1);
+}
+
+.smartPopup.smartPopupSlide:after {
+  content:'';
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: block;
+  background-image: url('images/bell.jpg');
+  background-repeat: no-repeat;
+  background-position: center 20%;
+}
+
+.smartPopup.smartPopupSlide #new span {
+  background: #fff;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #21d285;
+  font-weight: bold;
+  position: absolute;
+  padding: 10px 30px;
+  font-size: 12px;
+  font-weight: bold;
+  top: 30px;
+  left: 30px;
+  font-family: 'Arimo';
+  box-sizing: border-box;
+  border: 2px;
+}
+
+.smartPopup.smartPopupSlide #new span:before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    z-index: -1;
+    margin: -2px; /* !importanté */
+    border-radius: inherit; /* !importanté */
+    background: linear-gradient(35deg, rgba(33,209,133,1) 0%, rgba(0,212,255,1) 100%);
+  }
+
+.smartPopup.smartPopupSlide h2 {
+  font-size: 16px;
+  color: #505050;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+  padding: 120px 40px 30px 40px;
+  font-family: 'Arimo';
+}
+
+.smartPopup.smartPopupSlide a.button {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  font-size: 14px;
+  background: rgb(33,209,133);
+  background: linear-gradient(35deg, rgba(33,209,133,1) 0%, rgba(0,212,255,1) 100%);
+  border-radius: 50px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+  color: #fff;
+  padding: 8px 10px;
+  display: block;
+  z-index: 99;
+  font-family: 'Arimo';
+  width: 160px;
+  font-weight: bold;
+}
+.smartPopup.smartPopupSlide a.button:hover {
+  background: rgb(33,209,133);
+  background: linear-gradient(190deg, rgba(33,209,133,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#smartPopupPlus {
+  position: fixed;
+  color: #000;
+  bottom: 90px;
+  font-size: 15px;
+  margin-left: -425px;
+  -webkit-transition: all 1.25s ease;
+  -moz-transition: all 1.25s ease;
+  -o-transition: all 1.25s ease;
+  transition: all 1.25s ease;
+  cursor: pointer;
+  text-align: left;
+  letter-spacing: 1px;
+}
+
+#smartPopupPlus i {
+  display: block;
+  font-size: 26px;
+  margin-left: 10px;
+  background: rgba(255,255,255,.8);
+  border-radius: 5px;
+  padding: 10px 18px;
+  background: rgb(33,209,133);
+  background: linear-gradient(35deg, rgba(33,209,133,1) 0%, rgba(0,212,255,1) 100%);
+  color: #fff;
+}
+#smartPopupPlus i:hover {
+  background: rgb(33,209,133);
+  background: linear-gradient(190deg, rgba(33,209,133,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#smartPopupPlus span {
+  position: absolute;
+  margin-top: 22px;
+  left: 4px;
+}
+
+#smartPopupPlus::after {
+  content: '';
+  display: block;
+  display: relative;
+}
+
+@media all and (max-width: 900px) {
+  #smartPopupPlus {
+    margin-left: 0px;
+  }
+}

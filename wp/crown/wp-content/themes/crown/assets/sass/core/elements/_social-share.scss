@@ -1,0 +1,8 @@
+.g5core__social-share {
+	li {
+		font-size: 12px;
+		&:hover {
+			@extend %accent-text-color;
+		}
+	}
+}

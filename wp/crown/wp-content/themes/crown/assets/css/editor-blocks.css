@@ -1,0 +1,67 @@
+.editor-styles-wrapper.editor-styles-wrapper {
+  flex: 0 0 auto;
+}
+.editor-styles-wrapper.editor-styles-wrapper .editor-post-title__block .editor-post-title__input {
+  font-family: "Poppins" !important;
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: #1b1b1b;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.editor-styles-wrapper.editor-styles-wrapper .components-icon-button.block-editor-block-switcher__toggle {
+  overflow: hidden;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-table__cell-content {
+  padding: 0;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-quote footer {
+  font-size: 1.125rem;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-quote__citation {
+  font-size: 0.75rem;
+}
+.editor-styles-wrapper.editor-styles-wrapper blockquote.wp-block-quote.is-style-large .wp-block-quote__citation {
+  font-size: 1rem;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-image .components-resizable-box__container img {
+  width: auto;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-pullquote .wp-block-pullquote__citation {
+  font-family: "Poppins";
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block {
+  max-width: 620.0000032px;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block[data-align=full] {
+  max-width: none;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block[data-align=wide] {
+  max-width: 1170px;
+}
+.editor-styles-wrapper.editor-styles-wrapper p {
+  line-height: 1.6;
+}
+.editor-styles-wrapper.editor-styles-wrapper h1, .editor-styles-wrapper.editor-styles-wrapper h2, .editor-styles-wrapper.editor-styles-wrapper h3, .editor-styles-wrapper.editor-styles-wrapper h4, .editor-styles-wrapper.editor-styles-wrapper h5, .editor-styles-wrapper.editor-styles-wrapper h6 {
+  margin-top: 2rem;
+}
+.editor-styles-wrapper.editor-styles-wrapper h1:first-child, .editor-styles-wrapper.editor-styles-wrapper h2:first-child, .editor-styles-wrapper.editor-styles-wrapper h3:first-child, .editor-styles-wrapper.editor-styles-wrapper h4:first-child, .editor-styles-wrapper.editor-styles-wrapper h5:first-child, .editor-styles-wrapper.editor-styles-wrapper h6:first-child {
+  margin-top: 0;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-categories ul {
+  list-style-type: none;
+}
+.editor-styles-wrapper.editor-styles-wrapper .wp-block-categories ul,
+.editor-styles-wrapper.editor-styles-wrapper .block-editor ul.wp-block-archives {
+  padding-left: 0;
+}
+
+body.has-sidebar .editor-styles-wrapper.editor-styles-wrapper .wp-block[data-align=full],
+body.has-sidebar .editor-styles-wrapper.editor-styles-wrapper .wp-block[data-align=wide] {
+  max-width: 620.0000032px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=editor-blocks.css.map */

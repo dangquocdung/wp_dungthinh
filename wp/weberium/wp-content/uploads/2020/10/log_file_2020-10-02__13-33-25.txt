@@ -1,0 +1,105 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/weberium
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/weberium/wp-content/uploads/2020/10/demo-content-import-file_2020-10-02__13-33-25.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/weberium/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-02__13-33-25.json
+Customizer file = /var/www/html/dungthinh/wp_dungthinh/wp/weberium/wp-content/uploads/2020/10/demo-customizer-import-file_2020-10-02__13-33-25.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Tìm kiếm - No Title - Widget already exists
+Recent Posts Advanced - Recent Posts - Imported
+Mây Thẻ - No Title - Imported
+
+Sidebar Shop : 
+
+Sản phẩm theo đánh giá - Top rated products - Imported
+
+Sidebar Footer 1 : 
+
+Văn bản - No Title - Imported
+
+Sidebar Footer 2 : 
+
+Empty Space - No Title - Imported
+Recent Posts Advanced - Recent Posts - Imported
+
+Sidebar Footer 3 : 
+
+Empty Space - No Title - Imported
+Mây Thẻ - No Title - Imported
+
+Sidebar Footer 4 : 
+
+Empty Space - No Title - Imported
+Gallery ảnh - Gallery Photos - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

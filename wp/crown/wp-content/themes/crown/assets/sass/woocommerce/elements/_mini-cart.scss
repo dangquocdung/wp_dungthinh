@@ -1,0 +1,53 @@
+.g5shop__mini-cart {
+  .fa-shopping-cart:before {
+    content: '\f290';
+    font-weight: 700;
+  }
+
+  ul.woocommerce-mini-cart {
+    padding: 0 30px;
+    @extend %font-primary;
+    li {
+      a:not(.remove) {
+        font-size: 14px;
+        color: #000;
+        &:hover,
+        &:focus,
+        &:active {
+          @extend %accent-text-color;
+        }
+      }
+      .quantity {
+        font-weight: 500;
+        font-size: 12px;
+      }
+    }
+  }
+
+  .woocommerce-mini-cart__total {
+    strong {
+      font-weight: 500;
+    }
+    .amount {
+      font-size: 18px;
+      font-weight: 600;
+    }
+  }
+}
+
+
+.g5shop_header-action-icon {
+  a {
+    i {
+      font-size: 16px;
+    }
+    > span {
+      @extend %accent-bg-color;
+      width: 16px;
+      height: 16px;
+      line-height: 16px;
+      @extend %font-primary;
+      top: -16px;
+    }
+  }
+}

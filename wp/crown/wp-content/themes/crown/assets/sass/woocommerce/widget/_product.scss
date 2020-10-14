@@ -1,0 +1,31 @@
+.woocommerce ul.product_list_widget:not(.cart_list) {
+  li {
+    a {
+      @extend %font-primary;
+      @extend %heading-color;
+      font-weight: 600;
+      font-size: 13px;
+      text-transform: uppercase;
+      &:hover,
+      &:focus,
+      &:active {
+        @extend %accent-text-color;
+      }
+    }
+
+    img {
+      float: left;
+      width: 75px;
+      margin: 0 20px 0 0;
+    }
+
+    .woocommerce-Price-amount {
+      font-size: 1em;
+    }
+
+    ins {
+      background: transparent;
+      @extend %primary-color;
+    }
+  }
+}

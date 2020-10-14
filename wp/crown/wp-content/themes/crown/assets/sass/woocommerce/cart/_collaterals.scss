@@ -1,0 +1,51 @@
+.woocommerce .cart-collaterals {
+  .cart_totals,
+  .cross-sells {
+    margin-top: 3rem;
+  }
+
+  .wc-proceed-to-checkout {
+    padding-bottom: 0;
+    a.checkout-button {
+      margin-bottom: 0;
+    }
+  }
+
+  .cart_totals,
+  .cross-sells {
+    > h2 {
+      @include heading-title();
+    }
+  }
+
+}
+
+.woocommerce-cart .cart-collaterals .cart_totals {
+  table {
+    tr td {
+      text-align: right;
+    }
+
+    .shipping-calculator-button {
+      color: inherit;
+    }
+
+    tr td,
+    tr th {
+      border-top: 1px solid;
+      @extend %border-color;
+    }
+  }
+
+  ul#shipping_method li input {
+    margin-top: 6px;
+  }
+
+  .shipping-calculator-button {
+    &:hover {
+      @extend %accent-text-color;
+    }
+  }
+}
+
+

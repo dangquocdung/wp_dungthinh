@@ -1,0 +1,144 @@
+.AArpr-settings-tabs {
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 0;
+}
+	.AArpr-settings-tabs li {
+		display: inline-block;
+		margin: 0px 0px 0px 0px;
+		padding: 0px 0px 0px 0px;
+	}
+		.AArpr-settings-tabs li a {
+			display: inline-block;
+			line-height: 24px;
+			font-size: 16px;
+			padding: 17px 20px 17px 20px;
+			text-decoration: none;
+			background: #ebebeb;
+			font-family: "Roboto";
+			font-weight: 500;
+			color: #5f3a71;
+			position: relative;
+			box-shadow: none !important;
+			border-right: 1px solid #cfc8d3;
+		}
+			.AArpr-settings-tabs li.on a {
+				background: #fff;
+				border-color: transparent;
+			}
+				.AArpr-settings-tabs li.on:not(:first-child) a:before {
+					position: absolute;
+					top: 0;
+					content: "";
+					bottom: 0;
+					left: -1px;
+					width: 1px;
+					background: #ebebeb;
+				}
+			.AArpr-settings-tabs li.on a:after {
+				content: "";
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				height: 4px;
+				background: #fee50e;
+			}
+		.AArpr-settings-tabs li:not(.on) a:hover {
+			background: #fee50e;
+		}
+		
+.AArpr-form {
+	margin: 0px 20px 0px 0px;
+	display: block;
+}
+	.AArpr-form .AArpr-form-row {
+		padding: 36px 20px;
+		display: block;
+		width: 100%; 
+	}
+		.AArpr-form .AArpr-form-row.AArpr-odd {
+		    background: #ebebeb;
+		}
+		.AArpr-form .AArpr-form-row.AArpr-even {
+		    background: #fff;
+		}
+
+		/*
+		.AArpr-form .AArpr-form-row:last-child {
+			border-bottom: 0;
+			background: none;
+		}
+		*/
+	
+	.AArpr-form .AArpr-button-row {
+		background-color: #6b4d7a;
+		margin: 0;
+		padding: 23px 20px;
+		text-align: left;
+		width: 100%;
+		font-family: "Roboto";
+	}
+
+	.AArpr-form label {
+		cursor: pointer;
+		display: block;
+		font-weight: bold;
+		color: #7f8c8d;
+	}
+		.AArpr-form .AArpr-form-row label {
+			float: left;
+			width: 180px;
+			padding: 6px 0;
+			font-weight: 700;
+			font-size: 14px;
+			color: #5f3a71;
+		}
+		.AArpr-form label .required {
+			color: #f00
+		}
+	.AArpr-form .AArpr-form-item {
+		position: relative;
+		margin-left: 180px;
+	}
+		.AArpr-form .AArpr-form-item input[type="text"],
+		.AArpr-form .AArpr-form-item select,
+		.AArpr-form .AArpr-form-item textarea {
+			box-shadow: none;
+			border: 1px solid #e4e4e4;
+			font-family: "Roboto";
+			font-weight: 400;
+			color: #5f3a71;
+			padding: 10px 13px 10px 13px;
+		}
+			.AArpr-form .AArpr-form-item select {
+				height: 28px;
+   			 	padding: 5px 8px; 
+			}
+	.AArpr-form .AArpr-form-item .AArpr-form-note {
+		display: block;
+		color: #95819e;
+		font-size: 12px;
+		margin-bottom: 1px;
+		font-style: italic;
+		margin-top: 5px;
+		text-align: left;
+		overflow: hidden;
+		font-family: "Roboto";
+		font-weight: 400;
+		text-overflow: ellipsis;
+	}
+	.AArpr-form .AArpr-form-item .AArpr-aff-ids img {
+		position: relative;
+		bottom: -6px;
+		margin: 0px 5px 0px 0px;
+	}
+	.AArpr_iw #AArpr_iw-section-content h3 {
+		margin: 10px 0px 5px 0px;
+	}
+		.AArpr-form .AArpr-form-item .AArpr-aff-ids br {
+			margin: 8px 0px 8px 0px;
+		}
+
+

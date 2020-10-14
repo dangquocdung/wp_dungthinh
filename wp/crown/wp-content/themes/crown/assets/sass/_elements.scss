@@ -1,0 +1,197 @@
+.toggle-icon {
+    cursor: pointer;
+    display: inline-block;
+    width: 32px;
+    height: 30px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.toggle-icon > span {
+    bottom: 0;
+    display: block;
+    height: 2px;
+    left: 2px;
+    right: 8px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    background-color: currentColor;
+}
+
+.toggle-icon > span:after,
+.toggle-icon > span:before {
+    content: '';
+    height: 2px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: -6px;
+
+    -webkit-transition: top 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out, background 0.3s;
+    -moz-transition: top 0.3s ease-in-out, -moz-transform 0.3s ease-in-out, background 0.3s;
+    transition: top 0.3s ease-in-out, transform 0.3s ease-in-out, background 0.3s;
+
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background-color: currentColor;
+}
+
+.toggle-icon > span:before {
+    top: 8px;
+}
+
+.toggle-icon > span:after {
+    top: -8px;
+}
+
+.toggle-icon:hover {
+    color: #e4573d;
+}
+
+.toggle-icon.in > span {
+    background-color: transparent !important;
+}
+
+.toggle-icon.in > span:after,
+.toggle-icon.in > span:before {
+    -webkit-transition: top 0.3s ease-in-out, -webkit-transform 0.3s 0.5s ease-in-out, background 0.3s;
+    -moz-transition: top 0.3s ease-in-out, -moz-transform 0.3s 0.5s ease-in-out, background 0.3s;
+    transition: top 0.3s ease-in-out, transform 0.3s 0.5s ease-in-out, background 0.3s;
+
+    top: 0;
+}
+
+.toggle-icon.in > span:after {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    -moz-transform: rotate3d(0, 0, 1, -45deg);
+    -ms-transform: rotate3d(0, 0, 1, -45deg);
+    -o-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+}
+
+.toggle-icon.in > span:before {
+    -webkit-transform: rotate3d(0, 0, 1, 45deg);
+    -moz-transform: rotate3d(0, 0, 1, 45deg);
+    -ms-transform: rotate3d(0, 0, 1, 45deg);
+    -o-transform: rotate3d(0, 0, 1, 45deg);
+    transform: rotate3d(0, 0, 1, 45deg);
+}
+
+.heading-description {
+    font-size: 16px;
+    line-height: 1.875;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .gel-social-text-center-sm > ul.list-si,
+    .gel-list-text-center-sm li.item-list {
+        @include justify-content-center();
+    }
+}
+
+.fs-18 {
+    font-size: 1.125rem;
+}
+
+.vc-col-no-pt > .vc_column-inner,
+.vc_row.vc_row.vc-col-no-pt > .vc_column_container > .vc_column-inner,
+.vc_row.vc_row.vc-col-no-pt > .vc_column_container > .vc_column-inner,
+.vc_row.vc_row.vc-col-no-pt > .vc_column_container > .vc_column-inner {
+    padding-top: 0;
+}
+
+.gel-other-title {
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 50px;
+    margin-right: 40px;
+}
+
+.gel-tab {
+    .vc_tta-tabs-container {
+        margin-bottom: -1px !important;
+    }
+    .vc_tta-tab > a {
+        border: none !important;
+        border-bottom: solid 1px transparent !important;
+        @extend %font-primary;
+        font-weight: 600;
+        color: $color_text_main !important;
+    }
+    .vc_tta-tab.vc_active > a {
+        border-bottom: solid 1px !important;
+        color: $color_dark !important;
+    }
+    .vc_tta-panels {
+        border: none !important;
+        border-top: solid 1px $color_border !important;;
+    }
+    .vc_tta-panel-body {
+        padding: 0 !important;
+        padding-top: 45px !important;
+    }
+}
+
+.border-radius-iframe-3 {
+    iframe {
+        border-radius: 3px;
+    }
+}
+
+@media (max-width: 1440px) and (min-width: 1200px) {
+    .gel-space-150 .gel-space {
+        height: 150px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    .mg-left-75-lg {
+        margin-left: 75px;
+    }
+}
+
+.desc-landing {
+    font-family: $font_primary;
+    font-size: $font_size_md;
+    text-align: center;
+    letter-spacing: -0.06em;
+}
+
+.pd-rl-0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.bg-animate {
+    height: 140px;
+    background-position: 0px 0px;
+    background-repeat: repeat-x;
+    animation: animatedBackground 30s linear infinite;
+}
+
+@media (max-width: 768px) {
+
+    .bg-animate {
+        height: 80px;
+    }
+}
+
+@keyframes animatedBackground {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 100% 0;
+    }
+}

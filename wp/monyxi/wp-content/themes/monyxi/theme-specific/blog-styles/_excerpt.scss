@@ -1,0 +1,97 @@
+/* Blog layout: Excerpt 
+------------------------- */
+.post_layout_excerpt {
+	position:relative;
+	margin-bottom:0;
+	@include box-shadow(0px 0px 90px -15px rgba(41,44,28, 0.085));
+	@include border-radius(3px);
+	overflow: hidden;
+}
+.post_layout_excerpt + .post_layout_excerpt {
+	margin-top: 4rem;
+}
+.post_layout_excerpt:not(.sticky) + .post_layout_excerpt:not(.sticky) {
+	outline: none;
+}
+.post_layout_excerpt.sticky {
+	padding: 0;
+	border: none;
+}
+.post_layout_excerpt .post_featured {
+	display: inline-block;
+	@include border-radius(3px);
+}
+
+.post_layout_excerpt.post_format_audio .post_featured.without_thumb,
+.post_layout_excerpt.post_format_gallery .post_featured.without_thumb {
+	display:block;
+}
+.post_layout_excerpt .post_header {
+	margin: 0;
+	position:relative;
+}
+.post_layout_excerpt .post_header .post_price {
+	width: auto;
+	@include abs-rt;
+	@include font(2.5em, 1.5em);
+}
+.post_layout_excerpt .post_title {
+	margin: 0;
+}
+.post_layout_excerpt .post_meta {
+	margin-top: 1.9rem;
+	padding-top: 1.1rem;
+	border-top: 1px solid #ddd;
+}
+.post_layout_excerpt .post_header + .post_content {
+	margin-top: 1.55rem;
+}
+
+// First post large in the Classic and Masonry
+body[class*="blog_style_classic"] .post_layout_excerpt,
+body[class*="blog_style_masonry"] .post_layout_excerpt {
+	margin-bottom: 3em;
+}
+
+
+.post_layout_excerpt .post_featured {
+	margin-bottom: 0;
+}
+.post_layout_excerpt .slider_pagination_wrap {
+	display: none;
+}
+.post_layout_excerpt .post_meta .post_categories {
+	display: none;
+}
+.post_layout_excerpt .extra_wrap {
+	padding: 2em 2.5em 3em;
+}
+.post_layout_excerpt .extra_wrap.no_title {
+	padding-top: 2.8em;
+}
+.post_layout_excerpt .post_header .post_categories {
+	margin-bottom: 6px;
+	display: block;
+}
+.post_layout_excerpt .post_header .post_categories a {
+	font-size: 12px;
+	line-height: 15px;
+	text-transform: uppercase;
+	@include border-radius(3px);
+	padding: 2px 13px;
+	margin: 0 3px 3px 0;
+	display: inline-block;
+	word-break: keep-all;
+}
+.post_layout_excerpt.format-quote blockquote {
+	margin: 0;
+}
+.post_layout_excerpt.format-quote .extra_wrap.no_title {
+	padding: 0;
+}
+.post_layout_excerpt.sticky .post_meta {
+	border-color: #2f2e26 !important;
+}
+.post_layout_excerpt .label_sticky {
+	display: none;
+}

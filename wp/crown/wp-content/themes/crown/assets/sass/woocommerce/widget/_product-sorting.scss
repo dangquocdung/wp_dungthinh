@@ -1,0 +1,5 @@
+ul.g5shop__product-sorting {
+  .current > a {
+    @extend %heading-color;
+  }
+}

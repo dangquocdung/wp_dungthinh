@@ -1,0 +1,1 @@
+!function(t){"use strict";t(document).ready(function(){elementorFrontend.hooks.addAction("frontend/element_ready/global",function(n){var e=t(n).find(".wvt-panorama");if(e.length){var o=e.attr("id");wvtp.create(o,wvtf[o])}})})}(jQuery);

@@ -1,0 +1,1 @@
+!function(e){"use strict";e(".wvt-select-wrapper").each(function(){var t,i;t=e(this).find("select"),i={allowEmptyOption:!1},e(t).selectize(i)})}(window.jQuery);

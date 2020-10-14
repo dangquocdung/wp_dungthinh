@@ -1,0 +1,43 @@
+.woocommerce .widget_layered_nav_filters ul {
+  li {
+    a {
+      &:before {
+        color: inherit;
+      }
+      &:hover {
+        @extend %heading-color;
+      }
+    }
+  }
+}
+
+.woocommerce .woocommerce-widget-layered-nav ul.woocommerce-widget-layered-nav-list {
+  li.woocommerce-widget-layered-nav-list__item--chosen {
+    .g5shop__layered-nav-item {
+
+      &:not(.layered-nav-item-color) {
+        > span {
+          @extend %heading-bg-color;
+        }
+      }
+    }
+  }
+
+  li {
+    > a {
+      &:before {
+        display: none;
+      }
+    }
+  }
+
+  .g5shop__layered-nav-item {
+    &:not(.layered-nav-item-color) {
+      &:hover {
+        > span {
+          @extend %heading-bg-color;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1491 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Baewe plugin\n"
+"POT-Creation-Date: 2017-10-16 00:34+0700\n"
+"PO-Revision-Date: 2017-09-24 22:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: ridianur\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/js\n"
+
+#: inc/about-us.php:5
+msgid "About Us Widget"
+msgstr ""
+
+#: inc/about-us.php:38 inc/element/about-me.php:43 inc/element/blog-post.php:37
+#: inc/flickr-widget.php:70
+msgid "Title:"
+msgstr ""
+
+#: inc/about-us.php:42 inc/element/about-me.php:47
+msgid "Subtitle (text below title):"
+msgstr ""
+
+#: inc/about-us.php:46
+msgid "About Us Image:"
+msgstr ""
+
+#: inc/about-us.php:54
+msgid "Upload Image"
+msgstr ""
+
+#: inc/about-us.php:58
+msgid "Textarea:"
+msgstr ""
+
+#: inc/about-us.php:67 inc/element/about-me.php:63
+msgid "Social Media:"
+msgstr ""
+
+#: inc/about-us.php:71 inc/element/about-me.php:67
+msgid "Facebook"
+msgstr ""
+
+#: inc/about-us.php:76 inc/element/about-me.php:72
+msgid "Twitter"
+msgstr ""
+
+#: inc/about-us.php:81 inc/element/about-me.php:77
+msgid "Google"
+msgstr ""
+
+#: inc/about-us.php:86 inc/element/about-me.php:82
+msgid "Instagram"
+msgstr ""
+
+#: inc/about-us.php:91 inc/element/about-me.php:87
+msgid "Pinterest"
+msgstr ""
+
+#: inc/about-us.php:96 inc/element/about-me.php:92
+msgid "Youtube"
+msgstr ""
+
+#: inc/builder-options.php:13
+msgid "Row Styles"
+msgstr ""
+
+#: inc/builder-options.php:17
+msgid ""
+"Choose a style for this row. <br>If you want to use background image, always "
+"choose <b>Dark/Image Background</b>.<br/>\n"
+"\t  You don't need to to this, if you're using the <b>Banner Block, "
+"Testimonial Section Block, Hero Title Block and Blockquote Element</b>.<br/"
+">\n"
+"\t  The <b>Theme Color Background</b> only works best if you use it on "
+"Banner Block. <br/>\n"
+"\t  You can choose your image background in <b>Design</b> tab below.  "
+msgstr ""
+
+#: inc/builder-options.php:43
+msgid "Image Mask"
+msgstr ""
+
+#: inc/builder-options.php:46
+msgid "If enabled, the background image will have image mask."
+msgstr ""
+
+#: inc/builder-options.php:68
+msgid "Row with Padding Top & Bottom"
+msgstr ""
+
+#: inc/builder-options.php:71
+msgid ""
+"If enabled, the row will have padding top & bottom (based on theme style)."
+msgstr ""
+
+#: inc/builder-options.php:75
+msgid "Row with Margin Top"
+msgstr ""
+
+#: inc/builder-options.php:78
+msgid "If enabled, the row will have margin top (based on theme style)."
+msgstr ""
+
+#: inc/builder-options.php:82
+msgid "Row with Margin Bottom"
+msgstr ""
+
+#: inc/builder-options.php:85
+msgid "If enabled, the row will have margin bottom (based on theme style)."
+msgstr ""
+
+#: inc/client-metaboxes.php:14 inc/testimonial-metaboxes.php:14
+msgid "Testimonial Setting"
+msgstr ""
+
+#: inc/client-metaboxes.php:22
+msgid "Client Image"
+msgstr ""
+
+#: inc/client-metaboxes.php:23
+msgid "Upload You client image here."
+msgstr ""
+
+#: inc/client.php:8 inc/client.php:9
+msgid "Client"
+msgstr ""
+
+#: inc/client.php:10 inc/client.php:11 inc/client.php:13
+msgid "Add New Client"
+msgstr ""
+
+#: inc/client.php:12
+msgid "Edit Client"
+msgstr ""
+
+#: inc/client.php:14
+msgid "View Client"
+msgstr ""
+
+#: inc/client.php:15
+msgid "Search Client"
+msgstr ""
+
+#: inc/client.php:16
+msgid "No Client found"
+msgstr ""
+
+#: inc/client.php:17
+msgid "No Client found in trash"
+msgstr ""
+
+#: inc/contact.php:8
+msgid "Contact Posts"
+msgstr ""
+
+#: inc/contact.php:9
+msgid "Contact Post"
+msgstr ""
+
+#: inc/contact.php:10 inc/contact.php:11 inc/contact.php:13
+msgid "Add New Contact Post"
+msgstr ""
+
+#: inc/contact.php:12
+msgid "Edit Contact Post"
+msgstr ""
+
+#: inc/contact.php:14
+msgid "View Contact Post"
+msgstr ""
+
+#: inc/contact.php:15
+msgid "Search Contact Posts"
+msgstr ""
+
+#: inc/contact.php:16
+msgid "No Contact Post found"
+msgstr ""
+
+#: inc/contact.php:17
+msgid "No Contact Post found in trash"
+msgstr ""
+
+#: inc/element.php:5
+msgid "Cordon Builder"
+msgstr ""
+
+#: inc/element/about-me.php:7
+msgid "Display Image with title & social Icon."
+msgstr ""
+
+#: inc/element/about-me.php:11
+msgid "About Me Element"
+msgstr ""
+
+#: inc/element/about-me.php:51 inc/element/big-title.php:237
+#: inc/element/image-bg.php:39 inc/element/image-title.php:63
+#: inc/element/top-title.php:258
+msgid "Image Background:"
+msgstr ""
+
+#: inc/element/banner.php:12
+msgid "Display banner with title & button."
+msgstr ""
+
+#: inc/element/banner.php:16
+msgid "Banner Element"
+msgstr ""
+
+#: inc/element/banner.php:40 inc/portfolio-metaboxes.php:170
+msgid "Banner Title"
+msgstr ""
+
+#: inc/element/banner.php:49 inc/element/image-title.php:51
+msgid "Insert your bottom text here"
+msgstr ""
+
+#: inc/element/banner.php:56
+msgid "Insert your button text here"
+msgstr ""
+
+#: inc/element/banner.php:63
+msgid "Insert your button link here"
+msgstr ""
+
+#: inc/element/big-title.php:27
+msgid "Display big title with background."
+msgstr ""
+
+#: inc/element/big-title.php:31
+msgid "Big Title Block"
+msgstr ""
+
+#: inc/element/blockquote.php:10
+msgid "Display blockquote text."
+msgstr ""
+
+#: inc/element/blockquote.php:14
+msgid "Blockquote Element"
+msgstr ""
+
+#: inc/element/blockquote.php:31
+msgid "Blockquote Text"
+msgstr ""
+
+#: inc/element/blog-post.php:12
+msgid "Display blog post section."
+msgstr ""
+
+#: inc/element/blog-post.php:16
+msgid "Blog Post Block"
+msgstr ""
+
+#: inc/element/blog-post.php:44
+msgid "Blog Posts to Show:"
+msgstr ""
+
+#: inc/element/client-post.php:19
+msgid "Display client section with title."
+msgstr ""
+
+#: inc/element/client-post.php:23
+msgid "Client Section Block"
+msgstr ""
+
+#: inc/element/client-post.php:41
+msgid "Client Slider Delay:"
+msgstr ""
+
+#: inc/element/contact-post.php:10
+msgid "Display contact post."
+msgstr ""
+
+#: inc/element/contact-post.php:14
+msgid "Contact Post Element"
+msgstr ""
+
+#: inc/element/contact-text.php:10
+msgid "Display contact detail text."
+msgstr ""
+
+#: inc/element/contact-text.php:14
+msgid "Contact Text Element"
+msgstr ""
+
+#: inc/element/contact-text.php:40 inc/element/hero-title.php:38
+#: inc/element/image-title.php:44 inc/element/portfolio-wide.php:82
+#: inc/element/team-block.php:38 inc/element/text-icon.php:44
+#: inc/element/title-block.php:36 inc/element/title-line.php:34
+#: inc/element/video-box.php:46
+msgid "Title"
+msgstr ""
+
+#: inc/element/contact-text.php:47 inc/element/portfolio-wide.php:90
+#: inc/element/team-block.php:45 inc/element/title-block.php:43
+msgid "Small/Below The Title Text:"
+msgstr ""
+
+#: inc/element/contact-text.php:55
+msgid "Insert your addres here (leave it blank if you don't want it)"
+msgstr ""
+
+#: inc/element/contact-text.php:61
+msgid "Insert your phone here (leave it blank if you don't want it)"
+msgstr ""
+
+#: inc/element/contact-text.php:67
+msgid "Insert your email here (leave it blank if you don't want it)"
+msgstr ""
+
+#: inc/element/google-map.php:10
+msgid "Display google map."
+msgstr ""
+
+#: inc/element/google-map.php:14
+msgid "Google Map Element"
+msgstr ""
+
+#: inc/element/hero-title.php:12
+msgid "Display hero with title."
+msgstr ""
+
+#: inc/element/hero-title.php:16
+msgid "Hero Title Block"
+msgstr ""
+
+#: inc/element/hero-title.php:46 inc/element/text-icon.php:73
+msgid "Button Text"
+msgstr ""
+
+#: inc/element/hero-title.php:54 inc/element/text-icon.php:80
+msgid "Button Link"
+msgstr ""
+
+#: inc/element/image-bg.php:12
+msgid "Display image for banner side content."
+msgstr ""
+
+#: inc/element/image-bg.php:16
+msgid "Image for Banner Element"
+msgstr ""
+
+#: inc/element/image-title.php:12
+msgid "Display boxed link image with title and subtitle in it."
+msgstr ""
+
+#: inc/element/image-title.php:16
+msgid "Boxed Link Image with Title Element"
+msgstr ""
+
+#: inc/element/image-title.php:57
+msgid "Insert your link here"
+msgstr ""
+
+#: inc/element/portfolio-wide.php:50
+msgid "Display portfolio section wide."
+msgstr ""
+
+#: inc/element/portfolio-wide.php:54
+msgid "Portfolio Section Wide Block"
+msgstr ""
+
+#: inc/element/portfolio-wide.php:137
+msgid "Portfolio Item to Show:"
+msgstr ""
+
+#: inc/element/portfolio-wide.php:205
+msgid "All"
+msgstr ""
+
+#: inc/element/slider-widget.php:30
+msgid "Choose which homepage slider to display."
+msgstr ""
+
+#: inc/element/slider-widget.php:34
+msgid "Homepage Slider Block"
+msgstr ""
+
+#: inc/element/slider-widget.php:206
+msgid "Choose the homepage slider to display:"
+msgstr ""
+
+#: inc/element/team-block.php:10
+msgid "Display team posts."
+msgstr ""
+
+#: inc/element/team-block.php:14
+msgid "Team List Block"
+msgstr ""
+
+#: inc/element/testimonial.php:20
+msgid "Display testimonial section."
+msgstr ""
+
+#: inc/element/testimonial.php:24
+msgid "Testimonial Section Block"
+msgstr ""
+
+#: inc/element/text-icon.php:10
+msgid "Display title with icon & content."
+msgstr ""
+
+#: inc/element/text-icon.php:14
+msgid "Title with Icon Element"
+msgstr ""
+
+#: inc/element/text-icon.php:50 inc/element/video-box.php:52
+msgid "Sub Title"
+msgstr ""
+
+#: inc/element/text-icon.php:58 inc/element/video-box.php:58
+msgid "Title Icon"
+msgstr ""
+
+#: inc/element/text-icon.php:65 inc/element/top-title.php:196
+#: inc/element/video-box.php:65
+msgid "The Text:"
+msgstr ""
+
+#: inc/element/title-block.php:10
+msgid "Create centered title with subtitle."
+msgstr ""
+
+#: inc/element/title-block.php:14
+msgid "Centered Title Element"
+msgstr ""
+
+#: inc/element/title-line.php:10
+msgid "Display title & text left-aligned."
+msgstr ""
+
+#: inc/element/title-line.php:14
+msgid "Left-Aligned Title Element"
+msgstr ""
+
+#: inc/element/title-line.php:41
+msgid "Text"
+msgstr ""
+
+#: inc/element/top-title.php:27
+msgid "Display top title with background."
+msgstr ""
+
+#: inc/element/top-title.php:31
+msgid "Top Title Block"
+msgstr ""
+
+#: inc/element/top-title.php:187
+msgid "The Title:"
+msgstr ""
+
+#: inc/element/video-box.php:10
+msgid "Display video with title & content."
+msgstr ""
+
+#: inc/element/video-box.php:14
+msgid "Video With Title & Icon Element"
+msgstr ""
+
+#: inc/element/video-box.php:39
+msgid "Embed Iframe Code for video/media"
+msgstr ""
+
+#: inc/flickr-widget.php:52
+msgid "Display flickr feed."
+msgstr ""
+
+#: inc/flickr-widget.php:54
+msgid "Flickr Widget"
+msgstr ""
+
+#: inc/google-map.php:37
+msgid "1. Google Map Latitude and Longitude"
+msgstr ""
+
+#: inc/google-map.php:42
+msgid "2. Google Map Zoom Value"
+msgstr ""
+
+#: inc/google-map.php:47
+msgid "3. Google Map Lightness Value"
+msgstr ""
+
+#: inc/google-map.php:52
+msgid "4. Google Map Saturation Value"
+msgstr ""
+
+#: inc/google-map.php:56
+msgid "5. Google Map Marker Icon"
+msgstr ""
+
+#: inc/google-map.php:61
+msgid "Enter a URL or upload an image (recommended size 37x37px)"
+msgstr ""
+
+#: inc/google-map.php:67
+msgid "6. Image on Google Map Marker Content"
+msgstr ""
+
+#: inc/google-map.php:72
+msgid "Enter a URL or upload an image (recommended max width 400px)"
+msgstr ""
+
+#: inc/google-map.php:78
+msgid "7. Google Map Marker Content"
+msgstr ""
+
+#: inc/google-map.php:83
+msgid "8. Google Map Api"
+msgstr ""
+
+#: inc/google-map.php:93
+msgid "Explanation:"
+msgstr ""
+
+#: inc/google-map.php:95
+msgid ""
+"You can check your latitude and longitude in <a href=\"http://universimmedia."
+"pagesperso-orange.fr/geo/loc.htm\">here</a>. example value: "
+"-6.94010,107.62575 "
+msgstr ""
+
+#: inc/google-map.php:96
+msgid "Input your zoom level in here. example value: 15"
+msgstr ""
+
+#: inc/google-map.php:97
+msgid "Input your value for map lightness here. example value: 7"
+msgstr ""
+
+#: inc/google-map.php:98
+msgid ""
+"Input your value for map saturation here. example value :0 (for making "
+"normal map), default map is -100 (monochrome)."
+msgstr ""
+
+#: inc/google-map.php:99
+msgid "You can upload your icon image there."
+msgstr ""
+
+#: inc/google-map.php:100
+msgid "You can upload your image for marker content there."
+msgstr ""
+
+#: inc/google-map.php:101
+msgid ""
+"The content will be appear if the marker is clicked. You can use HTML tag "
+"there."
+msgstr ""
+
+#: inc/google-map.php:102
+msgid ""
+"Insert your google api here. You can create the google map api in <a href="
+"\"https://developers.google.com/maps/documentation/javascript/get-api-key\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/one-click.php:11 inc/one-click.php:20 inc/one-click.php:29
+#: inc/one-click.php:38 inc/one-click.php:47 inc/one-click.php:56
+#: inc/one-click.php:65 inc/one-click.php:74 inc/one-click.php:83
+#: inc/one-click.php:92
+msgid ""
+"<p>To prevent any error, please use the clean wordpress site to import the "
+"demo data. </p><p>Or you can use this plugin \n"
+"\t\t\t<a href=\"https://wordpress.org/plugins/wordpress-database-reset/\" "
+"target=\"_blank\">WordPress Database Reset</a> to reset/clear the database "
+"first.</p><p>After you import this demo, you will have to setup the page "
+"builder,google map & flickr settings separately.</p>"
+msgstr ""
+
+#: inc/page-metaboxes.php:14
+msgid "Page Settings"
+msgstr ""
+
+#: inc/page-metaboxes.php:21
+msgid "Header Format"
+msgstr ""
+
+#: inc/page-metaboxes.php:22
+msgid ""
+"The Black text settings doesn't affect if you use dark color scheme <br> \n"
+"\t\tThe header will always be using white text, but you can still use the "
+"different menu position ( <b>relative/absolute</b> ).<br/>\n"
+"\t\t<b>This settings won't apply on any Blog Template & Default Template.</"
+"b> "
+msgstr ""
+
+#: inc/page-metaboxes.php:31
+msgid "Black Text with White Background Header in Relative Position"
+msgstr ""
+
+#: inc/page-metaboxes.php:35
+msgid "White Text with Transparent Background Header in Absolute Position"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:14
+msgid "Portfolio Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:22
+msgid "Portfolio Format Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:28
+msgid "Try to use the same ratio/size for each featured images."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:29
+msgid "Recommended size for portfolio featured images is 800x582px"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:42
+msgid "Choose Portfolio Format Here"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:49
+msgid "Portfolio Gallery at Top"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:53
+msgid "Portfolio Gallery at Right"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:59
+msgid "Portfolio Bottom Title Text"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:64
+msgid ""
+"Inser the bottom title text here. The bottom text will appear on single "
+"portfolio page below the title."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:68
+msgid "Top Content Format"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:73
+msgid ""
+"Choose the content that will appear on the top of the single portfolio page."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:77
+msgid "Images Background"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:81
+msgid "Video Background"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:85
+msgid "Youtube Background"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:91
+msgid "Portfolio Top Image"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:94
+msgid ""
+"Upload Your Top Image here. <br/>You still need to fill this if you choose "
+"the video/youtube background. <br/>\n"
+"\t\tSo the image will replace the video/youtube background in touch devices. "
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:99
+msgid "Youtube ID"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:102
+msgid "Insert Youtube ID here. e.g EMy5krGcoOU"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:106
+msgid "Youtube Quality"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:109
+msgid ""
+"Insert Youtube video quality here. You can input <b>small, medium, large, "
+"hd720, hd1080, highres</b>. Default value is <b>large</b>"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:113
+msgid "Video Link"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:116
+msgid ""
+"Insert the video directlink here. eg. https://www.quirksmode.org/html5/"
+"videos/big_buck_bunny.mp4"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:123
+msgid "Portfolio Gallery Images"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:124
+msgid "Create your gallery here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:131 inc/rdn-slider.php:71
+msgid "Slider Image"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:132
+msgid "Upload your gallery image here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:137
+msgid "Image Gallery Size"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:138
+msgid "Choose your image size here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:144
+msgid "Default Size"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:148
+msgid "Big Size"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:156
+msgid "Use Banner"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:160
+msgid ""
+"Turn on if you want to use banner at the bottom of single portfolio page."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:163
+msgid "Image for Banner"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:166
+msgid "Upload the image for banner here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:174
+msgid "Insert the banner title here."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:178
+msgid "Banner Button Text"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:182
+msgid ""
+"Insert the banner button text here. Leave it blank if you don't want it."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:186
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:190
+msgid ""
+"Insert the banner button link here. Leave it blank if you don't want it."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:195
+msgid "Banner Image Position"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:196
+msgid "Choose your banner Image position."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:203
+msgid "Right Side"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:207
+msgid "Left Side"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:213
+msgid "Banner Color Scheme"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:214
+msgid "Choose your banner color scheme."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:221
+msgid "White Background"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:225
+msgid "Theme Background Color"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:229
+msgid "Dark Background"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:234
+msgid "Portfolio Detail Setting"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:240
+msgid "Portfolio Button Link"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:243
+msgid "Insert your button link here. Leave it blank if you dont want it."
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:246
+msgid "Portfolio Button Text"
+msgstr ""
+
+#: inc/portfolio-metaboxes.php:249
+msgid "Insert your button text here. Leave it blank if you dont want it."
+msgstr ""
+
+#: inc/portfolio.php:8 inc/portfolio.php:9
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:10 inc/portfolio.php:11 inc/portfolio.php:13
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:12
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:14
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:15
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:16
+msgid "No Portfolio found"
+msgstr ""
+
+#: inc/portfolio.php:17
+msgid "No Portfolio found in trash"
+msgstr ""
+
+#: inc/portfolio.php:38
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:39
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio.php:40
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:41
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: inc/portfolio.php:42
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:43
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:44
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:45
+msgid "New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio.php:46
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/post-metaboxes.php:14
+msgid "Post Setting"
+msgstr ""
+
+#: inc/post-metaboxes.php:22
+msgid "Note for Image"
+msgstr ""
+
+#: inc/post-metaboxes.php:23
+msgid "Always use the same ratio/size for images in slider/gallery below.  "
+msgstr ""
+
+#: inc/post-metaboxes.php:35
+msgid "Choose Post Format Here"
+msgstr ""
+
+#: inc/post-metaboxes.php:42
+msgid "Post Standard"
+msgstr ""
+
+#: inc/post-metaboxes.php:46
+msgid "Post Gallery"
+msgstr ""
+
+#: inc/post-metaboxes.php:50
+msgid "Post Slider"
+msgstr ""
+
+#: inc/post-metaboxes.php:54
+msgid "Post Video"
+msgstr ""
+
+#: inc/post-metaboxes.php:58
+msgid "Post Audio"
+msgstr ""
+
+#: inc/post-metaboxes.php:64
+msgid "Gallery Setting"
+msgstr ""
+
+#: inc/post-metaboxes.php:67
+msgid ""
+"Create your Post gallery here. <br/>Try to use same ratio for each image."
+msgstr ""
+
+#: inc/post-metaboxes.php:71 inc/rdn-slider.php:45
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/post-metaboxes.php:74
+msgid "Create your Post Slider here."
+msgstr ""
+
+#: inc/post-metaboxes.php:78
+msgid "Video Setting"
+msgstr ""
+
+#: inc/post-metaboxes.php:81
+msgid ""
+"Insert the link for video embed here.<br/> For video from youtube/vimeo just "
+"put the link without any attribute like ?wmode=opaque.<br/>eg: http://www."
+"youtube.com/embed/IzgAYZTuBA8 or http://player.vimeo.com/video/64078587"
+msgstr ""
+
+#: inc/post-metaboxes.php:85
+msgid "Audio Setting"
+msgstr ""
+
+#: inc/post-metaboxes.php:89
+msgid ""
+"Insert your iframe/embedded code for audio here.<br/>\n"
+"\t\tYou can input iframe/embed code from youtube/vimeo here too, if you "
+"don't like the default style of Post video."
+msgstr ""
+
+#: inc/post-metaboxes.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: inc/post-metaboxes.php:97
+msgid "You can hide the sidebar by turning it off."
+msgstr ""
+
+#: inc/prebuild.php:9
+msgid "Onepage Slider"
+msgstr ""
+
+#: inc/prebuild.php:10
+msgid ""
+"Prebuilt layout for homepage with one-page slider style. \n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose One Page Builder template so you can use one-page "
+"style menus later."
+msgstr ""
+
+#: inc/prebuild.php:20
+msgid "Onepage Video"
+msgstr ""
+
+#: inc/prebuild.php:21
+msgid ""
+"Prebuilt layout for homepage with one-page video style. \n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose One Page Builder template so you can use one-page "
+"style menus later."
+msgstr ""
+
+#: inc/prebuild.php:30
+msgid "Onepage Youtube"
+msgstr ""
+
+#: inc/prebuild.php:31
+msgid ""
+"Prebuilt layout for homepage with one-page youtube style. \n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose One Page Builder template so you can use one-page "
+"style menus later."
+msgstr ""
+
+#: inc/prebuild.php:40
+msgid "Home Agency 1"
+msgstr ""
+
+#: inc/prebuild.php:41
+msgid ""
+"Prebuilt layout for homepage agency style one.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:50
+msgid "Home Agency 2"
+msgstr ""
+
+#: inc/prebuild.php:51
+msgid ""
+"Prebuilt layout for homepage agency style two.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:60
+msgid "Home Personal 1"
+msgstr ""
+
+#: inc/prebuild.php:61
+msgid ""
+"Prebuilt layout for homepage personal style one.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:70
+msgid "Home Personal 2"
+msgstr ""
+
+#: inc/prebuild.php:71
+msgid ""
+"Prebuilt layout for homepage personal style two.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:80
+msgid "Works Agency 1"
+msgstr ""
+
+#: inc/prebuild.php:81
+msgid ""
+"Prebuilt layout for works page agency style one.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:90
+msgid "Works Agency 2"
+msgstr ""
+
+#: inc/prebuild.php:91
+msgid ""
+"Prebuilt layout for works page agency style two.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:100
+msgid "About Agency 1"
+msgstr ""
+
+#: inc/prebuild.php:101
+msgid ""
+"Prebuilt layout for about page agency style one.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:110
+msgid "About Agency 2"
+msgstr ""
+
+#: inc/prebuild.php:111
+msgid ""
+"Prebuilt layout for about page agency style two.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:120
+msgid "About Personal"
+msgstr ""
+
+#: inc/prebuild.php:121
+msgid ""
+"Prebuilt layout for about page personal style.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:130
+msgid "Contact Agency 1"
+msgstr ""
+
+#: inc/prebuild.php:131
+msgid ""
+"Prebuilt layout for contact page agency style one.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:140
+msgid "Contact Agency 2"
+msgstr ""
+
+#: inc/prebuild.php:141
+msgid ""
+"Prebuilt layout for contact page agency style two.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/prebuild.php:150
+msgid "Contact Personal"
+msgstr ""
+
+#: inc/prebuild.php:151
+msgid ""
+"Prebuilt layout for contact page personal style.\n"
+"\t\t\tYou can change the color scheme light/dark in theme options.\n"
+"\t\t\tMake sure to choose Page Builder template to prevent layout error."
+msgstr ""
+
+#: inc/rdn-slider.php:8 inc/rdn-slider.php:9
+msgid "Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:10 inc/rdn-slider.php:11
+msgid "Add New Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:12
+msgid "Edit Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:13
+msgid "Add Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:14
+msgid "View Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:15
+msgid "Search Homepage Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:16
+msgid "No Homepage Slider found"
+msgstr ""
+
+#: inc/rdn-slider.php:17
+msgid "No Homepage Slider found in trash"
+msgstr ""
+
+#: inc/rdn-slider.php:56
+msgid "Homepage Slider List"
+msgstr ""
+
+#: inc/rdn-slider.php:57
+msgid ""
+"Create your slider list here.<br/> For homepage with video/youtube "
+"background <b>the slider images will appear on touch devices</b> (replacing "
+"the video/youtube video)."
+msgstr ""
+
+#: inc/rdn-slider.php:72
+msgid "Upload your slider image here."
+msgstr ""
+
+#: inc/rdn-slider.php:86
+msgid "Slider Bottom Text"
+msgstr ""
+
+#: inc/rdn-slider.php:87
+msgid "Input your slider bottom text here."
+msgstr ""
+
+#: inc/rdn-slider.php:100
+msgid "Slider Text Button"
+msgstr ""
+
+#: inc/rdn-slider.php:101
+msgid "Input your text for button here.( leave it blank if you don't want it)"
+msgstr ""
+
+#: inc/rdn-slider.php:114
+msgid "Slider Link Button"
+msgstr ""
+
+#: inc/rdn-slider.php:115
+msgid ""
+"Input your slider button link here( leave it blank if you don't want it)"
+msgstr ""
+
+#: inc/rdn-slider.php:131
+msgid "Parallax Slider"
+msgstr ""
+
+#: inc/rdn-slider.php:132
+msgid ""
+"If you want to use this slider inside the page/not at the very top of the "
+"page, please turn off the parallax to prevent any display error in slider."
+msgstr ""
+
+#: inc/rdn-slider.php:138
+msgid "Parallax Ratio"
+msgstr ""
+
+#: inc/rdn-slider.php:143
+msgid ""
+"Set your parallax ratio here. <br>Try to play with the right value here. "
+"Default/recomennded value is <strong>0.8</strong>."
+msgstr ""
+
+#: inc/rdn-slider.php:148
+msgid "Homepage Slider Delay"
+msgstr ""
+
+#: inc/rdn-slider.php:149
+msgid "Set your slider delay here."
+msgstr ""
+
+#: inc/sharebox.php:6
+msgid "Share this:"
+msgstr ""
+
+#: inc/sharebox.php:8
+msgid "Tweet this"
+msgstr ""
+
+#: inc/sharebox.php:12
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/sharebox.php:18
+msgid "Pin This"
+msgstr ""
+
+#: inc/sharebox.php:22
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/team-metaboxes.php:14
+msgid "Team Post Setting"
+msgstr ""
+
+#: inc/team-metaboxes.php:25
+msgid ""
+"Recommended size for team featured image is 800x582px. Try to use the same "
+"size/ratio for each team images."
+msgstr ""
+
+#: inc/team-metaboxes.php:33
+msgid "Team Position"
+msgstr ""
+
+#: inc/team-metaboxes.php:36
+msgid "Input team position here."
+msgstr ""
+
+#: inc/team-metaboxes.php:40
+msgid "Facebook link"
+msgstr ""
+
+#: inc/team-metaboxes.php:43
+msgid "Input link for Facebook"
+msgstr ""
+
+#: inc/team-metaboxes.php:46
+msgid "Twitter link"
+msgstr ""
+
+#: inc/team-metaboxes.php:49
+msgid "Input link for Twitter"
+msgstr ""
+
+#: inc/team-metaboxes.php:52
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/team-metaboxes.php:55
+msgid "Input link for Pintereset"
+msgstr ""
+
+#: inc/team-metaboxes.php:58
+msgid "Google Plus link"
+msgstr ""
+
+#: inc/team-metaboxes.php:61
+msgid "Input link for Google Plus"
+msgstr ""
+
+#: inc/team-metaboxes.php:64
+msgid "Instagram link"
+msgstr ""
+
+#: inc/team-metaboxes.php:67
+msgid "Input link for Instagram"
+msgstr ""
+
+#: inc/team-metaboxes.php:70
+msgid "Xing link"
+msgstr ""
+
+#: inc/team-metaboxes.php:73
+msgid "Input link for Xing"
+msgstr ""
+
+#: inc/team-metaboxes.php:76
+msgid "Another Social icon list"
+msgstr ""
+
+#: inc/team-metaboxes.php:79
+msgid "Create another social icon list here."
+msgstr ""
+
+#: inc/team-metaboxes.php:83
+msgid "Social Icon"
+msgstr ""
+
+#: inc/team-metaboxes.php:84
+msgid ""
+"Input your social icon here. <br/> You can check <a href=\"http://"
+"fontawesome.io/icons/\" target=\"_blank\">Here</a> for icon list. eg. fa-"
+"github"
+msgstr ""
+
+#: inc/team-metaboxes.php:89
+msgid "Social Icon Link"
+msgstr ""
+
+#: inc/team-metaboxes.php:90
+msgid "Input your social icon link here."
+msgstr ""
+
+#: inc/team-metaboxes.php:96
+msgid "Email link"
+msgstr ""
+
+#: inc/team-metaboxes.php:99
+msgid "Input email here(email address only,without mailto:)"
+msgstr ""
+
+#: inc/team.php:8
+msgid "Team Posts"
+msgstr ""
+
+#: inc/team.php:9
+msgid "Team Post"
+msgstr ""
+
+#: inc/team.php:10 inc/team.php:11 inc/team.php:13
+msgid "Add New Team Post"
+msgstr ""
+
+#: inc/team.php:12
+msgid "Edit Team Post"
+msgstr ""
+
+#: inc/team.php:14
+msgid "View Team Post"
+msgstr ""
+
+#: inc/team.php:15
+msgid "Search Team Posts"
+msgstr ""
+
+#: inc/team.php:16
+msgid "No Team Post found"
+msgstr ""
+
+#: inc/team.php:17
+msgid "No Team Post found in trash"
+msgstr ""
+
+#: inc/testimonial-metaboxes.php:22
+msgid "Testimonial Author Position"
+msgstr ""
+
+#: inc/testimonial-metaboxes.php:23
+msgid ""
+"Input your text for testimonial author position/job here. <br/><b>The "
+"testimonial title</b> will be the testimonial author."
+msgstr ""
+
+#: inc/testimonial.php:8 inc/testimonial.php:9
+msgid "Testimonial"
+msgstr ""
+
+#: inc/testimonial.php:10 inc/testimonial.php:11 inc/testimonial.php:13
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/testimonial.php:12
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/testimonial.php:14
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/testimonial.php:15
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/testimonial.php:16
+msgid "No Testimonial found"
+msgstr ""
+
+#: inc/testimonial.php:17
+msgid "No Testimonial found in trash"
+msgstr ""
+
+#: inc/theme-import.php:23
+msgid "Theme Options Backup/Restore"
+msgstr ""
+
+#: inc/theme-import.php:24
+msgid "Options Backup"
+msgstr ""
+
+#: inc/theme-import.php:29
+msgid "Options updated."
+msgstr ""
+
+#: inc/theme-import.php:30
+msgid "Options reset."
+msgstr ""
+
+#: inc/theme-import.php:31
+msgid "Save Changes"
+msgstr ""
+
+#: inc/theme-import.php:38
+msgid "Import/Export"
+msgstr ""
+
+#: inc/theme-import.php:44 inc/theme-import.php:102
+msgid "Import Theme Options"
+msgstr ""
+
+#: inc/theme-import.php:45 inc/theme-import.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-import.php:56
+msgid "Export Theme Options"
+msgstr ""
+
+#: inc/theme-import.php:98
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: inc/theme-import.php:100
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: inc/theme-import.php:133
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later."
+msgstr ""

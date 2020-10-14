@@ -1,0 +1,6 @@
+//@import "social-share";
+@import "tag";
+.g5blog__single-meta-bottom {
+  border-top: 1px solid;
+  @extend %border-color;
+}

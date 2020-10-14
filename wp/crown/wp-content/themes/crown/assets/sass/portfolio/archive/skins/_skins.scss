@@ -1,0 +1,38 @@
+.g5portfolio__post-content {
+  @include d-flex();
+  @include flex-column();
+}
+
+.g5portfolio__post-title {
+  order: -1;
+}
+
+.g5portfolio__post-cat {
+  margin: 7px 0 0 0;
+}
+
+.g5portfolio__post-default {
+  .g5core__entry-thumbnail:after {
+    background-color: rgba(27, 27, 27, 0.6);
+  }
+}
+
+.g5portfolio__post-skin-hover-trim {
+  .g5portfolio__post-featured {
+    .g5core__entry-thumbnail {
+      @include transition(all .5s);
+      @include transform(scale(1));
+    }
+    &:hover {
+      .g5core__entry-thumbnail {
+        @include transform(scale(0.9));
+      }
+    }
+  }
+}
+
+@import "skin-modern";
+//@import "skin-flat";
+@import "skin-classic";
+
+

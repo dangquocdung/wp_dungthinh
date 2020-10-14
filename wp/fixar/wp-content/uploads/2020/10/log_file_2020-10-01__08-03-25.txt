@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Import Theme were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/fixar
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/fixar/wp-content/uploads/2020/10/demo-content-import-file_2020-10-01__08-03-25.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/fixar/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-01__08-03-25.json
+Customizer file = /var/www/html/dungthinh/wp_dungthinh/wp/fixar/wp-content/uploads/2020/10/demo-customizer-import-file_2020-10-01__08-03-25.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào action-group woocommerce-db-updates
+[WARNING] Không thể nhập vào action-group wc_update_product_lookup_tables
+
+
+---Importing widgets---
+WP Default Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Mailchimp Sign-Up Form - No Title - Imported
+WP Tab Widget by MyThemeShop - No Title - Imported
+
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Mailchimp Sign-Up Form - No Title - Imported
+WP Tab Widget by MyThemeShop - No Title - Imported
+
+Services Sidebar : 
+
+Services Categories - No Title - Imported
+Mailchimp Sign-Up Form - No Title - Imported
+
+Shop sidebar : 
+
+Tìm kiếm sản phẩm - No Title - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Sản phẩm theo đánh giá - Top rated products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

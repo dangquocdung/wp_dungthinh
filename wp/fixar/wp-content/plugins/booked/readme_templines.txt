@@ -1,0 +1,1 @@
+Warning: preg_replace(): Compilation failed: escape sequence is invalid in character class at offset 4 includes/general-functions.php on line 19

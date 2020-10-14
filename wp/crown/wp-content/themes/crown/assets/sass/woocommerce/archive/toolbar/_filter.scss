@@ -1,0 +1,9 @@
+.g5shop__filter-button {
+  color: inherit;
+  &.active,
+  &:hover,
+  &:focus,
+  &:active {
+    @extend %heading-color;
+  }
+}

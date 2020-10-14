@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OT Visual Composer v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-07-21 09:28:51+0000\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions/shortcodes.php:231
+#: functions/shortcodes.php:371
+#: functions/shortcodes.php:405
+#: functions/shortcodes.php:442
+#@ finance
+msgid "Learn More"
+msgstr ""
+
+#: functions/vc_shortcode.php:6
+#@ otvcp-i10n
+msgid "OT Heading"
+msgstr ""
+
+#: functions/vc_shortcode.php:16
+#@ otvcp-i10n
+msgid "Text"
+msgstr ""
+
+#: functions/vc_shortcode.php:19
+#@ otvcp-i10n
+msgid "Add Text"
+msgstr ""
+
+#: functions/vc_shortcode.php:23
+#@ otvcp-i10n
+msgid "Element Tag"
+msgstr ""
+
+#: functions/vc_shortcode.php:26
+#@ otvcp-i10n
+msgid "Select Tag"
+msgstr ""
+
+#: functions/vc_shortcode.php:27
+#@ otvcp-i10n
+msgid "h1"
+msgstr ""
+
+#: functions/vc_shortcode.php:28
+#@ otvcp-i10n
+msgid "h2"
+msgstr ""
+
+#: functions/vc_shortcode.php:29
+#@ otvcp-i10n
+msgid "h3"
+msgstr ""
+
+#: functions/vc_shortcode.php:30
+#@ otvcp-i10n
+msgid "h4"
+msgstr ""
+
+#: functions/vc_shortcode.php:31
+#@ otvcp-i10n
+msgid "h5"
+msgstr ""
+
+#: functions/vc_shortcode.php:32
+#@ otvcp-i10n
+msgid "h6"
+msgstr ""
+
+#: functions/vc_shortcode.php:33
+#@ otvcp-i10n
+msgid "p"
+msgstr ""
+
+#: functions/vc_shortcode.php:34
+#@ otvcp-i10n
+msgid "div"
+msgstr ""
+
+#: functions/vc_shortcode.php:36
+#@ otvcp-i10n
+msgid "Section Element Tag"
+msgstr ""
+
+#: functions/vc_shortcode.php:40
+#@ otvcp-i10n
+msgid "Text Align"
+msgstr ""
+
+#: functions/vc_shortcode.php:43
+#@ otvcp-i10n
+msgid "Select Align"
+msgstr ""
+
+#: functions/vc_shortcode.php:44
+#: functions/vc_shortcode.php:188
+#@ otvcp-i10n
+msgid "left"
+msgstr ""
+
+#: functions/vc_shortcode.php:45
+#@ otvcp-i10n
+msgid "right"
+msgstr ""
+
+#: functions/vc_shortcode.php:46
+#@ otvcp-i10n
+msgid "center"
+msgstr ""
+
+#: functions/vc_shortcode.php:47
+#@ otvcp-i10n
+msgid "justify"
+msgstr ""
+
+#: functions/vc_shortcode.php:49
+#@ otvcp-i10n
+msgid "Section Overlay"
+msgstr ""
+
+#: functions/vc_shortcode.php:55
+#: functions/vc_shortcode.php:58
+#@ otvcp-i10n
+msgid "Font Size"
+msgstr ""
+
+#: functions/vc_shortcode.php:64
+#: functions/vc_shortcode.php:67
+#@ otvcp-i10n
+msgid "Color"
+msgstr ""
+
+#: functions/vc_shortcode.php:73
+#@ otvcp-i10n
+msgid "Margin Top"
+msgstr ""
+
+#: functions/vc_shortcode.php:76
+#@ otvcp-i10n
+msgid "Add margin top of heading"
+msgstr ""
+
+#: functions/vc_shortcode.php:82
+#@ otvcp-i10n
+msgid "Margin Bottom"
+msgstr ""
+
+#: functions/vc_shortcode.php:85
+#@ otvcp-i10n
+msgid "Add margin bottom of heading"
+msgstr ""
+
+#: functions/vc_shortcode.php:91
+#@ otvcp-i10n
+msgid "Class Extra"
+msgstr ""
+
+#: functions/vc_shortcode.php:94
+#@ otvcp-i10n
+msgid "Class extra for style"
+msgstr ""
+
+#: functions/vc_shortcode.php:104
+#@ otvcp-i10n
+msgid "OT Button 2"
+msgstr ""
+
+#: functions/vc_shortcode.php:124
+#@ otvcp-i10n
+msgid "Button Text"
+msgstr ""
+
+#: functions/vc_shortcode.php:142
+#@ otvcp-i10n
+msgid "Button Link"
+msgstr ""
+
+#: functions/vc_shortcode.php:160
+#: functions/vc_shortcode.php:533
+#@ otvcp-i10n
+msgid "Icon"
+msgstr ""
+
+#: functions/vc_shortcode.php:178
+#@ otvcp-i10n
+msgid "Positon Icon"
+msgstr ""
+
+#: functions/vc_shortcode.php:184
+#@ otvcp-i10n
+msgid "Default"
+msgstr ""
+
+#: functions/vc_shortcode.php:186
+#@ otvcp-i10n
+msgid "Right"
+msgstr ""
+
+#: functions/vc_shortcode.php:203
+#@ otvcp-i10n
+msgid "Button Color"
+msgstr ""
+
+#: functions/vc_shortcode.php:209
+#@ otvcp-i10n
+msgid "Color default"
+msgstr ""
+
+#: functions/vc_shortcode.php:211
+#@ otvcp-i10n
+msgid "Green"
+msgstr ""
+
+#: functions/vc_shortcode.php:213
+#@ otvcp-i10n
+msgid "Orange"
+msgstr ""
+
+#: functions/vc_shortcode.php:215
+#@ otvcp-i10n
+msgid "Red"
+msgstr ""
+
+#: functions/vc_shortcode.php:217
+#@ otvcp-i10n
+msgid "Yellow"
+msgstr ""
+
+#: functions/vc_shortcode.php:219
+#@ otvcp-i10n
+msgid "Blue"
+msgstr ""
+
+#: functions/vc_shortcode.php:221
+#@ otvcp-i10n
+msgid "Hightlight"
+msgstr ""
+
+#: functions/vc_shortcode.php:223
+#@ otvcp-i10n
+msgid "Transparent"
+msgstr ""
+
+#: functions/vc_shortcode.php:238
+#@ otvcp-i10n
+msgid "Button type"
+msgstr ""
+
+#: functions/vc_shortcode.php:244
+#@ otvcp-i10n
+msgid "Border"
+msgstr ""
+
+#: functions/vc_shortcode.php:246
+#@ otvcp-i10n
+msgid "Download"
+msgstr ""
+
+#: functions/vc_shortcode.php:261
+#@ otvcp-i10n
+msgid "Button Margin Right"
+msgstr ""
+
+#: functions/vc_shortcode.php:277
+#@ otvcp-i10n
+msgid "Button Size"
+msgstr ""
+
+#: functions/vc_shortcode.php:283
+#@ otvcp-i10n
+msgid "Regular size"
+msgstr ""
+
+#: functions/vc_shortcode.php:285
+#@ otvcp-i10n
+msgid "Large"
+msgstr ""
+
+#: functions/vc_shortcode.php:287
+#@ otvcp-i10n
+msgid "Small"
+msgstr ""
+
+#: functions/vc_shortcode.php:301
+#@ otvcp-i10n
+msgid "Not Radius ?"
+msgstr ""
+
+#: functions/vc_shortcode.php:307
+#@ otvcp-i10n
+msgid "default"
+msgstr ""
+
+#: functions/vc_shortcode.php:309
+#@ otvcp-i10n
+msgid "radius 50"
+msgstr ""
+
+#: functions/vc_shortcode.php:311
+#@ otvcp-i10n
+msgid "Rounded"
+msgstr ""
+
+#: functions/vc_shortcode.php:324
+#@ otvcp-i10n
+msgid "OT Latest Blog"
+msgstr ""
+
+#: functions/vc_shortcode.php:334
+#: functions/vc_shortcode.php:393
+#: functions/vc_shortcode.php:468
+#: functions/vc_shortcode.php:505
+#: functions/vc_shortcode.php:542
+#: functions/vc_shortcode.php:594
+#: functions/vc_shortcode.php:822
+#: functions/vc_shortcode.php:853
+#: functions/vc_shortcode.php:884
+#: functions/vc_shortcode.php:918
+#: functions/vc_shortcode.php:1011
+#: functions/vc_shortcode.php:1368
+#: functions/vc_shortcode.php:1451
+#@ otvcp-i10n
+msgid "Title"
+msgstr ""
+
+#: functions/vc_shortcode.php:337
+#: functions/vc_shortcode.php:397
+#: functions/vc_shortcode.php:471
+#: functions/vc_shortcode.php:508
+#: functions/vc_shortcode.php:545
+#: functions/vc_shortcode.php:597
+#: functions/vc_shortcode.php:628
+#: functions/vc_shortcode.php:655
+#: functions/vc_shortcode.php:682
+#: functions/vc_shortcode.php:731
+#: functions/vc_shortcode.php:758
+#: functions/vc_shortcode.php:785
+#: functions/vc_shortcode.php:825
+#: functions/vc_shortcode.php:856
+#: functions/vc_shortcode.php:887
+#: functions/vc_shortcode.php:924
+#: functions/vc_shortcode.php:1017
+#: functions/vc_shortcode.php:1370
+#: functions/vc_shortcode.php:1454
+#: functions/vc_shortcode.php:1463
+#@ otvcp-i10n
+msgid "Enter the title"
+msgstr ""
+
+#: functions/vc_shortcode.php:343
+#: functions/vc_shortcode.php:406
+#: functions/vc_shortcode.php:440
+#: functions/vc_shortcode.php:831
+#: functions/vc_shortcode.php:862
+#: functions/vc_shortcode.php:1197
+#@ otvcp-i10n
+msgid "Number Show"
+msgstr ""
+
+#: functions/vc_shortcode.php:346
+#: functions/vc_shortcode.php:834
+#: functions/vc_shortcode.php:865
+#: functions/vc_shortcode.php:1200
+#@ otvcp-i10n
+msgid "Enter the number show"
+msgstr ""
+
+#: functions/vc_shortcode.php:352
+#@ otvcp-i10n
+msgid "Excerpt Length"
+msgstr ""
+
+#: functions/vc_shortcode.php:355
+#@ otvcp-i10n
+msgid "Number Excerpt Length"
+msgstr ""
+
+#: functions/vc_shortcode.php:359
+#: functions/vc_shortcode.php:484
+#: functions/vc_shortcode.php:512
+#@ otvcp-i10n
+msgid "Button link"
+msgstr ""
+
+#: functions/vc_shortcode.php:362
+#: functions/vc_shortcode.php:486
+#: functions/vc_shortcode.php:514
+#: functions/vc_shortcode.php:1260
+#: functions/vc_shortcode.php:1278
+#: functions/vc_shortcode.php:1296
+#: functions/vc_shortcode.php:1314
+#: functions/vc_shortcode.php:1332
+#: functions/vc_shortcode.php:1350
+#@ otvcp-i10n
+msgid "Add link"
+msgstr ""
+
+#: functions/vc_shortcode.php:368
+#: functions/vc_shortcode.php:412
+#: functions/vc_shortcode.php:560
+#: functions/vc_shortcode.php:1384
+#@ otvcp-i10n
+msgid "Style"
+msgstr ""
+
+#: functions/vc_shortcode.php:371
+#: functions/vc_shortcode.php:415
+#@ otvcp-i10n
+msgid "3 Columns"
+msgstr ""
+
+#: functions/vc_shortcode.php:372
+#@ otvcp-i10n
+msgid "2 Columns"
+msgstr ""
+
+#: functions/vc_shortcode.php:383
+#@ otvcp-i10n
+msgid "OT Services"
+msgstr ""
+
+#: functions/vc_shortcode.php:403
+#: functions/vc_shortcode.php:437
+#: functions/vc_shortcode.php:634
+#: functions/vc_shortcode.php:661
+#: functions/vc_shortcode.php:688
+#: functions/vc_shortcode.php:737
+#: functions/vc_shortcode.php:764
+#: functions/vc_shortcode.php:791
+#: functions/vc_shortcode.php:936
+#: functions/vc_shortcode.php:1029
+#@ otvcp-i10n
+msgid "Number"
+msgstr ""
+
+#: functions/vc_shortcode.php:416
+#@ otvcp-i10n
+msgid "slide"
+msgstr ""
+
+#: functions/vc_shortcode.php:427
+#@ otvcp-i10n
+msgid "OT Services List"
+msgstr ""
+
+#: functions/vc_shortcode.php:449
+#@ otvcp-i10n
+msgid "OT Services List 2"
+msgstr ""
+
+#: functions/vc_shortcode.php:459
+#: functions/vc_shortcode.php:585
+#: functions/vc_shortcode.php:1085
+#@ otvcp-i10n
+msgid "Image"
+msgstr ""
+
+#: functions/vc_shortcode.php:462
+#@ otvcp-i10n
+msgid "Upload image"
+msgstr ""
+
+#: functions/vc_shortcode.php:477
+#: functions/vc_shortcode.php:551
+#: functions/vc_shortcode.php:603
+#: functions/vc_shortcode.php:1160
+#: functions/vc_shortcode.php:1239
+#@ otvcp-i10n
+msgid "Content"
+msgstr ""
+
+#: functions/vc_shortcode.php:480
+#: functions/vc_shortcode.php:554
+#: functions/vc_shortcode.php:606
+#: functions/vc_shortcode.php:1242
+#@ otvcp-i10n
+msgid "Enter the content"
+msgstr ""
+
+#: functions/vc_shortcode.php:495
+#@ otvcp-i10n
+msgid "OT Call To Action"
+msgstr ""
+
+#: functions/vc_shortcode.php:523
+#@ otvcp-i10n
+msgid "OT Services Box"
+msgstr ""
+
+#: functions/vc_shortcode.php:536
+#: functions/vc_shortcode.php:1251
+#: functions/vc_shortcode.php:1269
+#: functions/vc_shortcode.php:1287
+#: functions/vc_shortcode.php:1305
+#: functions/vc_shortcode.php:1323
+#: functions/vc_shortcode.php:1341
+#@ otvcp-i10n
+msgid "Select icon"
+msgstr ""
+
+#: functions/vc_shortcode.php:563
+#@ otvcp-i10n
+msgid "Left"
+msgstr ""
+
+#: functions/vc_shortcode.php:564
+#@ otvcp-i10n
+msgid "Center"
+msgstr ""
+
+#: functions/vc_shortcode.php:575
+#@ otvcp-i10n
+msgid "OT Image Box"
+msgstr ""
+
+#: functions/vc_shortcode.php:588
+#: functions/vc_shortcode.php:1091
+#: functions/vc_shortcode.php:1148
+#@ otvcp-i10n
+msgid "Upload Image"
+msgstr ""
+
+#: functions/vc_shortcode.php:615
+#@ otvcp-i10n
+msgid "OT Counter Up"
+msgstr ""
+
+#: functions/vc_shortcode.php:625
+#: functions/vc_shortcode.php:728
+#@ otvcp-i10n
+msgid "Title 1"
+msgstr ""
+
+#: functions/vc_shortcode.php:637
+#: functions/vc_shortcode.php:664
+#: functions/vc_shortcode.php:691
+#: functions/vc_shortcode.php:740
+#: functions/vc_shortcode.php:767
+#: functions/vc_shortcode.php:794
+#: functions/vc_shortcode.php:942
+#: functions/vc_shortcode.php:1035
+#@ otvcp-i10n
+msgid "Enter the number"
+msgstr ""
+
+#: functions/vc_shortcode.php:643
+#: functions/vc_shortcode.php:670
+#: functions/vc_shortcode.php:697
+#: functions/vc_shortcode.php:746
+#: functions/vc_shortcode.php:773
+#: functions/vc_shortcode.php:800
+#@ otvcp-i10n
+msgid "Unit"
+msgstr ""
+
+#: functions/vc_shortcode.php:646
+#: functions/vc_shortcode.php:673
+#: functions/vc_shortcode.php:700
+#: functions/vc_shortcode.php:749
+#: functions/vc_shortcode.php:776
+#: functions/vc_shortcode.php:803
+#@ otvcp-i10n
+msgid "Enter the unit"
+msgstr ""
+
+#: functions/vc_shortcode.php:652
+#: functions/vc_shortcode.php:755
+#@ otvcp-i10n
+msgid "Title 2"
+msgstr ""
+
+#: functions/vc_shortcode.php:679
+#: functions/vc_shortcode.php:782
+#@ otvcp-i10n
+msgid "Title 3"
+msgstr ""
+
+#: functions/vc_shortcode.php:709
+#@ otvcp-i10n
+msgid "OT Counter Up 2"
+msgstr ""
+
+#: functions/vc_shortcode.php:719
+#: functions/vc_shortcode.php:1142
+#@ otvcp-i10n
+msgid "Background Image"
+msgstr ""
+
+#: functions/vc_shortcode.php:722
+#@ otvcp-i10n
+msgid "Uploadt Image"
+msgstr ""
+
+#: functions/vc_shortcode.php:812
+#@ otvcp-i10n
+msgid "OT Portfolios Slide"
+msgstr ""
+
+#: functions/vc_shortcode.php:843
+#@ otvcp-i10n
+msgid "OT Our Team"
+msgstr ""
+
+#: functions/vc_shortcode.php:874
+#@ otvcp-i10n
+msgid "OT Client Logos"
+msgstr ""
+
+#: functions/vc_shortcode.php:904
+#@ otvcp-i10n
+msgid "OT Skill"
+msgstr ""
+
+#: functions/vc_shortcode.php:950
+#@ otvcp-i10n
+msgid "Active"
+msgstr ""
+
+#: functions/vc_shortcode.php:959
+#@ otvcp-i10n
+msgid "Pattern"
+msgstr ""
+
+#: functions/vc_shortcode.php:972
+#: functions/vc_shortcode.php:1047
+#@ otvcp-i10n
+msgid "Extra Class"
+msgstr ""
+
+#: functions/vc_shortcode.php:978
+#: functions/vc_shortcode.php:1053
+#@ otvcp-i10n
+msgid "Add class. Ex: progress-bar-success, progress-bar-info, progress-bar-warning, progress-bar-danger."
+msgstr ""
+
+#: functions/vc_shortcode.php:991
+#@ otvcp-i10n
+msgid "OT Skill 2"
+msgstr ""
+
+#: functions/vc_shortcode.php:1065
+#@ otvcp-i10n
+msgid "OT Youtube Video"
+msgstr ""
+
+#: functions/vc_shortcode.php:1103
+#@ otvcp-i10n
+msgid "Video"
+msgstr ""
+
+#: functions/vc_shortcode.php:1109
+#@ otvcp-i10n
+msgid "Add Link Video"
+msgstr ""
+
+#: functions/vc_shortcode.php:1122
+#@ otvcp-i10n
+msgid "OT Parallax Box"
+msgstr ""
+
+#: functions/vc_shortcode.php:1166
+#@ otvcp-i10n
+msgid "Add Content"
+msgstr ""
+
+#: functions/vc_shortcode.php:1178
+#@ otvcp-i10n
+msgid "OT Portfolio Filter"
+msgstr ""
+
+#: functions/vc_shortcode.php:1188
+#@ otvcp-i10n
+msgid "Text show all"
+msgstr ""
+
+#: functions/vc_shortcode.php:1191
+#@ otvcp-i10n
+msgid "Enter the text"
+msgstr ""
+
+#: functions/vc_shortcode.php:1209
+#@ otvcp-i10n
+msgid "OT Galeery"
+msgstr ""
+
+#: functions/vc_shortcode.php:1229
+#@ otvcp-i10n
+msgid "OT Socials"
+msgstr ""
+
+#: functions/vc_shortcode.php:1358
+#@ otvcp-i10n
+msgid "OT Testimonials"
+msgstr ""
+
+#: functions/vc_shortcode.php:1376
+#: functions/vc_shortcode.php:1409
+#: functions/vc_shortcode.php:1430
+#@ otvcp-i10n
+msgid "Number Testimonial"
+msgstr ""
+
+#: functions/vc_shortcode.php:1387
+#@ otvcp-i10n
+msgid "style 1"
+msgstr ""
+
+#: functions/vc_shortcode.php:1388
+#@ otvcp-i10n
+msgid "styly 2 slide 3 column"
+msgstr ""
+
+#: functions/vc_shortcode.php:1390
+#@ otvcp-i10n
+msgid "Select style"
+msgstr ""
+
+#: functions/vc_shortcode.php:1399
+#@ otvcp-i10n
+msgid "OT List Testimonial 3 Col"
+msgstr ""
+
+#: functions/vc_shortcode.php:1420
+#@ otvcp-i10n
+msgid "OT List Testimonial 2 Col"
+msgstr ""
+
+#: functions/vc_shortcode.php:1441
+#@ otvcp-i10n
+msgid "OT Google Map"
+msgstr ""
+
+#: functions/vc_shortcode.php:1460
+#@ otvcp-i10n
+msgid "Email"
+msgstr ""
+
+#: functions/vc_shortcode.php:1469
+#@ otvcp-i10n
+msgid "Latitude"
+msgstr ""
+
+#: functions/vc_shortcode.php:1472
+#: functions/vc_shortcode.php:1481
+#@ otvcp-i10n
+msgid "Please enter http://www.latlong.net/ google map"
+msgstr ""
+
+#: functions/vc_shortcode.php:1478
+#@ otvcp-i10n
+msgid "Longitude"
+msgstr ""
+
+#: functions/vc_shortcode.php:1488
+#@ otvcp-i10n
+msgid "Zoom Map"
+msgstr ""
+
+#: functions/vc_shortcode.php:1491
+#@ otvcp-i10n
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+#: functions/vc_shortcode.php:1500
+#@ otvcp-i10n
+msgid "Icon Map marker, 47 x 68"
+msgstr ""
+
+#: functions/vc_shortcode.php:1506
+#@ otvcp-i10n
+msgid "map height"
+msgstr ""
+
+#: functions/vc_shortcode.php:1509
+#@ otvcp-i10n
+msgid "Please enter map height, default: 400"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: ot_composer.php:0
+#@ otvcp-i10n
+msgid "OT Visual Composer"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: ot_composer.php:0
+#@ otvcp-i10n
+msgid "http://thememodern.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: ot_composer.php:0
+#@ otvcp-i10n
+msgid "OT Visual Composer is Child of WPBakery Visual Composer, require install plugin WPBakery Visual Composer."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: ot_composer.php:0
+#@ otvcp-i10n
+msgid "ThemeModern Team"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: ot_composer.php:0
+#@ otvcp-i10n
+msgid "1.0"
+msgstr ""
+

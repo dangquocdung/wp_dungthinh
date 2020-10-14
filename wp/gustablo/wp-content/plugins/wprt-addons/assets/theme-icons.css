@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'ninzio-restaurant';
+  src:  url('fonts/ninzio-restaurant.eot?pytwkg');
+  src:  url('fonts/ninzio-restaurant.eot?pytwkg#iefix') format('embedded-opentype'),
+    url('fonts/ninzio-restaurant.ttf?pytwkg') format('truetype'),
+    url('fonts/ninzio-restaurant.woff?pytwkg') format('woff'),
+    url('fonts/ninzio-restaurant.svg?pytwkg#ninzio-restaurant') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="nz-"], [class*=" nz-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ninzio-restaurant' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nz-bowl:before {
+  content: "\e900";
+}
+.nz-bread:before {
+  content: "\e901";
+}
+.nz-burger:before {
+  content: "\e902";
+}
+.nz-chef:before {
+  content: "\e903";
+}
+.nz-cherries:before {
+  content: "\e904";
+}
+.nz-chicken:before {
+  content: "\e905";
+}
+.nz-cleaver:before {
+  content: "\e906";
+}
+.nz-cocktail1:before {
+  content: "\e907";
+}
+.nz-cocktail2:before {
+  content: "\e908";
+}
+.nz-coffee1:before {
+  content: "\e909";
+}
+.nz-coffee2:before {
+  content: "\e90a";
+}
+.nz-coffee3:before {
+  content: "\e90b";
+}
+.nz-coffee4:before {
+  content: "\e90c";
+}
+.nz-corkscrew:before {
+  content: "\e90d";
+}
+.nz-cutlery:before {
+  content: "\e90e";
+}
+.nz-dinner:before {
+  content: "\e90f";
+}
+.nz-donut:before {
+  content: "\e910";
+}
+.nz-fish:before {
+  content: "\e911";
+}
+.nz-fishbones:before {
+  content: "\e912";
+}
+.nz-carrot:before {
+  content: "\e913";
+}
+.nz-grill:before {
+  content: "\e914";
+}
+.nz-drinks:before {
+  content: "\e915";
+}
+.nz-ham-leg:before {
+  content: "\e916";
+}
+.nz-hot-meal-sign:before {
+  content: "\e917";
+}
+.nz-pepper:before {
+  content: "\e918";
+}
+.nz-sushi:before {
+  content: "\e919";
+}
+.nz-jar:before {
+  content: "\e91a";
+}
+.nz-kettle:before {
+  content: "\e91b";
+}
+.nz-kitchen:before {
+  content: "\e91c";
+}
+.nz-meal:before {
+  content: "\e91d";
+}
+.nz-mitten:before {
+  content: "\e91e";
+}
+.nz-muffin:before {
+  content: "\e91f";
+}
+.nz-pizza1:before {
+  content: "\e920";
+}
+.nz-pizza2:before {
+  content: "\e921";
+}
+.nz-platter:before {
+  content: "\e922";
+}
+.nz-popsicle:before {
+  content: "\e923";
+}
+.nz-pot:before {
+  content: "\e924";
+}
+.nz-restaurant:before {
+  content: "\e925";
+}
+.nz-turkey:before {
+  content: "\e926";
+}
+.nz-salad:before {
+  content: "\e927";
+}
+.nz-saucepan:before {
+  content: "\e928";
+}
+.nz-sausage:before {
+  content: "\e929";
+}
+.nz-soft-drink:before {
+  content: "\e92a";
+}
+.nz-tea-cup:before {
+  content: "\e92b";
+}
+.nz-tea-pot:before {
+  content: "\e92c";
+}
+.nz-leaves:before {
+  content: "\e92d";
+}
+.nz-wine-glass:before {
+  content: "\e92e";
+}

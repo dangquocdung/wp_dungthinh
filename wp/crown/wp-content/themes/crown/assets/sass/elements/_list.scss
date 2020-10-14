@@ -1,0 +1,9 @@
+@import "../_variables";
+
+.gel-list {
+  &.bullet-minwidth-22 {
+    .item-list:before {
+      min-width: 22px;
+    }
+  }
+}

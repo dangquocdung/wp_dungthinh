@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: One Page Youtube were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/cordon
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/cordon/wp-content/uploads/2020/10/demo-content-import-file_2020-10-01__08-53-37.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/cordon/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-01__08-53-37.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Tìm kiếm - No Title - Imported to Inactive
+Mây Thẻ - Tag Cloud - Imported to Inactive
+
+Default Sidebar : 
+
+About Us Widget - Kordon - Imported
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Flickr Widget - Flickr Feed - Imported
+Mây Thẻ - Tag Cloud - Imported
+
+
+
+---pt-ocdi/after_import---
+

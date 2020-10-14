@@ -1,0 +1,458 @@
+@font-face {
+  font-family: 'securicon';
+  src:  url('fonts/securicon.eot?2nb83j');
+  src:  url('fonts/securicon.eot?2nb83j#iefix') format('embedded-opentype'),
+    url('fonts/securicon.ttf?2nb83j') format('truetype'),
+    url('fonts/securicon.woff?2nb83j') format('woff'),
+    url('fonts/securicon.svg?2nb83j#securicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="securicon-"], [class*=" securicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'securicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.securicon-car:before {
+  content: "\e900";
+}
+.securicon-security-16:before {
+  content: "\e901";
+}
+.securicon-technology-1:before {
+  content: "\e902";
+}
+.securicon-key-6:before {
+  content: "\e903";
+}
+.securicon-technology:before {
+  content: "\e904";
+}
+.securicon-security-15:before {
+  content: "\e905";
+}
+.securicon-security-14:before {
+  content: "\e906";
+}
+.securicon-security-13:before {
+  content: "\e907";
+}
+.securicon-shield-29:before {
+  content: "\e908";
+}
+.securicon-holidays:before {
+  content: "\e909";
+}
+.securicon-computer-2:before {
+  content: "\e90a";
+}
+.securicon-computer-1:before {
+  content: "\e90b";
+}
+.securicon-business-1:before {
+  content: "\e90c";
+}
+.securicon-security-12:before {
+  content: "\e90d";
+}
+.securicon-danger-1:before {
+  content: "\e90e";
+}
+.securicon-people-2:before {
+  content: "\e90f";
+}
+.securicon-travel:before {
+  content: "\e910";
+}
+.securicon-security-11:before {
+  content: "\e911";
+}
+.securicon-weather:before {
+  content: "\e912";
+}
+.securicon-people-1:before {
+  content: "\e913";
+}
+.securicon-computer:before {
+  content: "\e914";
+}
+.securicon-shield-28:before {
+  content: "\e915";
+}
+.securicon-shield-27:before {
+  content: "\e916";
+}
+.securicon-security-10:before {
+  content: "\e917";
+}
+.securicon-signs-2:before {
+  content: "\e918";
+}
+.securicon-security-9:before {
+  content: "\e919";
+}
+.securicon-signs-1:before {
+  content: "\e91a";
+}
+.securicon-security-8:before {
+  content: "\e91b";
+}
+.securicon-security-7:before {
+  content: "\e91c";
+}
+.securicon-construction-2:before {
+  content: "\e91d";
+}
+.securicon-security-6:before {
+  content: "\e91e";
+}
+.securicon-construction-1:before {
+  content: "\e91f";
+}
+.securicon-security-5:before {
+  content: "\e920";
+}
+.securicon-signs:before {
+  content: "\e921";
+}
+.securicon-people:before {
+  content: "\e922";
+}
+.securicon-construction:before {
+  content: "\e923";
+}
+.securicon-wall:before {
+  content: "\e924";
+}
+.securicon-security-4:before {
+  content: "\e925";
+}
+.securicon-tool-1:before {
+  content: "\e926";
+}
+.securicon-shield-26:before {
+  content: "\e927";
+}
+.securicon-shield-25:before {
+  content: "\e928";
+}
+.securicon-business:before {
+  content: "\e929";
+}
+.securicon-shield-24:before {
+  content: "\e92a";
+}
+.securicon-money-1:before {
+  content: "\e92b";
+}
+.securicon-money:before {
+  content: "\e92c";
+}
+.securicon-tool:before {
+  content: "\e92d";
+}
+.securicon-security-3:before {
+  content: "\e92e";
+}
+.securicon-nature:before {
+  content: "\e92f";
+}
+.securicon-security-2:before {
+  content: "\e930";
+}
+.securicon-danger:before {
+  content: "\e931";
+}
+.securicon-medical:before {
+  content: "\e932";
+}
+.securicon-security-1:before {
+  content: "\e933";
+}
+.securicon-shield-23:before {
+  content: "\e934";
+}
+.securicon-lock-1:before {
+  content: "\e935";
+}
+.securicon-umbrella-2:before {
+  content: "\e936";
+}
+.securicon-website:before {
+  content: "\e937";
+}
+.securicon-safe-box-1:before {
+  content: "\e938";
+}
+.securicon-safe-box:before {
+  content: "\e939";
+}
+.securicon-safety-box:before {
+  content: "\e93a";
+}
+.securicon-key-5:before {
+  content: "\e93b";
+}
+.securicon-fire-extinguisher-1:before {
+  content: "\e93c";
+}
+.securicon-safebox-6:before {
+  content: "\e93d";
+}
+.securicon-password-2:before {
+  content: "\e93e";
+}
+.securicon-safebox-5:before {
+  content: "\e93f";
+}
+.securicon-shield-22:before {
+  content: "\e940";
+}
+.securicon-car-key:before {
+  content: "\e941";
+}
+.securicon-cctv-3:before {
+  content: "\e942";
+}
+.securicon-shield-21:before {
+  content: "\e943";
+}
+.securicon-password-1:before {
+  content: "\e944";
+}
+.securicon-safebox-4:before {
+  content: "\e945";
+}
+.securicon-shield-20:before {
+  content: "\e946";
+}
+.securicon-safebox-3:before {
+  content: "\e947";
+}
+.securicon-virus:before {
+  content: "\e948";
+}
+.securicon-cctv-2:before {
+  content: "\e949";
+}
+.securicon-umbrella-1:before {
+  content: "\e94a";
+}
+.securicon-life-saver:before {
+  content: "\e94b";
+}
+.securicon-key-4:before {
+  content: "\e94c";
+}
+.securicon-shield-19:before {
+  content: "\e94d";
+}
+.securicon-key-3:before {
+  content: "\e94e";
+}
+.securicon-padlock-1:before {
+  content: "\e94f";
+}
+.securicon-facial-recognition:before {
+  content: "\e950";
+}
+.securicon-id-card:before {
+  content: "\e951";
+}
+.securicon-wanted-1:before {
+  content: "\e952";
+}
+.securicon-wanted:before {
+  content: "\e953";
+}
+.securicon-key-2:before {
+  content: "\e954";
+}
+.securicon-umbrella:before {
+  content: "\e955";
+}
+.securicon-shield-18:before {
+  content: "\e956";
+}
+.securicon-tor:before {
+  content: "\e957";
+}
+.securicon-safebox-2:before {
+  content: "\e958";
+}
+.securicon-key-card:before {
+  content: "\e959";
+}
+.securicon-door-key:before {
+  content: "\e95a";
+}
+.securicon-fire-extinguisher:before {
+  content: "\e95b";
+}
+.securicon-shield-17:before {
+  content: "\e95c";
+}
+.securicon-cctv-1:before {
+  content: "\e95d";
+}
+.securicon-key-1:before {
+  content: "\e95e";
+}
+.securicon-burning-insurance:before {
+  content: "\e95f";
+}
+.securicon-unlock:before {
+  content: "\e960";
+}
+.securicon-safe-car:before {
+  content: "\e961";
+}
+.securicon-disaster-insurance:before {
+  content: "\e962";
+}
+.securicon-handcuffs:before {
+  content: "\e963";
+}
+.securicon-lock:before {
+  content: "\e964";
+}
+.securicon-broken-leg:before {
+  content: "\e965";
+}
+.securicon-safebox-1:before {
+  content: "\e966";
+}
+.securicon-computer-security:before {
+  content: "\e967";
+}
+.securicon-flood-insurance:before {
+  content: "\e968";
+}
+.securicon-phone-lock:before {
+  content: "\e969";
+}
+.securicon-police-car:before {
+  content: "\e96a";
+}
+.securicon-safe-mail:before {
+  content: "\e96b";
+}
+.securicon-shield-16:before {
+  content: "\e96c";
+}
+.securicon-key-in-the-lock:before {
+  content: "\e96d";
+}
+.securicon-password:before {
+  content: "\e96e";
+}
+.securicon-surveillance-camera:before {
+  content: "\e96f";
+}
+.securicon-life-insurence:before {
+  content: "\e970";
+}
+.securicon-documents-security:before {
+  content: "\e971";
+}
+.securicon-hands-holding-heart:before {
+  content: "\e972";
+}
+.securicon-login-password:before {
+  content: "\e973";
+}
+.securicon-fingerprints:before {
+  content: "\e974";
+}
+.securicon-padlock:before {
+  content: "\e975";
+}
+.securicon-key:before {
+  content: "\e976";
+}
+.securicon-fire:before {
+  content: "\e977";
+}
+.securicon-safety:before {
+  content: "\e978";
+}
+.securicon-fire-1:before {
+  content: "\e979";
+}
+.securicon-shield-15:before {
+  content: "\e97a";
+}
+.securicon-insurance:before {
+  content: "\e97b";
+}
+.securicon-security:before {
+  content: "\e97c";
+}
+.securicon-safebox:before {
+  content: "\e97d";
+}
+.securicon-secure-shield:before {
+  content: "\e97e";
+}
+.securicon-camera:before {
+  content: "\e97f";
+}
+.securicon-cctv:before {
+  content: "\e980";
+}
+.securicon-shield-14:before {
+  content: "\e981";
+}
+.securicon-shield-13:before {
+  content: "\e982";
+}
+.securicon-shield-12:before {
+  content: "\e983";
+}
+.securicon-shield-11:before {
+  content: "\e984";
+}
+.securicon-shield-10:before {
+  content: "\e985";
+}
+.securicon-shield-9:before {
+  content: "\e986";
+}
+.securicon-shield-8:before {
+  content: "\e987";
+}
+.securicon-shield-7:before {
+  content: "\e988";
+}
+.securicon-shield-6:before {
+  content: "\e989";
+}
+.securicon-shield-5:before {
+  content: "\e98a";
+}
+.securicon-shield-4:before {
+  content: "\e98b";
+}
+.securicon-shield-3:before {
+  content: "\e98c";
+}
+.securicon-shield-2:before {
+  content: "\e98d";
+}
+.securicon-shield-1:before {
+  content: "\e98e";
+}
+.securicon-shield:before {
+  content: "\e98f";
+}

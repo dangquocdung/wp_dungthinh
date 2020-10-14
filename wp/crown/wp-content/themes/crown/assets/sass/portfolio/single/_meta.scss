@@ -1,0 +1,25 @@
+.g5portfolio__single-meta {
+  label {
+    font-weight: 600;
+    @extend %font-primary;
+    @extend %heading-color;
+    text-transform: uppercase;
+  }
+
+  a {
+    &:hover {
+      @extend %heading-color;
+    }
+  }
+
+  > div {
+    margin-bottom: 15px;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
+
+ul.g5portfolio__share-list {
+  font-size: 13px;
+}

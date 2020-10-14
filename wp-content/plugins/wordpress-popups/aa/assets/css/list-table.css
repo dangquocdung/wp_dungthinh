@@ -1,0 +1,103 @@
+/******************************************************/
+/** list-table.class **/
+/* pagination */
+
+.AArpr-list-table-form .tablenav {
+    padding-bottom: 20px;
+}
+.AArpr-list-table-wrapper {
+    display: table;
+    width: 100%;
+}
+.tablenav .AArpr-box-show-per-pages {
+    color: #555;
+    cursor: default;
+    float: right;
+    margin-top: 2px;
+}
+.tablenav.bottom .AArpr-box-show-per-pages {
+}
+.AArpr-list-table-pagging-show-per-page span {
+    float: left;
+}
+
+.AArpr-list-table-pagging-show-per-page {
+    float: right;
+}
+.tablenav .AArpr-links-filters {
+    overflow: hidden;
+    padding-bottom: 15px;
+    margin-top: -10px;
+}
+
+.AArpr-list-table-pagging-show-per-page .tablenav-pages {
+    float: left;
+}
+
+.tablenav .AArpr-list-table-pagging {
+    overflow: hidden;
+    width: 100%;
+    padding-top: 8px;
+}
+.tablenav .AArpr-list-table-pagging .tablenav-pages {
+    float: left;
+    margin-top: 0;
+}
+.AArpr-list-table-bulk-wrapper {
+    margin-top: 2px;
+    float: left;
+}
+/* left right containers */
+.tablenav .AArpr-list-table-left-col {
+    display: table-cell;
+    vertical-align: top;
+}
+	.tablenav .AArpr-list-table-left-col > div:nth-child(1) {
+		width: 100%; overflow: hidden; margin-bottom: 5px;
+	}
+	.tablenav .AArpr-list-table-left-col > div:nth-child(2) {
+		width: 100%; overflow: hidden;
+	}
+.tablenav .AArpr-list-table-right-col {
+    display: table-cell;
+    width: 360px;
+    vertical-align: top;
+}
+	.tablenav .AArpr-list-table-right-col > div:nth-child(1) {
+		padding-bottom: 6px; overflow: hidden;
+	}
+
+/* search box */
+.tablenav .AArpr-list-table-search-box {
+    float: right;
+}
+.tablenav .AArpr-list-table-search-box input[type="text"],
+.tablenav .AArpr-list-table-search-box input[type="search"] {
+    float: left;
+    min-width: 30px;
+    height: 28px;
+    margin: 0 4px 0 0;
+}
+.tablenav .AArpr-list-table-search-box input[type="submit"],
+.tablenav .AArpr-list-table-search-box input[type="button"] {
+    float: left;
+}
+.tablenav .AArpr-list-table-search-box input.search-highlight, .tablenav .AArpr-list-table-search-box input.search-highlight:focus {
+	background: yellow;
+	color: blue;
+}
+
+/* filter fields */
+.tablenav .AArpr-filter-general_field {
+    display: inline-block;
+    margin: 0 1rem 0 0;
+    position: relative;
+    bottom: -0.4rem;
+    width: auto;
+    min-width: 8rem;
+    max-width: 20rem;
+}
+.tablenav .AArpr-filter-general_field.subsubsub {
+    max-width: inherit;
+    height: 28px;
+}

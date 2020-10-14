@@ -1,0 +1,9 @@
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+  a {
+    &:hover {
+      @extend %accent-text-color;
+    }
+  }
+}

@@ -1,0 +1,2138 @@
+# Copyright (C) 2020 Coronar
+# This file is distributed under the same license as the Coronar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coronar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:60, wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:229
+msgid "Coronar Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:116
+msgid "Cache Lifetime:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:118
+msgid "Refresh data every:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:118
+msgid " minutes. The higher the value, the less the load on the hosting and the lower the relevance of the data."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:132
+msgid "Clear Cache"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:133
+msgid "Press to reset cache and download fresh data."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:145
+msgid "Show Search:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:147
+msgid "Table Search"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:148
+msgid "Show Search input in table views"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:156
+msgid "Responsive Tables:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:158
+msgid "Responsive Table"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:159
+msgid "Enable responsive behavior in table views"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:167
+msgid "Label for Flag:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:169, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:183, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:197, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:211, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:225, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:239, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:253, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:267, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:281, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:295, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:309, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:323
+msgid "Label"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:170, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:184, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:198, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:212, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:226, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:240, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:254, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:268, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:282, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:296, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:310, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:324
+msgid "Enter the text to replace the default label"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:181
+msgid "Label for Country:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:195
+msgid "Label for Province:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:209
+msgid "Label for Total Confirmed:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:223
+msgid "Label for New Confirmed:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:237
+msgid "Label for Total Deaths:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:251
+msgid "Label for New Deaths:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:265
+msgid "Label for Total Recovered:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:279
+msgid "Label for New Recovered:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:293
+msgid "Label for Chart Confirmed:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:307
+msgid "Label for Chart Deaths:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:321
+msgid "Label for Chart Recovered:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:357
+msgid "Style"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:358
+msgid "Style Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:368
+msgid "Confirmed Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:370
+msgid "Confirmed color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:371
+msgid "Select Confirmed Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:382
+msgid "Deaths Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:384
+msgid "Deaths color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:385
+msgid "Select Deaths Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:396
+msgid "Recovered Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:398
+msgid "Recovered color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:399
+msgid "Select Recovered Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:410
+msgid "Background Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:412
+msgid "Background color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:413
+msgid "Select Background Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:424
+msgid "Shadow:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:426
+msgid "Row/Card Shadow"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:427
+msgid "Outer shadow for one country in the row or card"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:436, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:438
+msgid "Margin:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:438, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:453, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:468, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:518
+msgid " px."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:451, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:453
+msgid "Padding:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:466, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:468
+msgid "Border Radius:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:480
+msgid "Text Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:482
+msgid "Text color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:483
+msgid "Select Text Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:494, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:496
+msgid "Font Size"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:497
+msgid "Absolute font size, based on default font size (which is medium)."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:501
+msgid "XX-small"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:502
+msgid "S-small"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:503
+msgid "Small"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:504
+msgid "Medium"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:505
+msgid "Large"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:506
+msgid "X-large"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:507
+msgid "XX-large"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:508
+msgid "XXX-large"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:516, wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:518
+msgid "Flag Size:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:549
+msgid "Map"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:550
+msgid "Map Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:560
+msgid "API Key:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:562
+msgid "API Key"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:563
+msgid "Enter Google Map API Key. "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:565
+msgid "Get an API Key."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:577
+msgid "Land Color:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:579
+msgid "Land Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:580
+msgid "Select color for countries without data."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:591
+msgid "Water Color:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:593
+msgid "Water Color"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Config.php:594
+msgid "Select color for water."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/COVID.php:726
+msgid "cURL Error #: "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:286
+msgid "To use GeoChart you will need to"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:288
+msgid "Get an API Key"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:647
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:643
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:639
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:717, wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:713
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:706, wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:702
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:696
+msgid "Yesterday"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:692
+msgid "Today"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1499
+msgid "0"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1575
+msgid "+"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1833
+msgid "Afghanistan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1834
+msgid "Albania"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1835
+msgid "Algeria"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1836
+msgid "Andorra"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1837
+msgid "Angola"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1838
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1839
+msgid "Argentina"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1840
+msgid "Armenia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1841
+msgid "Australia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1842
+msgid "Austria"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1843
+msgid "Azerbaijan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1844
+msgid "Bahamas"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1845
+msgid "Bahrain"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1846
+msgid "Bangladesh"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1847
+msgid "Barbados"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1848
+msgid "Belarus"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1849
+msgid "Belgium"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1850
+msgid "Belize"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1851
+msgid "Benin"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1852
+msgid "Bhutan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1853
+msgid "Bolivia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1854
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1855
+msgid "Botswana"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1856
+msgid "Brazil"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1857
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1858
+msgid "Bulgaria"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1859
+msgid "Burkina Faso"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1860
+msgid "Burundi"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1861
+msgid "Cambodia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1862
+msgid "Cameroon"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1863
+msgid "Canada"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1864
+msgid "Cape Verde"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1865
+msgid "Central African Republic"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1866
+msgid "Chad"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1867
+msgid "Chile"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1868
+msgid "China"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1869
+msgid "Colombia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1870
+msgid "Comoros"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1871
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1872
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1873
+msgid "Costa Rica"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1874
+msgid "Croatia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1875
+msgid "Cuba"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1876
+msgid "Cyprus"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1877
+msgid "Czech Republic"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1878
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1879
+msgid "Denmark"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1880
+msgid "Djibouti"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1881
+msgid "Dominica"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1882
+msgid "Dominican Republic"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1883
+msgid "Ecuador"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1884
+msgid "Egypt"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1885
+msgid "El Salvador"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1886
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1887
+msgid "Eritrea"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1888
+msgid "Estonia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1889
+msgid "Ethiopia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1890
+msgid "Fiji"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1891
+msgid "Finland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1892
+msgid "France"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1893
+msgid "Gabon"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1894
+msgid "Gambia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1895
+msgid "Georgia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1896
+msgid "Germany"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1897
+msgid "Ghana"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1898
+msgid "Greece"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1899
+msgid "Grenada"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1900
+msgid "Guatemala"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1901
+msgid "Guinea"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1902
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1903
+msgid "Guyana"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1904
+msgid "Haiti"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1905
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1906
+msgid "Honduras"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1907
+msgid "Hungary"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1908
+msgid "Iceland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1909
+msgid "India"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1910
+msgid "Indonesia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1911
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1912
+msgid "Iraq"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1913
+msgid "Ireland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1914
+msgid "Israel"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1915
+msgid "Italy"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1916
+msgid "Jamaica"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1917
+msgid "Japan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1918
+msgid "Jordan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1919
+msgid "Kazakhstan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1920
+msgid "Kenya"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1921
+msgid "Korea (South)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1922
+msgid "Kuwait"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1923
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1924
+msgid "Lao PDR"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1925
+msgid "Latvia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1926
+msgid "Lebanon"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1927
+msgid "Lesotho"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1928
+msgid "Liberia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1929
+msgid "Libya"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1930
+msgid "Liechtenstein"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1931
+msgid "Lithuania"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1932
+msgid "Luxembourg"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1933
+msgid "Macedonia, Republic of"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1934
+msgid "Madagascar"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1935
+msgid "Malawi"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1936
+msgid "Malaysia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1937
+msgid "Maldives"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1938
+msgid "Mali"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1939
+msgid "Malta"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1940
+msgid "Mauritania"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1941
+msgid "Mauritius"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1942
+msgid "Mexico"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1943
+msgid "Moldova"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1944
+msgid "Monaco"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1945
+msgid "Mongolia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1946
+msgid "Montenegro"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1947
+msgid "Morocco"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1948
+msgid "Mozambique"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1949
+msgid "Myanmar"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1950
+msgid "Namibia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1951
+msgid "Nepal"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1952
+msgid "Netherlands"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1953
+msgid "New Zealand"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1954
+msgid "Nicaragua"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1955
+msgid "Niger"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1956
+msgid "Nigeria"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1957
+msgid "Norway"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1958
+msgid "Oman"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1959
+msgid "Pakistan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1960
+msgid "Palestinian Territory"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1961
+msgid "Panama"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1962
+msgid "Papua New Guinea"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1963
+msgid "Paraguay"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1964
+msgid "Peru"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1965
+msgid "Philippines"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1966
+msgid "Poland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1967
+msgid "Portugal"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1968
+msgid "Qatar"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1969
+msgid "Republic of Kosovo"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1970
+msgid "Romania"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1971
+msgid "Russian Federation"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1972
+msgid "Rwanda"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1973
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1974
+msgid "Saint Lucia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1975
+msgid "Saint Vincent and Grenadines"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1976
+msgid "San Marino"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1977
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1978
+msgid "Saudi Arabia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1979
+msgid "Senegal"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1980
+msgid "Serbia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1981
+msgid "Seychelles"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1982
+msgid "Sierra Leone"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1983
+msgid "Singapore"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1984
+msgid "Slovakia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1985
+msgid "Slovenia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1986
+msgid "Somalia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1987
+msgid "South Africa"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1988
+msgid "South Sudan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1989
+msgid "Spain"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1990
+msgid "Sri Lanka"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1991
+msgid "Sudan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1992
+msgid "Suriname"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1993
+msgid "Swaziland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1994
+msgid "Sweden"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1995
+msgid "Switzerland"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1996
+msgid "Syrian Arab Republic (Syria)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1997
+msgid "Taiwan, Republic of China"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1998
+msgid "Tajikistan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:1999
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2000
+msgid "Thailand"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2001
+msgid "Timor-Leste"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2002
+msgid "Togo"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2003
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2004
+msgid "Tunisia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2005
+msgid "Turkey"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2006
+msgid "Uganda"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2007
+msgid "Ukraine"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2008
+msgid "United Arab Emirates"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2009
+msgid "United Kingdom"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2010
+msgid "United States of America"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2011
+msgid "Uruguay"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2012
+msgid "Uzbekistan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2013
+msgid "Venezuela (Bolivarian Republic)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2014
+msgid "Viet Nam"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2015
+msgid "Western Sahara"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2016
+msgid "Yemen"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2017
+msgid "Zambia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Coronar/Shortcodes.php:2018
+msgid "Zimbabwe"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/CheckCompatibility.php:216, wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:230, wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:443, wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:445
+msgid "Coronar"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/CheckCompatibility.php:241
+msgid "The minimum PHP version required for Coronar plugin is 5.6.0."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:239
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:240
+msgid "General Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:261, wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:262
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:268
+msgid "Add custom CSS here."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:290
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:291
+msgid "Assignments Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:335
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:336, wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:348
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:362
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:363
+msgid "System Status"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:409, wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:410
+msgid "Updates"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:430
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:431
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:438
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:439
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Plugin.php:440
+msgid "Delete plugin, settings and data"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:141, wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:141
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:142, wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:142, wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:158
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:143, wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:143
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginHelper.php:164
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginUpdater.php:426
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginUpdater.php:428
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/PluginUpdater.php:430
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterPlugins.php:91, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterPlugins.php:124
+msgid "Active Plugins"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:51
+msgid "Server Environment"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:70
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:71
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:72
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:73
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:74
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:75
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:76
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:77
+msgid "Elementor Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:78
+msgid "allow_url_fopen"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:79
+msgid "DOM Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:80
+msgid "XML Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:81
+msgid "BCMath Installed"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:128, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:220, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:244, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:268, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:294, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:320, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:346
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:128, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:220, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:244, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:268, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:294, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:320, wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:346
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:130
+msgid "You must enable allow_url_fopen option in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:194
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:246
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:270
+msgid "You need install and activate Elementor builder. Go to Elementor site (elementor.com) for details."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:296
+msgid " You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:322
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:348
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:396
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:404
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:410
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:427
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterServer.php:422
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#. translators: %s: Codex URL
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterTheme.php:212
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:50
+msgid "WordPress Environment"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:65
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:66
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:67
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:68
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:69
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:70
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:71
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:72
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:73
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:74
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:75
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:143
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:187
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:187
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:251
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:361
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/ReporterWordPress.php:361
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:100
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:154
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:164
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:168
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:174
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:395
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:419
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:425
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:448
+msgid "v."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/Settings.php:454
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:100
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:105
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:285
+msgid "Subscribe to updates"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:286
+msgid "Sign up for the newsletter to be the first to know about news and discounts."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:288
+msgid "Hurray! We received your Subscription request. Check your inbox for an email from us."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:289
+msgid "Oh! Sorry, but we cannot send messages to this email."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:290
+msgid "Oops! Something went wrong. Please try later."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:297
+msgid "Your Name"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:308
+msgid "Your E-Mail"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:319
+msgid "Subscribe"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:354
+msgid "Purchase code"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:355
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:377
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:381
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:384
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:385
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:386
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:387
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:388, wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:422
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:394
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:398
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:399
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:400
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:406
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:410
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:416
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:420
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabActivation.php:421
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:257
+msgid "Matching Method"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:258
+msgid "Should all or any assignments be matched?"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:260
+msgid "ALL"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:261
+msgid "ANY"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:263
+msgid "The plugin is enabled on the page if ALL the selected rules matched, or if ANY of the selected rules matched"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:268
+msgid "WordPress Content"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:271, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:295, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:305, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:336, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:362, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:392, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:419, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:443, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:467, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:522, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:619, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:646
+msgid "Ignore"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:272, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:296, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:306, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:337, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:363, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:393, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:420, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:444, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:468, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:523, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:620, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:647
+msgid "Include"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:273, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:297, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:307, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:338, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:364, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:394, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:421, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:445, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:469, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:524, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:621, wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:648
+msgid "Exclude"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:278
+msgid "Select on what page types or categories the assignment should be active."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:292
+msgid "Home Page"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:303
+msgid "Menu Items"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:311
+msgid "Select the menu items to assign to."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:333
+msgid "Date & Time"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:348
+msgid "The date and time assignments use the date/time of your servers, not that of the visitors system."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:350
+msgid "Current date/time:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:359
+msgid "Languages"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:368
+msgid "Select the languages to assign to."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:389
+msgid "User Roles"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:398
+msgid "Select the user roles to assign to."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:416
+msgid "URL"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:426
+msgid "Enter (part of) the URLs to match."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:427
+msgid "Use a new line for each different match."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:440
+msgid "Devices"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:449
+msgid "Select the devices to assign to. Keep in mind that device detection is not always 100% accurate. Users can setup their device to mimic other devices."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:453
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:454
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:455
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:464
+msgid "Operating Systems"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:473
+msgid "Select the operating systems to assign to. Keep in mind that operating system detection is not always 100% accurate. Users can setup their browser to mimic other operating systems."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:477
+msgid "Windows (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:478
+msgid "Windows 10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:479
+msgid "Windows 8"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:480
+msgid "Windows 7"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:481
+msgid "Windows Vista"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:482
+msgid "Windows Server 2003"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:483
+msgid "Windows XP"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:484
+msgid "Windows 2000 sp1"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:485
+msgid "Windows 2000"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:486
+msgid "Windows NT 4.0"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:487
+msgid "Windows Me"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:488
+msgid "Windows 98"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:489
+msgid "Windows 95"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:490
+msgid "Windows CE"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:491
+msgid "Mac OS (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:492
+msgid "Mac OSX (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:493
+msgid "Mac OSX El Capitan"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:494
+msgid "Mac OSX Yosemite"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:495
+msgid "Mac OSX Mavericks"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:496
+msgid "Mac OSX Mountain Lion"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:497
+msgid "Mac OSX Lion"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:498
+msgid "Mac OSX Snow Leopard"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:499
+msgid "Mac OSX Leopard"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:500
+msgid "Mac OSX Tiger"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:501
+msgid "Mac OSX Panther"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:502
+msgid "Mac OSX Jaguar"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:503
+msgid "Mac OSX Puma"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:504
+msgid "Mac OSX Cheetah"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:505
+msgid "Mac OS (classic)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:506
+msgid "Linux"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:507
+msgid "Open BSD"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:508
+msgid "Sun OS"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:509
+msgid "QNX"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:510
+msgid "BeOS"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:511
+msgid "OS/2"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:519
+msgid "Browsers"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:528
+msgid "Select the browsers to assign to. Keep in mind that browser detection is not always 100% accurate. Users can setup their browser to mimic other browsers."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:531
+msgid "Browsers:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:536
+msgid "Chrome (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:537
+msgid "Chrome 61-70"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:538
+msgid "Chrome 51-60"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:539
+msgid "Chrome 41-50"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:540
+msgid "Chrome 31-40"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:541
+msgid "Chrome 21-30"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:542
+msgid "Chrome 11-20"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:543
+msgid "Chrome 1-10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:544
+msgid "Firefox (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:545
+msgid "Firefox 61-70"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:546
+msgid "Firefox 51-60"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:547
+msgid "Firefox 41-50"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:548
+msgid "Firefox 31-40"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:549
+msgid "Firefox 21-30"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:550
+msgid "Firefox 11-20"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:551
+msgid "Firefox 1-10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:552
+msgid "Internet Explorer (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:553
+msgid "Internet Explorer Edge"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:554
+msgid "Edge 15"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:555
+msgid "Edge 14"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:556
+msgid "Edge 13"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:557
+msgid "Edge 12"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:558
+msgid "Internet Explorer 11"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:559
+msgid "Internet Explorer 10.6"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:560
+msgid "Internet Explorer 10.0"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:561
+msgid "Internet Explorer 10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:562
+msgid "Internet Explorer 9"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:563
+msgid "Internet Explorer 8"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:564
+msgid "Internet Explorer 7"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:565
+msgid "Internet Explorer 1-6"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:566
+msgid "Opera (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:567
+msgid "Opera 51-60"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:568
+msgid "Opera 41-50"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:569
+msgid "Opera 31-40"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:570
+msgid "Opera 21-30"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:571
+msgid "Opera 11-20"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:572
+msgid "Opera 1-10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:573
+msgid "Safari (All)"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:574
+msgid "Safari 11"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:575
+msgid "Safari 10"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:576
+msgid "Safari 9"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:577
+msgid "Safari 8"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:578
+msgid "Safari 7"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:579
+msgid "Safari 6"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:580
+msgid "Safari 5"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:581
+msgid "Safari 4"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:582
+msgid "Safari 1-3"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:588
+msgid "Mobile Browsers:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:593
+msgid "All"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:594
+msgid "Android"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:595
+msgid "Android Chrome"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:596
+msgid "Blackberry"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:597
+msgid "IE Mobile"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:598
+msgid "iPad"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:599
+msgid "iPhone"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:600
+msgid "iPod Touch"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:601
+msgid "NetFront"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:602
+msgid "Nokia"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:603
+msgid "Opera Mini"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:604
+msgid "Opera Mobile"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:605
+msgid "UC Browser"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:616
+msgid "IP Addresses"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:626
+msgid "IP Addresses / Ranges"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:632
+msgid "List of IP addresses or IP ranges. Example: "
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:633
+msgid "46.33.233.31"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:634
+msgid "46.0-46.1"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:635
+msgid "46"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:643
+msgid "Custom PHP"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:653
+msgid "Enter a piece of PHP code to evaluate. The code must return the value true or false."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabAssignments.php:655
+msgid "For instance:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabStatus.php:239
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabUninstall.php:85
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabUninstall.php:112
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabUninstall.php:118
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabUpdates.php:81
+msgid "Check for updates:"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/TabUpdates.php:96
+msgid "Check Updates"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/UI.php:610
+msgid "Icon Library"
+msgstr ""
+
+#: wp-content/plugins/coronar/src/Merkulove/Unity/UI.php:611
+msgid "Upload SVG"
+msgstr ""

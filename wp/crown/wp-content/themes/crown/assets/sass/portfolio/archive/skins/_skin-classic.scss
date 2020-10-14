@@ -1,0 +1,10 @@
+.crown__portfolio-skin-boxed {
+  .g5portfolio__post-featured {
+    margin-bottom: 0;
+  }
+  .g5portfolio__post-content {
+    border: 1px solid;
+    @extend %border-color;
+    padding: 30px 25px;
+  }
+}

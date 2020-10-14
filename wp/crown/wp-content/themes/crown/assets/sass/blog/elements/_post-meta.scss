@@ -1,0 +1,43 @@
+ul.g5blog__post-meta {
+  font-size: 0.75rem;
+  li {
+    &:hover {
+      @extend %accent-text-color;
+    }
+
+    margin-right: 10px;
+    &:after {
+      content: '';
+      width: 1px;
+      height: 10px;
+      @extend %text-bg-color;
+      display: inline-block;
+      position: relative;
+      top: 1px;
+      margin-left: 10px;
+    }
+
+    &:last-child {
+      margin-right: 0;
+      &:after {
+        display: none;
+      }
+    }
+  }
+
+  li:not(.meta-like) {
+    i {
+      display: none;
+    }
+  }
+
+  li.meta-view {
+    > div {
+      display: inline-block;
+      .post-views-icon {
+        display: none !important;
+      }
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+.g5blog__post-widget {
+  .g5blog__post-featured {
+    width: 75px;
+    margin-right: 25px;
+  }
+  .g5blog__post-title {
+    font-size: 0.8125rem;
+    font-weight: 600;
+  }
+
+  .g5blog__post-inner {
+    @include align-items-center();
+  }
+}

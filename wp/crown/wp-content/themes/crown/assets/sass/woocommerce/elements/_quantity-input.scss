@@ -1,0 +1,47 @@
+.woocommerce .quantity .qty {
+  width: 140px;
+  padding: 0;
+  background: transparent;
+  font-weight: 600;
+  border: 1px solid;
+  @extend %border-color;
+  @include border-radius(4px);
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+
+
+
+
+.g5shop__quantity {
+  label {
+    @extend %heading-color;
+    @extend %font-primary;
+    text-transform: uppercase;
+  }
+  .g5shop__quantity-inner {
+    width: 140px;
+    .qty {
+      @extend %heading-color;
+      @extend %border-color;
+      @include border-radius(4px);
+    }
+    .btn-number {
+      background-color: #fff;
+      border: 1px solid;
+      @extend %border-color;
+      width: 40px;
+      @extend %heading-color;
+      &[data-type="minus"] {
+        @include border-radius(4px 0 0 4px);
+      }
+      &[data-type="plus"] {
+        @include border-radius(0 4px 4px 0);
+      }
+    }
+  }
+}

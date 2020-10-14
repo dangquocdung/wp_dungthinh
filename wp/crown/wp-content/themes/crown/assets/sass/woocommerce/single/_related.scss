@@ -1,0 +1,12 @@
+.woocommerce .products.related,
+.woocommerce .products.upsells {
+  margin-top: 6.25rem;
+  > h2 {
+    @include heading-title();
+  }
+
+  .slick-dots {
+    margin: 0;
+  }
+
+}

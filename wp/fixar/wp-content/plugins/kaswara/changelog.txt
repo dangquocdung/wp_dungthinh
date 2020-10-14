@@ -1,0 +1,44 @@
+version 1.1
+
+Add Icons from Font-Icon-Loader
+
+includes/dashboard/base/fonticon_manager.class.php
+
+
+version 1.2
+
+Load Icons by font-icon-loader visibility settings
+
+includes/dashboard/base/fonticon_manager.class.php
+
+
+version 1.3
+
+Fix errors with missed functions ( fix fonts ) 
+
+kaswara.php
+
+
+version 1.4
+
+14.04.2018 (zaymund)
+
+
+fix carousel resposnive
+
+assets/css/style.css
+
+
+version 1.5
+
+02.05.2018 (zaymund)
+
+
+font icon add  theme fonts style
+
+
+$additional_font_style = '';      
+      
+fix_kaswara_font_styles($titleStyle, $additional_font_style);
+
+

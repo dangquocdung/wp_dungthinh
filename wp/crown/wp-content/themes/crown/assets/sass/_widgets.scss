@@ -1,0 +1,189 @@
+.primary-sidebar {
+	.widget:last-child {
+		margin-bottom: 0;
+	}
+}
+.widget {
+	position: relative;
+	margin-bottom: 60px;
+	@extend %clearfix;
+
+	.screen-reader-text {
+		display: none;
+	}
+	.widget-title {
+		font-size: 1rem;
+		font-weight: 600;
+		margin-bottom: 25px;
+
+		a {
+			color: inherit;
+		}
+		img {
+			display: inline-block;
+		}
+	}
+}
+
+.widget_product_search,
+.widget_search {
+	label {
+		display: none;
+	}
+	form {
+		@include d-flex;
+		position: relative;
+	}
+	button {
+		position: absolute;
+		right: 0;
+		background: transparent !important;
+		color: inherit;
+		border: 0;
+		font-size: 0;
+		&:before {
+			content: '\f002';
+			font-family: $font_icon;
+			font-size: 14px;
+			@extend %heading-color;
+		}
+		> span {
+			display: none;
+		}
+	}
+
+
+	input {
+		@include flex-fill;
+	}
+}
+
+.widget_rss ul,
+.widget_recent_entries ul,
+.widget_recent_comments ul,
+.widget_meta ul {
+	@include widget-meta();
+}
+
+.widget_meta ul li,
+.widget_recent_comments ul li.recentcomments,
+.widget_recent_entries ul li {
+	padding-left: 20px;
+	position: relative;
+
+	&:before {
+		font-family: $font_icon;
+		content: '\f0da';
+		font-weight: 700;
+		position: absolute;
+		left: 0;
+		top: 0.5rem;
+	}
+}
+
+.widget_archive,
+.widget_categories,
+.widget_product_categories {
+	select {
+		width: 100%;
+		max-width: 100%;
+	}
+}
+
+/**
+* Archive, categories, nav_menu
+* ----------------------------------------------------------------------------
+*/
+
+ul.g5shop__price-filter,
+ul.g5shop__product-sorting,
+.woocommerce .woocommerce-widget-layered-nav .woocommerce-widget-layered-nav-list,
+.widget_archive ul,
+.widget_categories ul,
+.widget_nav_menu ul,
+.widget_pages ul,
+.widget_product_categories ul {
+	@include widget-archive();
+}
+
+
+.widget_rss {
+	ul {
+		.rsswidget {
+			display: block;
+			font-weight: 700;
+		}
+		.rss-date {
+			font-style: italic;
+			font-size: $font_size_xs;
+			margin: 0.375rem 0;
+			display: block;
+		}
+	}
+}
+
+.widget_tag_cloud {
+	.wp-tag-cloud {
+		list-style: none;
+		padding: 0;
+		font-size: 0;
+		li {
+			margin: 0;
+			display: inline-block;
+		}
+	}
+}
+
+
+.tagcloud {
+	@include widget-tag();
+}
+
+
+.widget_calendar {
+	table {
+		margin-bottom: 0;
+	}
+	caption {
+		caption-side: top;
+		padding: 0.5rem 1rem;
+		background-color: $color_background_tag;
+		border: solid 1px;
+		@extend %border-color;
+		text-transform: uppercase;
+		text-align: center;
+	}
+	td, th {
+		padding: 0.3rem;
+	}
+	thead, tbody {
+		td, th {
+			text-align: center;
+		}
+	}
+	tfoot {
+		td, th {
+			border: none;
+		}
+		#next {
+			text-align: right;
+		}
+	}
+}
+
+.product-categories .count,
+.woocommerce-widget-layered-nav-list .count,
+.wp-block-categories__post-count,
+.cat-count {
+	position: absolute;
+	top: 0.5rem;
+	right: 0;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	border-radius: 100%;
+	font-size: 0.6875rem;
+	background-color: #bbb;
+	color: #fff;
+}

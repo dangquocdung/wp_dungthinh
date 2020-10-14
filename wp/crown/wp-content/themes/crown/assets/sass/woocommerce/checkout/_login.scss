@@ -1,0 +1,33 @@
+.woocommerce-checkout .woocommerce form .form-row-first,
+.woocommerce-checkout .woocommerce form .form-row-last {
+  width: 100%;
+  float: none;
+}
+
+.woocommerce .woocommerce-form-login {
+  .woocommerce-form-login__rememberme {
+    margin-top: 10px;
+  }
+  .lost_password {
+    margin-bottom: 0;
+    a {
+      color: inherit;
+      &:hover {
+        @extend %accent-text-color;
+      }
+    }
+  }
+}
+
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register {
+  border: 1px solid;
+  @extend %border-color;
+}
+
+
+
+.g5shop__checkout-toolbar {
+  margin-bottom: 3rem;
+}

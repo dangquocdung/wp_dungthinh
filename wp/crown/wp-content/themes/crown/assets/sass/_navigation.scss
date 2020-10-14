@@ -1,0 +1,148 @@
+.post-navigation {
+	margin-bottom: 3rem;
+
+	.nav-links {
+		@include d-flex;
+		font-weight: 700;
+		a {
+			display: block;
+			text-decoration: none;
+			color: inherit;
+		}
+
+		.nav-subtitle {
+			display: block;
+			@extend %heading-color;
+			text-transform: uppercase;
+		}
+
+		> div {
+			width: 47.5%;
+			border: solid 1px;
+			@extend %border-color;
+			padding: 1.5rem;
+			@include transition(background-color 0.3s, color 0.3s, border-color 0.3s);
+
+			&:hover {
+				@extend %accent-bg-color;
+				@extend %accent-foreground-color;
+				@extend %accent-border-color;
+				.nav-subtitle {
+					color: inherit;
+				}
+			}
+		}
+		.nav-title {
+			display: block;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+	}
+
+	.nav-previous {
+		margin-right: auto;
+	}
+
+	.nav-next {
+		margin-left: auto;
+		text-align: right;
+	}
+}
+
+.single .post-navigation, .page .post-navigation {
+	margin-bottom: 0;
+}
+
+ul.page-numbers {
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	margin-bottom: 0;
+
+	li {
+		display: inline-block;
+		margin-right: 6px;
+		vertical-align: middle;
+		&:last-of-type {
+			margin-right: 0;
+		}
+	}
+}
+
+.navigation.pagination {
+	font-size: 0;
+	position: relative;
+	text-align: center;
+}
+.page-numbers:not(ul) {
+	display: inline-block;
+	vertical-align: middle;
+	width: 35px;
+	height: 35px;
+	@include border-radius(3px);
+	text-align: center;
+	line-height: 35px;
+	background-color: #fafafa;
+	font-size: 0.75rem;
+	@extend %heading-color;
+	@include transition(all 0.3s);
+
+	&.current,
+	&:hover {
+		@extend %heading-bg-color;
+		color: #fff;
+	}
+
+	&.prev,
+	&.next {
+		font-size: 0;
+		&:before {
+			font-family: 'Font Awesome 5 Pro';
+			font-weight: 400;
+			content: '\f105';
+			font-size: 1rem;
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+	&.prev {
+		&:before {
+			content: '\f104';
+		}
+	}
+}
+
+.page-links {
+	float: left;
+	width: 100%;
+	.page-links-title {
+		text-transform: uppercase;
+	}
+
+	> .page-links-text,
+	> a {
+		display: inline-block;
+		margin-right: 0.25rem;
+		padding: 0.25rem 0.625rem;
+		border: solid 1px;
+		@extend %border-color;
+	}
+	> .page-links-text {
+		color: #fff;
+		@extend %accent-bg-color;
+		@extend %accent-border-color;
+	}
+}
+
+@include media-sm() {
+	.post-navigation .nav-links .nav-title {
+		display: none;
+	}
+}
+
+@include media-xxs() {
+	.post-navigation .nav-links > div {
+		padding: 1rem;
+	}
+}

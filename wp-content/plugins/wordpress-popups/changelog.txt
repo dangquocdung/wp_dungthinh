@@ -1,0 +1,7 @@
+All notable changes to this project will be documented here.
+## [3.0] - NEW
+- NEW Pop-up type - Slide Pop-up that goes away if you scroll down
+- The option to display the popup for specific post ids supports multiple post ids
+
+## [2.0] - New design & Options
+## [1.0] - LAUNCH VERSION

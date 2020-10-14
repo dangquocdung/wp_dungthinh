@@ -1,0 +1,35 @@
+.product_meta {
+	> span {
+		display: block;
+		margin-bottom: 0.5rem;
+		label {
+			margin: 0 10px 0 0;
+			font-weight: 600;
+			font-size: 14px;
+			min-width: 100px;
+			@extend %heading-color;
+			@extend %font-primary;
+			text-transform: uppercase;
+		}
+		a {
+			color: inherit;
+			&:hover {
+				@extend %accent-text-color;
+			}
+		}
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.g5core__social-share.product {
+	margin-top: 0.5rem;
+	.g5core__share-label {
+		margin: 0 15px 0 0;
+		font-size: 12px;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+	}
+}

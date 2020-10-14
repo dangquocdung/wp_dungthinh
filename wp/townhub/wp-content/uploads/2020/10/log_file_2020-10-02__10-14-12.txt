@@ -1,0 +1,192 @@
+
+---Downloaded files---
+The import files for: TownHub theme - Full Demo Content (widgets included) were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/townhub
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/townhub/wp-content/themes/townhub/inc/demo_data_files/all-content.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/townhub/wp-content/themes/townhub/inc/demo_data_files/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Dashboard Feed : 
+
+TownHub Banner - No Title - Imported
+
+Blog Sidebar : 
+
+Tìm kiếm - Search - Imported
+Gallery ảnh - Our Instagram - Imported
+TownHub Recent Posts - Popular Posts - Imported
+TownHub Banner - No Title - Imported
+Mây Thẻ - Tags - Imported
+Chuyên mục - Categories - Imported
+TownHub Author - About Athor - Imported
+TownHub Twitter Feed - Twitter Feeds - Imported
+TownHub Instagram - Our Instagram - Imported
+
+Page Sidebar : 
+
+HTML Tùy chỉnh - About Us - Imported
+
+Shop Sidebar : 
+
+Product Search - Search Products - Imported
+Cart - Cart - Imported
+Product Categories - Product categories - Imported
+Products - Products - Imported
+Product Tag Cloud - Product tags - Imported
+Filter Products by Price - Filter by price - Imported
+
+Languages Switcher : 
+
+HTML Tùy chỉnh - No Title - Imported
+
+Subscribe Text : 
+
+HTML Tùy chỉnh - No Title - Imported
+
+Subscribe Form : 
+
+HTML Tùy chỉnh - No Title - Imported
+
+About Us : 
+
+Ảnh - No Title - Imported
+HTML Tùy chỉnh - No Title - Imported
+
+Our Last News : 
+
+TownHub Recent Posts - Our Last News - Imported
+
+Our Tweets : 
+
+TownHub Twitter Feed - Our Twitter - Imported
+
+Footer Menu : 
+
+Thanh điều hướng - Footer Menu - Imported
+HTML Tùy chỉnh - Languages - Imported
+
+
+
+---pt-ocdi/after_import---
+

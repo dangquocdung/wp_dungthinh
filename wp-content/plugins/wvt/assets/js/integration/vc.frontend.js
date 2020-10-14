@@ -1,0 +1,1 @@
+!function(t){"use strict";window.vc&&window.vc.events&&window.vc.events.on("shortcodeView:ready",function(t){"wvt"===t.attributes.shortcode&&vc.frame_window.wvt_iframe.wvt(t.attributes.id)})}(jQuery);

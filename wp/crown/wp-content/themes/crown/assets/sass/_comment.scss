@@ -1,0 +1,288 @@
+.comments-area {
+	margin-top: 60px;
+	.comments-title,
+	.comment-reply-title {
+		font-size: 1rem;
+		text-transform: uppercase;
+		font-weight: 600;
+		margin-bottom: 40px;
+	}
+}
+.comment-form {
+	@extend %clearfix;
+
+	a {
+		color: inherit;
+	}
+
+	.logged-in-as {
+		a:hover {
+			@extend %heading-color;
+		}
+	}
+
+	textarea {
+		width: 100%;
+		display: block;
+		height: 150px;
+	}
+
+	.comment-form-author,
+	.comment-form-email,
+	.comment-form-url {
+		input {
+			width: 100%;
+		}
+	}
+
+	.comment-form-email,
+	.comment-form-author {
+		float: left;
+		width: 50%;
+	}
+
+	.comment-form-author {
+		padding-right: ($grid_gutter_width/2);
+	}
+
+	.comment-form-email {
+		padding-left: ($grid_gutter_width/2);
+	}
+
+	.comment-form-cookies-consent {
+		input[type="checkbox"] {
+			position: relative;
+			top: 2px;
+		}
+
+		label {
+			display: inline;
+			margin: 0 0 0 5px;
+		}
+	}
+
+
+	.mc4wp-checkbox-wp-comment-form {
+		input[type=checkbox] {
+			margin: 0 5px 0 0;
+			position: relative;
+			top: 2px;
+		}
+	}
+
+	@include media-xs() {
+		.comment-form-email,
+		.comment-form-author {
+			width: 100%;
+			padding: 0;
+		}
+	}
+}
+
+.comment-respond {
+	.form-submit {
+		margin-bottom: 0;
+	}
+}
+
+.comments-list-wrap {
+	margin-bottom: 60px;
+	padding-bottom: 60px;
+	border-bottom: 1px solid;
+	@extend %border-color;
+}
+
+.comment-list {
+	list-style: none;
+	padding: 0;
+	margin-bottom: 0;
+
+	li.comment {
+		margin-bottom: $margin_element;
+	}
+
+	> li.comment:last-child {
+		margin-bottom: 0;
+	}
+
+	li.comment + li.comment {
+		padding-top: $margin_element;
+	}
+
+	.comment-content {
+		h1, h2, h3, h4, h5, h6 {
+			margin-top: 2rem;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			&:first-child {
+				margin-top: 0;
+			}
+		}
+	}
+
+	ul.children {
+		list-style: none;
+		padding-left: 0;
+		margin-left: 75px;
+		margin-top: $margin_element;
+		padding-top: $margin_element;
+	}
+	.comment-meta {
+		margin-bottom: 1.125rem;
+		@include d-flex();
+		@include align-items-center();
+		@include flex-wrap();
+		.comment-author {
+			@include flex-grow-1();
+		}
+		.edit-link {
+			margin-left: 1rem;
+		}
+	}
+
+	.comment-reply-link {
+		font-size: 0.6875rem;
+		@extend %heading-color;
+		&:before {
+			font-family: $font_icon;
+			display: inline-block;
+			content: "\f075";
+			font-weight: 900;
+			margin-right: 5px;
+		}
+		&:hover {
+			@extend %accent-text-color;
+		}
+	}
+
+	li:not(.pingback):not(.trackback){
+		.comment-body {
+			position: relative;
+			padding-left: 100px;
+		}
+	}
+	li.pingback,
+	li.trackback{
+		margin-bottom: 0.5rem;
+
+		+ .comment {
+			margin-top: 1.5rem;
+		}
+	}
+
+
+	.comment-author {
+		img {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 80px;
+			border-radius: 100%;
+		}
+
+		.fn,
+		.fn > a {
+			@extend %heading-color;
+			@extend %font-primary;
+			font-weight: 600;
+		}
+		.says {
+			display: none;
+		}
+	}
+
+	li.comment > .comment-respond {
+		margin-top: 2rem;
+		.comment-reply-title {
+			margin-bottom: 1rem;
+		}
+	}
+
+
+
+	.comment-reply-title {
+		small {
+			a {
+				display: inline-block;
+				vertical-align: middle;
+				margin-bottom: 6px;
+				padding: 0.5rem 1rem;
+				font-size: 0.5rem;
+				text-transform: uppercase;
+				background-color: #222;
+				color: #fff;
+				line-height: 1;
+			}
+		}
+	}
+
+	.comment-metadata {
+		font-size: 0.6875rem;
+		a {
+			color: inherit;
+		}
+	}
+}
+
+
+.comments-pagination {
+	margin-top: 2.5rem;
+	text-align: right;
+}
+
+@include media-xs() {
+	.comment-list ul.children {
+		margin-left: 20px;
+	}
+	.comments-area {
+		overflow-x: hidden;
+	}
+}
+
+@media (min-width: 992px) {
+	body.no-sidebar {
+		.comments-area {
+			position: relative;
+			padding: 60px 0;
+			margin-bottom: -60px;
+			&:before {
+				content: '';
+				background-color: #fafafa;
+				position: absolute;
+				width: 100vw;
+				left: 50%;
+				margin-left: -50vw;
+				top: 0;
+				bottom: 0;
+			}
+			.no-comments {
+				position: relative;
+			}
+		}
+
+		.comments-list-wrap,
+		.comment-respond {
+			position: relative;
+		}
+
+		.comment-form {
+			textarea {
+				background-color: #fff;
+			}
+
+			.comment-form-author,
+			.comment-form-email,
+			.comment-form-url {
+				input {
+					background-color: #fff;
+				}
+			}
+
+		}
+	}
+}
+
+
+
+
+

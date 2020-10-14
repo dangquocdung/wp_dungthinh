@@ -1,0 +1,38 @@
+.darkThemeCategoriesTitle{
+	color:#666666 !important;
+	margin:5px !important;
+	margin-top:6px !important;
+	line-height:16px !important;
+	font-weight:100 !important;
+}
+
+.darkThemeBold{
+	font-weight:bold !important;
+	color:#111111 !important;
+}
+
+.darkThemeCategoriesDescription{
+	color:#BBBBBB !important;
+	margin:5px !important;
+	margin-top:-4px !important;
+	line-height:16px !important;
+	line-height:16px !important;
+	font-weight:100 !important;
+}
+
+.gallery1DecHeader{
+	font-family:myFont, Arial;
+	font-size:22px;
+	margin:8px;
+	color:#666666;
+	font-weight:bold;
+}
+
+.gallery1DescP{
+	font-size:14px;
+	margin:8px;
+	margin-top:6px;
+	margin-bottom:6px;
+	color:#555555;
+	line-height:18px;
+}

@@ -1,0 +1,1 @@
+var wvt_iframe={};!function(t){"use strict";window.wvt_iframe.wvt=function(a){var i=t("[data-model-id='"+a+"']"),r=t(i).find(".wvt-panorama");if(r.length){var w=r.attr("id");wvtp.create(w,wvtf[w])}}}(window.jQuery);

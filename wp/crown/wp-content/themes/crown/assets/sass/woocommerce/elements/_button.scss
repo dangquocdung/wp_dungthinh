@@ -1,0 +1,90 @@
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+  @extend %font-primary;
+  @include button-size($height_button_wc, 30px, 14px);
+  border: solid 1px transparent;
+  white-space: nowrap;
+  text-transform: uppercase;
+  @include border-radius(0);
+  @include transition(color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out);
+  @include button-variant(#fff,#1b1b1b,#1b1b1b);
+  font-weight: 600;
+  &.loading {
+    opacity: 1;
+    @include button-size($height_button_wc, 30px, 14px);
+    &:after {
+      top: 0;
+    }
+  }
+
+  &.disabled,
+  &:disabled,
+  &:disabled[disabled] {
+    @include button-size($height_button_wc, 30px, 14px);
+    @include button-variant(#fff,#1b1b1b,#1b1b1b);
+  }
+
+  &.alt {
+    @include button-variant(#fff,#1b1b1b,#1b1b1b);
+    &.disabled {
+      @include button-variant(#fff,#1b1b1b,#1b1b1b);
+    }
+  }
+
+}
+
+#add_payment_method .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button {
+  @include button-size($height_button_wc, 30px, 14px);
+}
+
+.woocommerce .woocommerce-error .button,
+.woocommerce .woocommerce-info .button,
+.woocommerce .woocommerce-message .button {
+  @include button-size(30px, 14px, 11px);
+}
+
+
+.woocommerce a.remove {
+  font-size: 0 !important;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  &:before {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 300;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    content: '\f00d';
+    font-size: 14px;
+    @extend %disabled-color;
+  }
+  &:hover {
+    background-color: transparent;
+    &:before {
+      @extend %accent-text-color;
+    }
+  }
+}
+
+.single_add_to_cart_button {
+  &:before {
+    font-size: 14px;
+    font-family: 'Font Awesome 5 Pro';
+    content: '\f07a';
+    font-weight: 400;
+    margin-right: 10px;
+  }
+}
+
+.woocommerce .wishlist_table .add_to_cart.button {
+  @include button-size($height_button_wc, 30px, 14px);
+}

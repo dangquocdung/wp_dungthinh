@@ -1,0 +1,103 @@
+/******************************************************/
+/** button **/
+.AArpr-button {
+	cursor: pointer;
+	display: inline-block;
+	margin: 0px;
+	font-family: "Roboto";
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	line-height: normal;
+	color: #5f3a71;
+	border: none;
+	padding: 12px 24px;
+	background-color: #95a5a6;
+	font-weight: 700;
+	border-radius: 4px;
+}
+	.AArpr-button:hover {
+		background-color: #382740 !important;
+  		color: #fee50e !important;
+	}
+	.AArpr-button:active {
+		color: #fff !important;
+	}
+	
+	.AArpr-button.AArpr-small {
+		padding: 6px 7px;
+		font-size: 11px;
+		box-shadow: none !important;
+	}
+	
+	.AArpr-button.red {
+		background-color: #e74c3c;
+	}
+	.AArpr-button.green {
+		background-color: #2ecc71;
+	}
+	.AArpr-button.blue {
+		background-color: #3498db;
+	}
+	.AArpr-button.yellow {
+		background-color: #fee50e;
+	}
+
+
+/******************************************************/
+/** box log messages **/
+.AArpr-insane-logs {
+}
+		.AArpr-insane-logs li {
+			border: 1px solid #EDE7F2;
+			width: 100%;
+			margin: 5px 0px 10px 0px;
+			padding: 5px 0px 5px 0px;
+			position: relative;
+		}
+			.AArpr-insane-logs li:before {
+				background: none repeat scroll 0 0 #BDC3C7;
+			    content: "";
+			    height: 33px;
+			    left: -1px;
+			    position: absolute;
+			    top: -1px;
+			    width: 40px;
+			}
+				.AArpr-insane-logs li.AArpr-log-error:before {
+					background-color: #e74c3c;
+				}
+				.AArpr-insane-logs li.AArpr-log-success:before {
+					background-color: #2ecc71;
+				}
+			.AArpr-insane-logs li i.fa {
+				font-size: 18px;
+				width: 20px;
+				text-align: center;
+				color: #fff;
+				position: relative;
+				bottom: -2px;
+				margin: 0px 15px 0px 10px;
+			}
+			.AArpr-insane-logs li span {
+				/*display: inline-block;*/
+				font-size: 11px;
+				margin: 0px 0px 0px 10px;
+			}
+			.AArpr-insane-logs li span.AArpr-insane-logs-msg {
+				display: inline-block;
+				margin-top: 5px;
+			}
+				.AArpr-insane-logs li span.AArpr-insane-logs-frame:before {
+					content: "[ ";
+					font-size: 14px;
+				}
+				.AArpr-insane-logs li span.AArpr-insane-logs-frame:after {
+					content: " ]";
+					font-size: 14px;
+				}
+			.AArpr-insane-logs li p {
+				display: inline-block;
+				padding: 0px 0px 0px 15px;
+				margin: 0px 0px 0px 0px;
+			}

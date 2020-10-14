@@ -1,0 +1,244 @@
+# Copyright (C) 2019 Opinioner
+# This file is distributed under the same license as the Opinioner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Opinioner\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/opinioner/opinioner.php:148
+msgid "Opinions"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:149
+msgid "Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:150, wp-content/plugins/opinioner/opinioner.php:151
+msgid "Add New Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:152
+msgid "Edit Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:153
+msgid "New Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:154
+msgid "View Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:155
+msgid "View Opinions"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:156
+msgid "Search Opinions"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:157
+msgid "No Opinions found"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:158
+msgid "No Opinions found in Trash"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:159
+msgid "All Opinions"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:160
+msgid "Opinion Archives"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:161
+msgid "Opinion Attributes"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:162
+msgid "Insert into Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:163
+msgid "Uploaded to this Opinion"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:164
+msgid "Opinion Image"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:165
+msgid "Set Opinion image"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:166
+msgid "Remove Opinion image"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:167
+msgid "Use as Opinion image"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:168
+msgid "Opinioner"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:388, wp-content/plugins/opinioner/opinioner.php:402
+msgid "Exceeded the limit of votes from one IP."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:679, wp-content/plugins/opinioner/opinioner.php:935, wp-content/plugins/opinioner/opinioner.php:1414
+msgid "Facebook"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:683, wp-content/plugins/opinioner/opinioner.php:938, wp-content/plugins/opinioner/opinioner.php:1419
+msgid "Twitter"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:687, wp-content/plugins/opinioner/opinioner.php:941
+msgid "VKontakte"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:692, wp-content/plugins/opinioner/opinioner.php:947
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-content/plugins/opinioner/opinioner.php:876
+msgid "Values"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:879
+msgid "Chart"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:882
+msgid "Voting status"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:883
+msgid "Actions"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:896
+msgid "Opinion preview"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:949
+msgid "Votes"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1042
+msgid "Left value:"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1047
+msgid "Right value:"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1070
+msgid "Voting is open"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1071
+msgid "Voting closed"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1087
+msgid "Shorcode"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1304
+msgid "Opinioner Settings"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1305
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1325
+msgid "Opinioner plugin allows you to ask questions to readers of articles and evaluates the answers."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1357
+msgid "Color"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1360
+msgid "Message before vote"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1363
+msgid "Message after vote"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1366
+msgid "Social share buttons"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1369
+msgid "Smoothness"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1384
+msgid "You can add custom message after voting."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1399
+msgid "You can add custom message before voting."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1411
+msgid "Choose a social networks to share the voting."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1424
+msgid "VK"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1438
+msgid "Select a key color to modify the design"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1451
+msgid "Graph smoothing factor"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1471
+msgid "Vote!"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1471
+msgid "Drag the slider and make your voice heard."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1472
+msgid "Thanks for voting!"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1472
+msgid "Get your friends to vote, share this page."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1552
+msgid "Preview"
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1587
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/opinioner/opinioner.php:1602
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""

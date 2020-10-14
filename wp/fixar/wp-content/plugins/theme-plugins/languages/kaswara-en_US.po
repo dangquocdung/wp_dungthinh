@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Theme Plugins\n"
+"POT-Creation-Date: 2017-10-12 17:59+0300\n"
+"PO-Revision-Date: 2017-10-12 17:59+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: theme-plugins.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: shortcode.php:6
+msgid "Share this post"
+msgstr ""
+
+#: shortcode.php:29 shortcode.php:39 shortcode.php:50
+msgid "Twitter"
+msgstr ""
+
+#: shortcode.php:30 shortcode.php:38 shortcode.php:49
+msgid "Facebook"
+msgstr ""
+
+#: shortcode.php:31 shortcode.php:40 shortcode.php:51
+msgid "Google +"
+msgstr ""
+
+#: theme-plugins-widgets.php:19
+msgid "Tmpl Static Block Widget"
+msgstr ""
+
+#: theme-plugins-widgets.php:21
+msgid "Displays your static block in widget"
+msgstr ""
+
+#: theme-plugins-widgets.php:57
+msgid "Title:"
+msgstr ""
+
+#: theme-plugins-widgets.php:62
+msgid "Static Block:"
+msgstr ""
+
+#: theme-plugins-widgets.php:105
+msgid "Display Services Categories"
+msgstr ""
+
+#: theme-plugins-widgets.php:109 theme-plugins-widgets.php:151
+msgid "Services Categories"
+msgstr ""
+
+#: theme-plugins-widgets.php:130
+msgid "All services"
+msgstr ""
+
+#: theme-plugins-widgets.php:155 theme-plugins.php:120 theme-plugins.php:191
+#: theme-plugins.php:402 theme-plugins.php:442
+msgid "Title"
+msgstr ""
+
+#: theme-plugins.php:46
+msgctxt "post type general name"
+msgid "Static Blocks"
+msgstr ""
+
+#: theme-plugins.php:47
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: theme-plugins.php:48
+msgctxt "admin menu"
+msgid "Static Blocks"
+msgstr ""
+
+#: theme-plugins.php:49
+msgctxt "add new on admin bar"
+msgid "Static Block"
+msgstr ""
+
+#: theme-plugins.php:50
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: theme-plugins.php:51
+msgid "Add New Block"
+msgstr ""
+
+#: theme-plugins.php:52
+msgid "New Block"
+msgstr ""
+
+#: theme-plugins.php:53
+msgid "Edit Block"
+msgstr ""
+
+#: theme-plugins.php:54
+msgid "View Block"
+msgstr ""
+
+#: theme-plugins.php:55
+msgid "All Blocks"
+msgstr ""
+
+#: theme-plugins.php:56
+msgid "Search Block"
+msgstr ""
+
+#: theme-plugins.php:57
+msgid "Parent Block:"
+msgstr ""
+
+#: theme-plugins.php:58
+msgid "No blocks found."
+msgstr ""
+
+#: theme-plugins.php:59
+msgid "No blocks found in Trash."
+msgstr ""
+
+#: theme-plugins.php:84 theme-plugins.php:85
+msgid "Portfolio"
+msgstr ""
+
+#: theme-plugins.php:97 theme-plugins.php:168
+msgid "Edit Work"
+msgstr ""
+
+#: theme-plugins.php:105
+msgid "Categories"
+msgstr ""
+
+#: theme-plugins.php:106 theme-plugins.php:123
+msgid "Category"
+msgstr ""
+
+#: theme-plugins.php:121 theme-plugins.php:192
+msgid "Featured Image"
+msgstr ""
+
+#: theme-plugins.php:122
+msgid "ID"
+msgstr ""
+
+#: theme-plugins.php:124 theme-plugins.php:194 theme-plugins.php:226
+msgid "Description"
+msgstr ""
+
+#: theme-plugins.php:156
+msgid "Services"
+msgstr ""
+
+#: theme-plugins.php:157
+msgid "Service"
+msgstr ""
+
+#: theme-plugins.php:176
+msgid "Departments"
+msgstr ""
+
+#: theme-plugins.php:177 theme-plugins.php:193
+msgid "Department"
+msgstr ""
+
+#: theme-plugins.php:225
+msgid "Name"
+msgstr ""
+
+#: theme-plugins.php:227
+msgid "Slug"
+msgstr ""
+
+#: theme-plugins.php:228
+msgid "Count"
+msgstr ""
+
+#: theme-plugins.php:229 theme-plugins.php:433 theme-plugins.php:465
+msgid "Url"
+msgstr ""
+
+#: theme-plugins.php:275
+msgid "Static Block Description"
+msgstr ""
+
+#: theme-plugins.php:279
+msgid "Select the block to display at the bottom of the product page"
+msgstr ""
+
+#: theme-plugins.php:408 theme-plugins.php:446
+msgid "Additional Title"
+msgstr ""
+
+#: theme-plugins.php:414 theme-plugins.php:450
+msgid "Icon"
+msgstr ""
+
+#: theme-plugins.php:417 theme-plugins.php:453
+msgid "Icon class"
+msgstr ""
+
+#: theme-plugins.php:421 theme-plugins.php:456
+msgid "Image"
+msgstr ""
+
+#: theme-plugins.php:426
+msgid "Department Image"
+msgstr ""
+
+#: theme-plugins.php:430 theme-plugins.php:462
+msgid "Link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Theme Plugins"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://templines.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Additional functionality for theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://templines.com"
+msgstr ""

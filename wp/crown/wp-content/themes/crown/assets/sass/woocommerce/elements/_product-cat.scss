@@ -1,0 +1,10 @@
+.g5shop__loop-product-cat {
+  @extend %caption-color;
+  &:hover {
+    @extend %accent-text-color;
+  }
+}
+
+
+
+

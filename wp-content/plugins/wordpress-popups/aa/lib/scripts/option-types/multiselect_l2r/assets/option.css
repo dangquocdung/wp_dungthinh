@@ -1,0 +1,20 @@
+.AArpr-item-multiselect-l2r {
+	color: #000;
+}
+	.AArpr-item-multiselect-l2r .AArpr-multiselect-l2r-btn {
+		margin: 10px 0px 0px 0px;
+	}
+	.AArpr-item-multiselect-l2r .AArpr-multiselect-l2r-half {
+		float: left;
+		width: 49% !important;
+		height: 75%;
+	}
+		.AArpr-item-multiselect-l2r .AArpr-multiselect-l2r-half h5 {
+			padding: 0px 0px 0px 0px;
+			margin: 0px 0px 5px 0px;
+		}
+		.AArpr-item-multiselect-l2r .AArpr-multiselect-l2r-half select.multisel_l2r_available,
+		.AArpr-item-multiselect-l2r .AArpr-multiselect-l2r-half select.multisel_l2r_selected {
+			height: 80%;
+			width: 100%;
+		}

@@ -1,0 +1,11 @@
+.g5core__single-breadcrumbs {
+  @extend %caption-color;
+  .breadcrumb-leaf,
+  > li:hover {
+    @extend %accent-text-color;
+  }
+
+  .page-main-title {
+    @extend %heading-color;
+  }
+}

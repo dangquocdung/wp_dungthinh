@@ -1,0 +1,177 @@
+.woocommerce table.shop_table {
+  border-collapse: collapse !important;
+  @include border-radius(0);
+  @extend %border-color;
+  @extend %font-primary;
+  font-weight: 600;
+
+  th {
+    border: none;
+    padding: 15px 10px;
+
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    @extend %heading-color;
+  }
+
+  thead {
+    th {
+      background-color: #fafafa;
+    }
+  }
+
+
+
+  td {
+    border: none;
+    border-top: 1px solid;
+    padding: 15px 10px;
+    @extend %border-color;
+  }
+
+
+
+
+
+
+  .remove:before {
+    content: "\f2ed";
+  }
+
+  .product-subtotal {
+    font-weight: 700;
+  }
+
+  .product-price {
+    del {
+      color: inherit;
+      opacity: .5;
+      display: inline-block;
+      font-weight: 400;
+    }
+
+    ins {
+      background: transparent;
+      display: inline-block;
+      padding: 0;
+    }
+  }
+
+  .product-quantity {
+    label {
+      display: none;
+    }
+  }
+
+  .product-name {
+    a {
+      @extend %heading-color;
+      &:hover {
+        @extend %accent-text-color;
+      }
+    }
+  }
+
+
+  .product-total,
+  .product-subtotal,
+  .product-price {
+    @extend %heading-color;
+  }
+
+  tr.order-total,
+  tr.cart-subtotal,
+  tr.tax-rate {
+    td {
+      @extend %heading-color;
+    }
+  }
+
+}
+
+.woocommerce table.shop_table_responsive {
+  tr td:before {
+    @extend %heading-color;
+    font-weight: 500;
+  }
+}
+
+.woocommerce table.cart {
+  margin-bottom: 3rem;
+  td.actions {
+    .coupon {
+      .input-text {
+        padding: 0 0.75rem;
+        @extend %border-color;
+        height: $height_button_wc;
+      }
+    }
+  }
+}
+
+
+.woocommerce table.wishlist_table {
+  font-size: 1em;
+}
+
+@media (min-width: 769px) {
+  .woocommerce table.shop_table {
+    .product-remove {
+      text-align: center;
+      width: 50px;
+    }
+
+    .product-thumbnail {
+      width: 90px;
+      img {
+        width: auto;
+      }
+    }
+
+    .product-subtotal,
+    .product-price {
+      width: 140px;
+      text-align: center;
+    }
+
+    .product-quantity {
+      width: 140px;
+      text-align: center;
+    }
+  }
+
+  .woocommerce-cart table.cart {
+    td.actions {
+      .coupon {
+        .input-text {
+          width: 250px;
+        }
+      }
+    }
+  }
+}
+
+
+
+@media (max-width: 480px) {
+  .woocommerce-cart table.cart {
+    td.actions {
+      .coupon {
+        .button,
+        .input-text {
+          float: none;
+          width: 100%;
+        }
+
+        .input-text {
+          margin: 0 0 .5em 0;
+        }
+
+      }
+    }
+  }
+}
+
+
+
+

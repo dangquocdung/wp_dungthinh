@@ -1,0 +1,98 @@
+@import "../_variables";
+
+.gel-icon-box {
+    .description {
+        line-height: 23px;
+    }
+    .title {
+        > a {
+            &:hover {
+                @extend %accent-text-color;
+            }
+        }
+    }
+}
+
+.gel-icon-box-style-01, .gel-icon-box-style-02, .gel-icon-box-style-03 {
+    &.shape-default {
+        .icon {
+            margin-bottom: 33px;
+        }
+    }
+}
+
+.gel-icon-box-style-04.shape-icon {
+    .icon {
+        margin-right: 34px !important;
+    }
+}
+
+.gel-icon-box-style-05.shape-icon {
+    .icon {
+        margin-left: 34px !important;
+    }
+}
+
+.gel-icon-box-style-04.shape-default {
+    .icon {
+        text-align: center;
+        margin-right: 16px;
+    }
+}
+
+.gel-icon-box-style-05.shape-default {
+    .icon {
+        text-align: center;
+        margin-left: 16px;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .gel-icon-box-style-04.shape-default {
+        .icon {
+            @include flex(0 0 3rem);
+            margin-right: 10px !important;
+        }
+    }
+    .gel-icon-box-style-05.shape-default {
+        .icon {
+            @include flex(0 0 3rem);
+            margin-left: 10px !important;
+        }
+    }
+}
+
+.gel-icon-box-style-06, .gel-icon-box-style-07 {
+    .top-box {
+        margin-bottom: 20px !important;
+        i {
+            vertical-align: middle;
+        }
+    }
+}
+
+.gel-icon-box-style-06 {
+    .icon {
+        margin-right: 32px !important;
+    }
+}
+
+.gel-icon-box-style-07 {
+    .icon {
+        margin-left: 32px !important;
+    }
+}
+
+//mix class css img-box
+.gel-icon-box-title-mg-bt-5 {
+    .title {
+        margin-bottom: 5px;
+    }
+}
+
+.gel-icon-box-title-mg-right-0 {
+    .icon {
+        margin-right: 0 !important;
+        text-align: left !important;
+    }
+}

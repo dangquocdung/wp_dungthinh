@@ -1,0 +1,309 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://dungthinh.com/wp/gustablo
+Data file = /var/www/html/dungthinh/wp_dungthinh/wp/gustablo/wp-content/uploads/2020/10/demo-content-import-file_2020-10-02__10-14-47.xml
+Widget file = /var/www/html/dungthinh/wp_dungthinh/wp/gustablo/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-02__10-14-47.json
+Customizer file = /var/www/html/dungthinh/wp_dungthinh/wp/gustablo/wp-content/uploads/2020/10/demo-customizer-import-file_2020-10-02__10-14-47.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+
+
+------
+New AJAX call!
+[WARNING] Failed to import gallery_category Cheese
+[WARNING] Failed to import gallery_category Creative
+[WARNING] Failed to import gallery_category Delicate
+[WARNING] Failed to import food_category Delicious Dishes
+[WARNING] Failed to import gallery_category Fantasy
+[WARNING] Failed to import gallery_category Gustablo
+[WARNING] Failed to import food_category Italian Pizza
+[WARNING] Failed to import food_category Spanish Pasta
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "MINOSHI": Invalid post type food
+[WARNING] Failed to import "FLATIRON": Invalid post type food
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "Gustable Tomatoes Dish": Invalid post type gallery
+[WARNING] Failed to import "BURGER": Invalid post type food
+[WARNING] Failed to import "VERLINO": Invalid post type food
+[WARNING] Failed to import "Member 1": Invalid post type member
+[WARNING] Failed to import "Member 2": Invalid post type member
+[WARNING] Failed to import "Member 3": Invalid post type member
+[WARNING] Failed to import "Member 4": Invalid post type member
+[WARNING] Failed to import "Member 5": Invalid post type member
+[WARNING] Failed to import "Partner 1": Invalid post type partner
+[WARNING] Failed to import "Partner 2": Invalid post type partner
+[WARNING] Failed to import "Partner 3": Invalid post type partner
+[WARNING] Failed to import "Partner 4": Invalid post type partner
+[WARNING] Failed to import "Partner 5": Invalid post type partner
+[WARNING] Failed to import "Partner 6": Invalid post type partner
+[WARNING] Failed to import "Partner 7": Invalid post type partner
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Tìm kiếm - No Title - Widget already exists
+widget_socials - Social Contacts - Site does not support widget
+widget_news_post - Recent Posts - Site does not support widget
+Chuyên mục - No Title - Imported
+Mây Thẻ - No Title - Imported
+
+Sidebar Shop : 
+
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Imported
+Lọc sản phẩm theo bình chọn - Average rating - Imported
+Mây thẻ sản phẩm - Product tags - Imported
+Tìm kiếm sản phẩm - No Title - Imported
+Sản phẩm theo đánh giá - Top rated products - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Giỏ hàng - Cart - Imported
+
+Sidebar Footer 1 : 
+
+Văn bản - No Title - Imported
+widget_socials - No Title - Site does not support widget
+
+Sidebar Footer 2 : 
+
+widget_spacer - No Title - Site does not support widget
+widget_news_post - Recent Posts - Site does not support widget
+
+Sidebar Footer 3 : 
+
+widget_spacer - No Title - Site does not support widget
+Gallery ảnh - Photo Gallery - Imported
+
+Sidebar Footer 4 : 
+
+widget_spacer - No Title - Site does not support widget
+widget_information - Contact - Site does not support widget
+
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Tìm kiếm - No Title - Widget already exists
+widget_socials - Social Contacts - Site does not support widget
+widget_news_post - Recent Posts - Site does not support widget
+Chuyên mục - No Title - Widget already exists
+Mây Thẻ - No Title - Widget already exists
+
+Sidebar Shop : 
+
+Lọc sản phẩm bởi giá - Filter by price - Widget already exists
+Bộ lọc sản phẩm đang kích hoạt - Active filters - Widget already exists
+Lọc sản phẩm theo bình chọn - Average rating - Widget already exists
+Mây thẻ sản phẩm - Product tags - Widget already exists
+Tìm kiếm sản phẩm - No Title - Widget already exists
+Sản phẩm theo đánh giá - Top rated products - Widget already exists
+Các danh mục sản phẩm - Product categories - Widget already exists
+Giỏ hàng - Cart - Widget already exists
+
+Sidebar Footer 1 : 
+
+Văn bản - No Title - Widget already exists
+widget_socials - No Title - Site does not support widget
+
+Sidebar Footer 2 : 
+
+widget_spacer - No Title - Site does not support widget
+widget_news_post - Recent Posts - Site does not support widget
+
+Sidebar Footer 3 : 
+
+widget_spacer - No Title - Site does not support widget
+Gallery ảnh - Photo Gallery - Widget already exists
+
+Sidebar Footer 4 : 
+
+widget_spacer - No Title - Site does not support widget
+widget_information - Contact - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

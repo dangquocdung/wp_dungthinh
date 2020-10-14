@@ -1,0 +1,15 @@
+<wpml-config>    
+    <admin-texts>
+        <key name="architect_option">
+            <key name="phone_header" />
+            <key name="address" />
+            <key name="left_top" />
+            <key name="right_top" />
+            <key name="title_cs" />
+            <key name="stitle_cs" />
+            <key name="topleft_shop" />
+            <key name="top_head_shop" />
+            <key name="footer_text" />
+        </key>
+    </admin-texts>
+</wpml-config>

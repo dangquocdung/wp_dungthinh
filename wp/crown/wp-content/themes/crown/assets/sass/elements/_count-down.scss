@@ -1,0 +1,40 @@
+.gel-countdown {
+    @extend %font-primary;
+    .gel-countdown-value {
+        @extend %heading-color;
+    }
+}
+
+.gel {
+    font-size: 11px;
+}
+
+.countdown-view-demo {
+    .counterup {
+        font-size: 150px;
+        line-height: 1;
+        font-weight: 600;
+        color: #0d2cde;
+        background: -moz-linear-gradient(-76deg, fuchsia 0%, #0d2cde 100%);
+        background: -webkit-linear-gradient(-76deg, fuchsia 0%, #0d2cde 100%);
+        background: linear-gradient(-76deg, fuchsia 0%, #0d2cde 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        display: inline-block;
+    }
+    .gel-counter-suffix {
+        font-size: 50px;
+        vertical-align: sub;
+        margin-left: -30px;
+        color: #ff00ff;
+    }
+}
+
+.countdown-layout-landing {
+    .gel-counter-suffix {
+        font-size: 50px;
+        vertical-align: sub;
+        margin-left: -30px;
+        @extend %accent-foreground-color
+    }
+}
