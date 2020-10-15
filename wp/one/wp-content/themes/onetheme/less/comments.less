@@ -1,0 +1,279 @@
+#comments{
+	margin-bottom: 10px;
+	margin-top: 50px;
+	p{
+		margin: 20px 0;
+	}
+	
+	.comments-wrapper{
+		a{
+			&:hover{
+				color:@brand-color !important;
+			}
+		}
+		.comments-title{
+			font-family: @font-title;
+			color:#121212;
+			font-weight: bold;
+			font-size: 30px;
+			letter-spacing: 1.5px;
+			line-height: 1em;
+			text-transform: uppercase;
+			text-transform: uppercase;
+		    padding-bottom: 55px;
+		    border-bottom: 1px solid #eeeeee;
+		}
+
+		.comment-list{
+			margin: 0px;
+			padding: 0px;
+			list-style-type: none;
+			margin-bottom: 60px;
+
+			&>li{
+				overflow: hidden;
+				display: block;
+
+				article{
+					    overflow: hidden;
+					    display: block;
+					    width: 100%;
+					    padding-top: 30px;
+					    padding-bottom: 30px;
+					    border: 1px solid #eeeeee;
+					    margin-top: 10px;
+						padding-left: 30px;
+					img.avatar{
+						width: 60px;
+						height: 60px;
+						border-radius: 50%;
+						background: #eee;
+						float: left;
+					}
+					.comment-body{
+						margin-left: 100px;
+
+						.meta-data{
+							overflow: hidden;
+							position: relative;
+
+							.comment-author{
+								font-size: 17px;
+								text-decoration: none;
+								font-family: @font-title;
+								font-weight: 700;
+								text-transform: uppercase;
+								letter-spacing: 0.7px;
+								color: @color-title;
+								line-height: 17px;
+								display: inline-block;
+								margin-right: 10px;
+								position: relative;
+								&:hover{
+									color:@brand-color;
+								};
+							}
+
+							.comment-date{
+								font-size: 14px;
+								color: fade(@color-text, 80%);
+								display: inline-block;
+								line-height: 30px;
+								display: block;
+							}
+
+							.comment-reply{
+							    right: 30px;
+							    position: absolute;
+							    top: 0;
+							    background: #242424;
+							    border-radius: 6px;
+							    text-align: center;
+						        min-width: 65px;
+							    line-height: 25px;
+
+							    &:hover{
+									background:@brand-color;
+									color: #fff;
+								}
+
+								a{
+									font-size: 12px;
+									text-transform: uppercase;
+									font-weight: 700;
+									line-height: 10px;
+									text-decoration: none;
+									display: inline-block;
+									letter-spacing: 0.4px;
+									color: #fff;
+									.transition();
+									&:hover{
+										color: #fff !important;
+									}
+								}
+							}
+						}
+
+						.comment-content{
+							font-size: 14px;
+							line-height: 26px;
+							color: fade(@color-text, 100%);
+							font-family: @font-text;
+							font-style: italic;
+						}
+
+					}
+					.comment-content{
+						    display: inline-block;
+						    width: 91%;
+						    float: right;
+
+						    ul{
+								li{
+									margin: 0;
+								}
+							}
+							blockquote{
+						    	margin: 50px 51px;
+						    	padding: 25px 15px 30px;
+	    						position: relative;
+	  							text-align: center;
+	    						color: #fff;
+	    						letter-spacing: .6px;
+	    						background: rgba(0, 0, 0, 0.91);
+	    						background-size: cover;
+	    						font-weight: normal;
+	    						font-family: 'Bitter', serif;
+						    }
+					    }
+				    }
+				ul.children, ol.children{
+					padding-left: 130px;
+					list-style: none;
+				}
+			}
+		}
+	}
+}
+
+#respond{
+	.comment-reply-title{
+		font-family: @font-title;
+		position: relative;
+   		display: inline-block;
+    	padding-right: 22px;
+    	font-size: 22px;
+   		line-height: 16px;
+        letter-spacing: .5px;
+        font-weight: 700;
+        color: #242424;
+	}
+	.form-submit{
+
+		& > span{
+			display: block;
+			font-size: 12px;
+			margin-bottom: 20px;
+		}
+		input[type="submit"]{
+
+				display: block;
+				background: @brand-color;
+				color: #000;
+				font-weight: 700;
+				border: 1px solid @brand-color;
+				outline: none;	
+				margin-top: 30px;
+				border-radius: 3px;
+				text-decoration: none;
+				text-transform: uppercase;
+				font-size: 15px;
+				margin: auto;
+				padding: 0 33px;
+				-webkit-transition: all .4s ease;
+			       -moz-transition: all .4s ease;
+			            transition: all .4s ease;
+
+			&:hover{
+				background-color: transparent;
+				color:#000;
+				border: 1px solid @brand-color;
+
+				-webkit-transition: all .4s ease;
+			       -moz-transition: all .4s ease;
+			            transition: all .4s ease;
+			}
+		}
+	}	
+	.logged-in-as{
+		padding-bottom:30px;
+		text-align: left; 
+		a{
+			color:#000;
+			&:hover{ 
+				color:@brand-color;
+				text-decoration: none;
+				.transition();
+			 }
+
+		}
+	}
+}
+.comment_item{
+	padding-top:15px;
+	padding-bottom:15px;
+	input{
+	    padding: 20px;
+        outline: none;
+        border: 1px solid #eee;
+	}
+	textarea{
+		padding: 20px 20px;
+        outline: none;
+        border: 1px solid #eee;
+        min-height: 140px;
+	}
+	
+}
+.depth-5{
+	.comment-reply{
+		display: none;
+	}
+}
+/*----------------------------------------------------------------------*/
+/* CONTACT FORM */
+/*----------------------------------------------------------------------*/
+.wpc-contact-form { margin-top: 46px; }
+.wpc-contact-form.contact-form-fieldset {
+    position: relative;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    margin-bottom: 9px;
+    overflow: hidden; }
+.wpc-contact-form .contact-form-label {
+    position: absolute;
+    left: 30px;
+    width: 15px;
+    padding: 28px 0 24px;
+    color: #dcdcdc;
+    font-size: 16px; }
+.wpc-contact-form .contact-inp {
+    float: left;
+    width: 100%;
+    padding: 28px 30px 24px 64px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 14px;
+    color: #afafaf;
+    letter-spacing: .4px; }
+.wpc-contact-form .contact-inp:focus + .contact-form-label {
+    color: @brand-color;
+    -webkit-transform: rotateY(360deg);
+    transform: rotateY(360deg);
+    -webkit-transition: all ease-in .6s;
+    transition: all ease-in .6s; }
+.wpc-contact-form .contact-message {
+    resize: none;
+    min-height: 177px; 
+}
